@@ -15,20 +15,7 @@ post_class: post-template
         
 		<div class="col-md-8 col-lg-8">
 			<div class="mainheading">              
-                
-                <!-- Post Categories -->
-                <div class="after-post-tags">
-                    <ul class="tags">
-                        {% assign sortedCategories = page.categories | sort %}
-                        {% for category in sortedCategories %}
-                        <li>
-                         <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <!-- End Categories -->
-                
+
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1> 
                 
@@ -70,31 +57,6 @@ post_class: post-template
               {% endif %}
             </div>
             <!-- End Prev/Next -->
-            
-            
-             <!-- Author Box -->
-                {% if page.author %}				
-				<div class="row post-top-meta">
-					<div class="col-md-2">
-						<img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
-					</div>
-					<div class="col-md-10">
-						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
-						<span class="author-description">{{ author.description }}</span>						
-					</div>
-				</div>				
-                {% endif %}
-            
-            
-            <!-- Begin Comments
-            ================================================== -->
-            <!-- <section>
-            <div id="comments">                          
-                {% include disqus.html %} 
-            </div>
-            </section> -->
-            <!--End Comments
-            ================================================== -->
 			
 		</div>
 		<!-- End Post -->
