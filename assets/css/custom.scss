@@ -17,20 +17,21 @@
 	background-color: #1E315B;
 }
 
-.intro .btn {
-	background-color: #1E315B;
+.btn {
+	background-color: #1E315B !important;
+	color: white;
 }
 
-.intro .btn:hover {
-	background: #5b6e98;
+.btn:hover {
+	background: #5b6e98 !important;
 }
 
 #mc_embed_signup .button {
-	background-color: #1E315B;
+	background-color: #1E315B !important;
 }
 
 #mc_embed_signup .button:hover {
-	background-color: #5b6e98;
+	background-color: #5b6e98 !important;
 }
 
 .footer {
