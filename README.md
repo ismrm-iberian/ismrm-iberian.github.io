@@ -1,2 +1,5 @@
 # ismrm-iberian.github.io
-ISMRM Iberian Chapter website
+
+Website of the ISMRM Iberian Chapter.
+
+Based on the [Affiliates theme by wowthemes](https://www.wowthemes.net/free-jekyll-template-affiliates/).
