@@ -14,16 +14,16 @@
 }
 
 .navbar-toggleable-md .navbar-nav .nav-link.highlight {
-	background-color: #1E315B;
+	background-color: #1E315B !important;
 }
 
 a.btn {
-	color: white;
+	color: white !important;
 }
 
 .btn {
 	background-color: #1E315B !important;
-	color: white;
+	color: white !important;
 }
 
 .btn:hover {
@@ -32,6 +32,7 @@ a.btn {
 
 .btn-primary {
 	background-color: #1E315B !important;
+	border-color: #1E315B !important;
 }
 
 .btn-primary:hover {
@@ -47,6 +48,6 @@ a.btn {
 }
 
 .footer {
-	background-color: #1E315B;
-	color: #b4b4b4;
+	background-color: #1E315B !important;
+	color: #b4b4b4 !important;
 }
