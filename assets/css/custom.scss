@@ -13,12 +13,27 @@
 	color: rgba(0,0,0,.5);
 }
 
+.navbar-toggleable-md .navbar-nav .nav-link.highlight {
+	background-color: #1E315B;
+}
+
+.intro .btn {
+	background-color: #1E315B;
+}
+
 .intro .btn:hover {
-	/* box-shadow: 0 0 11px rgba(33,33,33,.2); */
-	background: #d6cb05;
+	background: #5b6e98;
+}
+
+#mc_embed_signup .button {
+	background-color: #1E315B;
 }
 
 #mc_embed_signup .button:hover {
-	background-color: #453caf !important;
+	background-color: #5b6e98;
 }
 
+.footer {
+	background-color: #1E315B;
+	color: #b4b4b4;
+}
