@@ -9,4 +9,4 @@ Amig@ Iberic@ provides the opportunity for early career members to network with 
 
 We will help you find your best **Amig@ Iberic@** and make sure you're **amig@s for life**!
 
-![walking]({{ site.baseurl }}/assets/images/Iberian_amigo.png)
+![walking]({{ site.baseurl }}/assets/images/Iberian_amigo.png){ width=50% }
