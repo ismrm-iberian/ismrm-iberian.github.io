@@ -91,3 +91,7 @@ span.navigation:before {
 .sidebar ul li a {
     border-bottom: 1px solid #D4D4D4 !important;
 }
+
+.sidebar ul li a:hover {
+    color: rgba(0,0,0,.7) !important;
+}
