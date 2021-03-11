@@ -4,58 +4,72 @@ title: Home
 ---
 
 <!-- Home Jumbotron
-================================================== -->    
+================================================== -->
 <section class="intro full-width">
-    <div class="wrapintro">
-        <h1>ISMRM Iberian Chapter</h1>
-        <h2 class="lead">"Affiliates" is a Jekyll theme designed & developed by WowThemesNet, best suitable for affiliate marketing.</h2>    
-        <a href="" class="btn">Meetings 2021</a>
-    </div>
+  <div class="wrapintro">
+    <h1>ISMRM Iberian Chapter</h1>
+    <h2 class="lead">
+      "Affiliates" is a Jekyll theme designed & developed by WowThemesNet, best
+      suitable for affiliate marketing.
+    </h2>
+    <a href="" class="btn">Meetings 2021</a>
+  </div>
 </section>
-
 
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
+  <div class="section-title">
+    <h2><span>Featured</span></h2>
+  </div>
 
-    <div class="section-title">
-        <h2><span>Featured</span></h2>
-    </div>
-
-    <div class="row listfeaturedtag">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
-    </div>
-
+  <div class="row listfeaturedtag">
+    {% for post in site.posts %} {% if post.featured == true %} {% include
+    featuredbox.html %} {% endif %} {% endfor %}
+  </div>
 </section>
 
+<!-- Posts
+================================================== -->
+
 <section class="recent-posts row">
+  <div class="col-sm-4">{% include sidebar.html %}</div>
 
-    <div class="col-sm-4">
-        {% include sidebar.html %}
+  <div class="col-sm-8">
+    <div class="section-title">
+      <h2><span>All Stories</span></h2>
     </div>
 
-    <div class="col-sm-8">
-
-        <div class="section-title">
-            <h2><span>Our sponsors</span></h2>
-        </div>
-
-        <div class="masonrygrid row listrecent">
-
-            <p>Sponsors image should go here.</p>
-
-        </div> 
-
+    <div class="masonrygrid row listrecent">
+      {% for post in paginator.posts %} {% unless post.featured == true %} {%
+      include postbox.html %} {% endunless %} {% endfor %}
     </div>
 
+    <!-- Pagination -->
+    <div class="bottompagination">
+      <span class="navigation" role="navigation">
+        {% include pagination.html %}
+      </span>
+    </div>
+  </div>
+</section>
+
+<!-- Sponsors
+================================================== -->
+
+<section class="recent-posts row">
+  <div class="col-sm-4">
+    <a class="twitter-timeline" href="https://twitter.com/ISMRMIberian?ref_src=twsrc%5Etfw">Tweets by ISMRMIberian</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+
+  <div class="col-sm-8">
+    <div class="section-title">
+      <h2><span>Our Sponsors</span></h2>
+    </div>
+
+    <div class="masonrygrid row listrecent">
+        <p>A picture of our sponsors will go here.</p>
+    </div>
+
+  </div>
 </section>
