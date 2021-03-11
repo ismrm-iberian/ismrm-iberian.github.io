@@ -81,9 +81,13 @@ a.btn {
 }
 
 span.navigation:before {
-	background-color: #E0E0E0 !important;
+	background-color: #D4D4D4 !important;
 }
 
 .section-title h2:before {
-	background-color: #E0E0E0 !important;
+	background-color: #D4D4D4 !important;
+}
+
+.sidebar ul li a {
+    border-bottom: 1px solid #D4D4D4 !important;
 }
