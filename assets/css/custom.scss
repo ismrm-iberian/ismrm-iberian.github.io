@@ -74,3 +74,16 @@ a.btn {
 .card img {
 	border-radius: 5px !important;
 }
+
+// Lines
+.sidebar-section {
+    box-shadow: 0 0px 1px 0 rgb(0 0 0 / 70%);
+}
+
+span.navigation:before {
+	background-color: rgb(0 0 0 / 70%);
+}
+
+.section-title h2:before {
+	background-color: rgb(0 0 0 / 70%);
+}
