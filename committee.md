@@ -3,14 +3,10 @@ layout: page
 title: Current Committee
 ---
 
-## Executive Commmittee
+## Executive Committee
 
-![walking]({{ site.baseurl }}/assets/images/Iberian_Executive_Committee_v2.png)
-
-## Trainee Representatives
-
-![walking]({{ site.baseurl }}/assets/images/Iberian_Trainee_Committee_v2.png)
+![]({{ site.baseurl }}/assets/images/ExecutiveCommittee.png)
 
 ## Ambassadors
 
-Eneko Uruñuela-Tremiño, Web Design. 
+![]({{ site.baseurl }}/assets/images/Ambassadors.png)
