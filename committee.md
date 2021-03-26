@@ -5,8 +5,12 @@ title: Current Committee
 
 ## Executive Committee
 
-![]({{ site.baseurl }}/assets/images/ExecutiveCommittee.png)
+<div class="committee-pictures">
+    <img src="{{ site.baseurl }}/assets/images/ExecutiveCommittee.png"/>
+</div>
 
 ## Ambassadors
 
-![]({{ site.baseurl }}/assets/images/Ambassadors.png)
+<div class="committee-pictures">
+    <img src="{{ site.baseurl }}/assets/images/Ambassadors.png"/>
+</div>
