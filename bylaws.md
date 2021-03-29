@@ -27,7 +27,7 @@ title: Bylaws
 
 (xi) To cooperate with local, regional and national authorities as well as public or private organisations to achieve the above-mentioned aims.
 
-## Memebership
+## Membership
 
 **Ordinary Membership** is open to any professional with an interest in magnetic resonance and its
 application to medicine and biology, and who is resident in Portugal or Spain (any nationality), or who is a
