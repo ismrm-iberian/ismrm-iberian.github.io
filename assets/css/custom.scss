@@ -151,14 +151,15 @@ span.navigation:before {
 
 // Intro box
 .wrapintro {
+    background: none !important;
     width: 600px;
     padding: 2rem;
     max-width: 90%;
     margin: 0px auto;
     text-align: center;
-    color: white;
+    color: white !important;
 }
 
 .wrapintro h1 {
-   font-size: 52px;
+   font-size: 52px !important;
 }
