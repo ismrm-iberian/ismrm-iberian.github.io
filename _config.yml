@@ -5,7 +5,7 @@ description: "Website for the ISMRM Iberian Chapter"
 meta_description: "Website for the ISMRM Iberian Chapter."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-paginate: 12
+paginate: 4
 baseurl: '/'
 email: 'iberianchapter@gmail.com'
 
