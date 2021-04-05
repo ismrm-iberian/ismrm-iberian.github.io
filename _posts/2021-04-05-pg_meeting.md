@@ -5,6 +5,7 @@ author: ana
 # categories: [ Jekyll, tutorial ]
 image: assets/images/pg_conference_logo.png
 featured: true
+summary: "The annual Postgraduate (PG) Symposium of the British and Irish Chapter of the International Society for Magnetic Resonance in Medicine (BIC-ISMRM) will be organized for the first time ever in collaboration with the newly formed Iberian ISMRM Chapter!"
 ---
 
 Hi, Olá and Hola all,
