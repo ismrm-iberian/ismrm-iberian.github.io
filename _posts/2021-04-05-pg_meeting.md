@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Postgraduate Meeting 2021"
-author: Ana
+author: ana
 # categories: [ Jekyll, tutorial ]
 image: assets/images/pg_conference_logo.png
 featured: true
