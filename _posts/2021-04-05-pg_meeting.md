@@ -5,7 +5,7 @@ author: ana
 # categories: [ Jekyll, tutorial ]
 image: assets/images/pg_conference_logo.png
 featured: true
-summary: "This year’s meeting will be held online on April 15th and 16th 2021 in the afternoon"
+summary: "This year’s meeting will be held online on April 15th and 16th 2021 in the afternoon."
 ---
 
 Hi, Olá and Hola all,
