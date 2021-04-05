@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Annual Meeting"
+title:  "Annual Meeting 2021"
 author: diego
 # categories: [ Jekyll, tutorial ]
 image: assets/images/programme_at_a_glance_2021.png
