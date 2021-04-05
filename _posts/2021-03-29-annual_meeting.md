@@ -16,7 +16,7 @@ Our program seeks to highlight the translational pipeline for MR research, inclu
 
 There will also be plenty of chances for one-on-one discussions and informal networking. Specifically, there will be excellent opportunities for interaction between trainees and established researchers, as well as among trainees.
 
-Finally, we would like to wholeheartedly thank the volunteers who have offered to help with the organization of this meeting. If you are interested in the activities of the ISMRM Iberian Chapter, let us know [@ISMRMIberian](https://twitter.com/ISMRMIberian)!
+Finally, we would like to wholeheartedly thank the volunteers who have offered to help with the organization of this meeting. If you are interested in the activities of the ISMRM Iberian Chapter, let us know <a target="_blank" href="https://twitter.com/ISMRMIberian">@ISMRMIberian</a>!
 We look forward to meeting old friends and making new friends at our First Annual Meeting!
 
 Diego Hernando, PhD
