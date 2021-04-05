@@ -4,7 +4,7 @@ title:  "Successful ISMRM Iberian collaboration"
 author: teresa
 # categories: [ Jekyll, tutorial ]
 image: assets/images/successful_collab.jpeg
-summary: "Successful <a target="_blank" href="https://twitter.com/hashtag/ISMRM_Iberian?src=hashtag_click">#ISMRM_Iberian</a> collaboration 🇪🇸🤝🇵🇹 <a target="_blank" href="https://twitter.com/rtppt">@rtppt</a>"
+summary: "Successful ISMRM Iberian collaboration 🇪🇸🤝🇵🇹"
 ---
 
 Successful <a target="_blank" href="https://twitter.com/hashtag/ISMRM_Iberian?src=hashtag_click">#ISMRM_Iberian</a> collaboration 🇪🇸🤝🇵🇹 <a target="_blank" href="https://twitter.com/rtppt">@rtppt</a>
