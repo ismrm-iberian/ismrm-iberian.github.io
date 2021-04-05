@@ -19,12 +19,8 @@ This year’s meeting will be held online on April 15th and 16th 2021 in the aft
 
 We are looking forward to seeing you at the conference, we hope you'll be happy to (virtually) put yourself out there!
 
-<div class="committee-pictures">
-  <img src="{{ site.baseurl }}/assets/images/ana_laura.png"/>
-</div>
+<img src="{{ site.baseurl }}/assets/images/ana_laura.png" width="100%"/>
                                                                  
 To find more details, check our meeting website [here](https://us14.campaign-archive.com/?e=__test_email__&u=1c9cc503b3f3f5c9fe4e18b16&id=7fec540bd8)!
 
-<div class="committee-pictures">
-  <img src="{{ site.baseurl }}/assets/images/pg_meeting_2021_programme_at_glance.png"/>
-</div>
+<img src="{{ site.baseurl }}/assets/images/pg_meeting_2021_programme_at_glance.png" width="100%"/>
