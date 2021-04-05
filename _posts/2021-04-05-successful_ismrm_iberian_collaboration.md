@@ -3,7 +3,7 @@ layout: post
 title:  "Successful ISMRM Iberian collaboration"
 author: teresa
 # categories: [ Jekyll, tutorial ]
-image: assets/images/successful_colab.jpeg
+image: assets/images/successful_collab.jpeg
 ---
 
 Successful [#ISMRM_Iberian](https://twitter.com/hashtag/ISMRM_Iberian?src=hashtag_click) collaboration 🇪🇸🤝🇵🇹 [@rtppt](https://twitter.com/rtppt)
