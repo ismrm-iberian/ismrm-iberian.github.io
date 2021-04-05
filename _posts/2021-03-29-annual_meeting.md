@@ -31,3 +31,7 @@ ISMRM Iberian Chapter Executive Committee:
 - Teresa Correia, PhD (Director of Communications)
 - Luis Miguel Lacerda, PhD (Postdoc Rep)
 - Ana Fouto (Student Rep)
+
+
+# **The Abstract Submission is now opened!**
+Please submit your [abstract before the 28th of April](https://forms.gle/RHH8uhoYyHRhqH9HA)
