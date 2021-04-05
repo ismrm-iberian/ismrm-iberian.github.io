@@ -27,6 +27,9 @@ authors:
   #   web: https://www.wowthemes.net/category/jekyll-themes/
   #   twitter: https://twitter.com/wowthemesnet
   #   description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  teresa:
+    name: Teresa
+    display_name: Teresa
 
 
 # Plugins
