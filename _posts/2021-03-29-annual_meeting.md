@@ -34,4 +34,4 @@ ISMRM Iberian Chapter Executive Committee:
 
 
 # **The Abstract Submission is now opened!**
-Please submit your [abstract before the 28th of April](https://forms.gle/RHH8uhoYyHRhqH9HA)
+Please submit your <a target="_blank" href="https://forms.gle/RHH8uhoYyHRhqH9HA">abstract before the 28th of April</a>
