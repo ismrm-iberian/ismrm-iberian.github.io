@@ -16,22 +16,21 @@ authors:
     display_name: Diego
     gravatar: 16309852?v=4
     # email: wowthemesnet@gmail.com
-    # web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/dherarr
+    web: https://twitter.com/dherarr
     # description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   ana:
     name: Ana
     display_name: Ana
-  #  gravatar: b1cc14991db7a456fcd761680bbc8f81
+    gravatar: 71497582?v=4
   #   email: wowthemesnet@gmail.com
-  #   web: https://www.wowthemes.net/category/jekyll-themes/
+    web: https://twitter.com/FoutoAna
   #   twitter: https://twitter.com/wowthemesnet
   #   description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
   teresa:
     name: Teresa
     display_name: Teresa
     gravatar: 49432711?v=4
-    twitter: https://twitter.com/TeresaM2Correia
+    web: https://twitter.com/TeresaM2Correia
 
 
 # Plugins
