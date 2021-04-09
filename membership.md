@@ -3,7 +3,6 @@ layout: page
 title: Membership
 ---
 
-## Membership
 
 **Ordinary Membership** is open to any professional with an interest in magnetic resonance and its
 application to medicine and biology, and who is resident in Portugal or Spain (any nationality), or who is a
