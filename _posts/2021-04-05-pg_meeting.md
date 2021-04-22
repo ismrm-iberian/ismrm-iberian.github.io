@@ -30,25 +30,30 @@ To find more details, check our meeting website [here](https://us14.campaign-arc
 **Congratulations** to the **winners** of the best oral and poster presentations:
 
 **Oral presentations**
+
 **1st** Phoebe Evans 
         Centre for Advanced Medical Imaging, Division of Medicine, UCL, UK
         Title: Cardiac-rhythm linked perivascular fluid movement reduced in pharmacological model of hypertension
+                
 **2nd** Rita Ferreira Gil
         Champalimaud Research, Champalimaud Centre for the Unknown, Lisbon, PT 
         Title:  Dissecting sources of superior colliculus negative BOLD responses in the rat visual pathway
+        
 **3rd** Alix Plumley 
         Brain Research Imaging Centre, School of Psychology, Cardiff University, UK
         Title: Motion-resolved B1+ prediction in parallel-transmit using deep neural networks.
         
 
 **Poster presentations**
+
 **1st** Gabriela Belsley
         Oxford Centre for Clinical Magnetic Resonance Research, Radcliffe Department of Medicine, University of Oxford, UK
         Title: Correction of Through Slice B0-Gradient Dephasing Errors in Double Angle Method B1+ and T1 mapping at 3T
+
 **2nd** Jaime Caballero-Insaurriaga 
         Centre for Integrative Neuroscience A.C. (HM CINAC), Mostoles, Madrid, ES 
         Title: Non-invasive brain stimulation modulates corticostriatal activity
+
 **3rd** Inês Esteves
         ISR-Lisboa and Department of Bioengineering IST, Universidade de Lisboa, Lisbon, PT
         Title: Evaluation of ECG-derived respiration signals obtained in the EEG-fMRI environment
-
