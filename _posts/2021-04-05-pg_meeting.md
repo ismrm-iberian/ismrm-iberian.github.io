@@ -39,7 +39,6 @@ To find more details, check our meeting website [here](https://us14.campaign-arc
         Champalimaud Research, Champalimaud Centre for the Unknown, Lisbon, PT 
         Title:  Dissecting sources of superior colliculus negative BOLD responses in the rat visual pathway
         
-       
 **3rd** Alix Plumley 
         Brain Research Imaging Centre, School of Psychology, Cardiff University, UK
         Title: Motion-resolved B1+ prediction in parallel-transmit using deep neural networks.
@@ -58,4 +57,3 @@ To find more details, check our meeting website [here](https://us14.campaign-arc
 **3rd** Inês Esteves
         ISR-Lisboa and Department of Bioengineering IST, Universidade de Lisboa, Lisbon, PT
         Title: Evaluation of ECG-derived respiration signals obtained in the EEG-fMRI environment
-
