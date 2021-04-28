@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PG Meeting 2021"
-author: teresa
+author: rita
 # categories: [ Jekyll, tutorial ]
 image: assets/images/pgmeetingcollage_2021.png
 summary: "Great science and networking at the PG Meeting 2021!"
