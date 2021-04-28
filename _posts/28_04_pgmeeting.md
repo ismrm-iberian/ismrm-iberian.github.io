@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "PG Meeting 2021"
+author: teresa
+# categories: [ Jekyll, tutorial ]
+image: assets/images/pgmeetingcollage_2021.png
+summary: "Great science and networking at the PG Meeting 2021!"
+---
+
+Great science and networking at the PG Meeting 2021 jointly organised with the British&Irish ISMRM Chapter!
