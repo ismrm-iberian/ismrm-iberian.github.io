@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PG Meeting 2021"
+title:  "Past PG Meeting 2021"
 author: rita
 # categories: [ Jekyll, tutorial ]
 image: assets/images/pgmeetingcollage_2021.png
