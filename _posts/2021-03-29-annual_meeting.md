@@ -34,5 +34,5 @@ ISMRM Iberian Chapter Executive Committee:
 - Ana Fouto (Student Rep)
 
 
-# **The Abstract Submission is now open!**
-Please submit your <a target="_blank" href="https://forms.gle/RHH8uhoYyHRhqH9HA">abstract before the 28th of April</a>
+# **The Abstract Submission deadline has been extended!**
+Please submit your <a target="_blank" href="https://forms.gle/RHH8uhoYyHRhqH9HA">abstract before the 3rd of May</a>
