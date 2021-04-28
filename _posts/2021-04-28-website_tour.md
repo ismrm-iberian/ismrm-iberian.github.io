@@ -4,7 +4,7 @@ title:  "Website Tour"
 author: teresa
 # categories: [ Jekyll, tutorial ]
 image: assets/images/website.png
-featured: true
+featured: false
 summary: "Quick tour of the website."
 ---
 
