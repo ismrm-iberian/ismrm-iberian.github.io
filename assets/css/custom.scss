@@ -169,3 +169,9 @@ span.navigation:before {
 section.recent-posts {
     margin-top: 20px;
 }
+
+// Older posts button color
+.bottompagination span.navigation a {
+    background-color: #1E315B !important;
+    color: white !important;
+}
