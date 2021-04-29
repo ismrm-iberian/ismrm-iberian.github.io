@@ -3,7 +3,7 @@ layout: post
 title:  "Past PG Meeting 2021"
 author: rita
 # categories: [ Jekyll, tutorial ]
-image: assets/images/pgmeetingcollage_2021.png
+image: assets/images/pgmeeting_collage.png
 summary: "Great science and networking at the PG Meeting 2021!"
 ---
 
