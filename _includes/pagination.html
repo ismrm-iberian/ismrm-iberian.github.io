@@ -1,6 +1,6 @@
 <nav class="pagination" role="pagination">
     {% if paginator.previous_page %} {% if paginator.previous_page == 1 %}
-    <a class="newer-posts" href="{{site.baseurl}}/" title="Previous Page"
+    <a class="newer-posts" href="{{ '/' | relative_url }}" title="Previous Page"
         >&laquo; Newer</a
     >
     {% else %}
