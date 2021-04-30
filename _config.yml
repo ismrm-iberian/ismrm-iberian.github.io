@@ -3,11 +3,10 @@ name: "ISMRM Iberian Chapter"
 title: "ISMRM Iberian Chapter"
 description: "Website for the ISMRM Iberian Chapter"
 meta_description: "Website for the ISMRM Iberian Chapter."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: "assets/images/logo.png"
+favicon: "assets/images/favicon.ico"
 paginate: 4
-baseurl: '/'
-email: 'iberianchapter@gmail.com'
+email: "iberianchapter@gmail.com"
 
 # Authors
 authors:
@@ -22,7 +21,7 @@ authors:
     name: Ana
     display_name: Ana
     gravatar: 71497582?v=4
-  #   email: wowthemesnet@gmail.com
+    #   email: wowthemesnet@gmail.com
     web: https://twitter.com/FoutoAna
   #   twitter: https://twitter.com/wowthemesnet
   #   description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
@@ -37,23 +36,22 @@ authors:
     gravatar: 36857476?v=4
     web: https://twitter.com/RitaGNunes
 
-
 # Plugins
-plugins: 
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-        
+
 # Archives
 jekyll-archives:
   enabled:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
-    
+    category: "/category/:name/"
+
 # Other
 markdown: kramdown
 highlighter: rouge
