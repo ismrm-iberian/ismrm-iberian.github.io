@@ -7,7 +7,7 @@
                 <a href="{{ post.url | absolute_url }}">
                     <div
                         class="thumbnail"
-                        style="background-image:url({{ site.baseurl }}/{{ post.image }});"
+                        style="background-image:url({{ '/' | relative_url }}{{ post.image }});"
                     ></div>
                 </a>
             </div>
