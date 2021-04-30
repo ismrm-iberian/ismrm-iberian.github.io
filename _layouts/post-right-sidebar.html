@@ -8,67 +8,76 @@ post_class: post-template
 <!-- Begin Article
 ================================================== -->
 
-	<div class="row">
+<div class="row">
+    <!-- Post -->
+    {% assign author = site.authors[page.author] %}
 
-		<!-- Post -->        
-        {% assign author = site.authors[page.author] %}
-        
-		<div class="col-md-8 col-lg-8">
-			<div class="mainheading">              
+    <div class="col-md-8 col-lg-8">
+        <div class="mainheading">
+            <!-- Post Title -->
+            <h1 class="posttitle">{{ page.title }}</h1>
+        </div>
 
-                <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1> 
-                
-			</div>
+        <!-- Post Featured Image -->
+        {% if page.image %}<img
+            class="featured-image img-fluid"
+            src="{{ site.baseurl }}/{{ page.image }}"
+            alt="{{ page.title }}"
+        />{% endif %}
+        <!-- End Featured Image -->
 
-			<!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
-			<!-- End Featured Image -->
+        <!-- Post Content -->
+        <div class="article-post">
+            {{content}}
+            <div class="clearfix"></div>
+        </div>
 
-			<!-- Post Content -->
-			<div class="article-post">
-				{{content}}
-                <div class="clearfix"></div>
-			</div>
-
-            <!-- Post Date -->
-            <p>
+        <!-- Post Date -->
+        <p>
             <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-                {% if page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                {% endif %}
-                </small>
-            </p>
-            
-			
-            
-            <!-- Prev/Next -->
-            <div class="row PageNavigation mt-4 prevnextlinks">
-              {% if page.previous.url %}
-                <div class="col-md-6 rightborder pl-0">
-                    <a class="thepostlink" href="{{page.previous.url | absolute_url}}">&laquo; {{page.previous.title}}</a>
-                </div>
-              {% endif %}
-              {% if page.next.url %}
-                <div class="col-md-6 text-right pr-0">
-                    <a class="thepostlink" href="{{page.next.url | absolute_url}}">{{page.next.title}} &raquo;</a>
-                </div>
-              {% endif %}
-            </div>
-            <!-- End Prev/Next -->
-			
-		</div>
-		<!-- End Post -->
-        
-        <!-- Right Sidebar -->
-        <div class="col-md-4 col-lg-4">
-        <div class="sidebar-right">
-        {% include sidebar.html %}
-        </div>
-        </div>
+                <span class="post-date"
+                    ><time
+                        class="post-date"
+                        datetime='{{ page.date | date:"%Y-%m-%d" }}'
+                        >{{ page.date | date_to_string }}</time
+                    ></span
+                >
+                {% if page.last_modified_at %} (Updated:
+                <time
+                    datetime="{{ page.last_modified_at | date_to_xmlschema }}"
+                    itemprop="dateModified"
+                    >{{ page.last_modified_at | date: "%b %-d, %Y" }}</time
+                >) {% endif %}
+            </small>
+        </p>
 
-	</div>
+        <!-- Prev/Next -->
+        <div class="row PageNavigation mt-4 prevnextlinks">
+            {% if page.previous.url %}
+            <div class="col-md-6 rightborder pl-0">
+                <a
+                    class="thepostlink"
+                    href="{{page.previous.url | absolute_url}}"
+                    >&laquo; {{page.previous.title}}</a
+                >
+            </div>
+            {% endif %} {% if page.next.url %}
+            <div class="col-md-6 text-right pr-0">
+                <a class="thepostlink" href="{{page.next.url | absolute_url}}"
+                    >{{page.next.title}} &raquo;</a
+                >
+            </div>
+            {% endif %}
+        </div>
+        <!-- End Prev/Next -->
+    </div>
+    <!-- End Post -->
+
+    <!-- Right Sidebar -->
+    <div class="col-md-4 col-lg-4">
+        <div class="sidebar-right">{% include sidebar.html %}</div>
+    </div>
+</div>
 
 <!-- End Article
 ================================================== -->
