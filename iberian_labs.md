@@ -15,6 +15,6 @@ Main research topics: *perception, objects, mind wandering, collaborative robots
 
 Contact: Jorge Almeida, jorgealmeida@fpce.uc.pt
 
-Website: http://proactionlab.fpce.uc.pt/
+Website: [http://proactionlab.fpce.uc.pt/](http://proactionlab.fpce.uc.pt/)
 
 Twitter: @proactionlab
