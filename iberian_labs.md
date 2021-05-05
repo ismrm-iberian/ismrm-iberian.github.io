@@ -17,7 +17,7 @@ The **Biomedical Imaging Laboratory** lab works in translational research projec
 
 Main research topics: *arterial spin labeling, renal imaging, myocardial perfusion, cerebrovascular reactivity*
 
-Contact: Maria A. Fernández Seara, mfseara@unav.es
+Contact: Maria A. Fernández Seara, [mfseara@unav.es](mailto:mfseara@unav.es)
 
 Website: [https://www.cun.es/nuestros-profesionales/servicios-medicos/radiologia/biomedical-imaging-laboratory/](https://www.cun.es/nuestros-profesionales/servicios-medicos/radiologia/biomedical-imaging-laboratory/)
 ***
