@@ -8,6 +8,7 @@ If you would like your research group to be listed in our website, please fill i
 We will list only one entry per research institution/center (no duplicates).
 
 ## Iberian Labs
+
 * ### Biomedical Imaging Laboratory
 Clínica Universidad de Navarra
 
