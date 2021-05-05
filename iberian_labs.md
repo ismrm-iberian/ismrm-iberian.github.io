@@ -30,7 +30,7 @@ Coimbra, Portugal
 
 Main research topics: *cognitive neuroscience, neurodegenerative disorders, neurodevelopmental disorders, neuropsychiatric disorders*
 
-Contact: Miguel Castelo-Branco, mcbranco@fmed.uc.pt
+Contact: Miguel Castelo-Branco, [mcbranco@fmed.uc.pt](mailto:mcbranco@fmed.uc.pt)
 
 Website: [https://www.uc.pt/en/uid/cibit/](https://www.uc.pt/en/uid/cibit/)
 ***
@@ -43,7 +43,7 @@ Castilla y León, Spain
 
 Main research topics: *diffusion MRI, acquisition, image processing, cardiac MRI*
 
-Contact: Carlos Alberola, contact@lpi.tel.uva.es
+Contact: Carlos Alberola, [contact@lpi.tel.uva.es](mailto:contact@lpi.tel.uva.es)
 
 Website: [http://www.lpi.tel.uva.es/](http://www.lpi.tel.uva.es/)
 ***
@@ -56,7 +56,7 @@ The **Proaction Lab** focuses on Cognitive Neuroscience approaches to unravel th
 
 Main research topics: *perception, objects, mind wandering, collaborative robots*
 
-Contact: Jorge Almeida, jorgealmeida@fpce.uc.pt
+Contact: Jorge Almeida, [jorgealmeida@fpce.uc.pt](mailto:jorgealmeida@fpce.uc.pt)
 
 Website: [http://proactionlab.fpce.uc.pt/](http://proactionlab.fpce.uc.pt/)
 
@@ -71,23 +71,7 @@ The **SPIN** lab investigates methods and develops novel algorithms for acquisit
 
 Main research topics: *biomedical signal processing, functional MRI acquisition and analysis, calibrated fMRI, MRI*
 
-Contact: Cesar Caballero-Gaudes, c.caballero@bcbl.eu
+Contact: Cesar Caballero-Gaudes, [c.caballero@bcbl.eu](mailto:c.caballero@bcbl.eu)
 
 Website: [https://www.bcbl.eu/en/research/research-groups/signal-processing-neuroimaging/](https://www.bcbl.eu/en/research/research-groups/signal-processing-neuroimaging/)
 
-***
-## Iberians Around the World
-* ### Quantitative Imaging Methods Lab
-University of Wisconsin-Madison
-
-Madison, Wisconsin, USA
-
-The **Quantitative Imaging Methods Lab** develops new techniques, particularly for quantitative body MRI, and works with physicists, engineers, basic scientists, and clinicians, to validate and apply these techniques.
-
-Main research topics: *quantitative, diffusion, susceptibility, iron, fat*
-
-Contact: Diego Hernando, dhernando@wisc.edu
-
-Website: [https://qiml.radiology.wisc.edu/](https://qiml.radiology.wisc.edu/)
-
-Twitter: [@dherarr](https://twitter.com/dherarr)
