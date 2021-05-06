@@ -9,7 +9,7 @@ We will list only one entry per research institution/center (no duplicates).
 
 ## Iberian Labs
 
-* ### Biomedical Imaging Laboratory
+### Biomedical Imaging Laboratory
 Clínica Universidad de Navarra
 
 Pamplona, Spain
@@ -21,8 +21,9 @@ Main research topics: *arterial spin labeling, renal imaging, myocardial perfusi
 Contact: Maria A. Fernández Seara, [mfseara@unav.es](mailto:mfseara@unav.es)
 
 Website: [https://www.cun.es/nuestros-profesionales/servicios-medicos/radiologia/biomedical-imaging-laboratory/](https://www.cun.es/nuestros-profesionales/servicios-medicos/radiologia/biomedical-imaging-laboratory/)
-***
-* ### Coimbra Institute for Biomedical Imaging and Translational Research (CIBIT)
+
+
+### Coimbra Institute for Biomedical Imaging and Translational Research (CIBIT)
 University of Coimbra
 
 Coimbra, Portugal
@@ -34,8 +35,9 @@ Main research topics: *cognitive neuroscience, neurodegenerative disorders, neur
 Contact: Miguel Castelo-Branco, [mcbranco@fmed.uc.pt](mailto:mcbranco@fmed.uc.pt)
 
 Website: [https://www.uc.pt/en/uid/cibit/](https://www.uc.pt/en/uid/cibit/)
-***
-* ### Image Processing Lab (LPI)
+
+
+### Image Processing Lab (LPI)
 University of Valladolid
 
 Castilla y León, Spain
@@ -47,8 +49,9 @@ Main research topics: *diffusion MRI, acquisition, image processing, cardiac MRI
 Contact: Carlos Alberola, [contact@lpi.tel.uva.es](mailto:contact@lpi.tel.uva.es)
 
 Website: [http://www.lpi.tel.uva.es/](http://www.lpi.tel.uva.es/)
-***
-* ### Proaction Lab
+
+
+### Proaction Lab
 University of Coimbra
 
 Coimbra, Portugal
@@ -62,8 +65,9 @@ Contact: Jorge Almeida, [jorgealmeida@fpce.uc.pt](mailto:jorgealmeida@fpce.uc.pt
 Website: [http://proactionlab.fpce.uc.pt/](http://proactionlab.fpce.uc.pt/)
 
 Twitter: [@proactionlab](https://twitter.com/proactionlab)
-***
-* ### Signal Processing in Neuroimaging (SPIN)
+
+
+### Signal Processing in Neuroimaging (SPIN)
 Basque Center on Cognition, Brain and Language
 
 Donostia - San Sebastián, Spain 
