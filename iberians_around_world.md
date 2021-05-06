@@ -7,7 +7,7 @@ If you are an Iberian doing research outside Iberia and would like your research
 
 ## Iberians Around the World
 
-* ### Quantitative Imaging Methods Lab
+### Quantitative Imaging Methods Lab
 University of Wisconsin-Madison
 
 Madison, Wisconsin, USA
