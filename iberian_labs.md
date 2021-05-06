@@ -67,7 +67,7 @@ Website: [http://proactionlab.fpce.uc.pt/](http://proactionlab.fpce.uc.pt/)
 Twitter: [@proactionlab](https://twitter.com/proactionlab)
 
 
-### Signal Processing in Neuroimaging (SPIN)
+### Signal Processing in Neuroimaging (SPiN)
 Basque Center on Cognition, Brain and Language
 
 Donostia - San Sebastián, Spain 
@@ -79,4 +79,3 @@ Main research topics: *biomedical signal processing, functional MRI acquisition 
 Contact: Cesar Caballero-Gaudes, [c.caballero@bcbl.eu](mailto:c.caballero@bcbl.eu)
 
 Website: [https://www.bcbl.eu/en/research/research-groups/signal-processing-neuroimaging/](https://www.bcbl.eu/en/research/research-groups/signal-processing-neuroimaging/)
-
