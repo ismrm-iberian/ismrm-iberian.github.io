@@ -178,3 +178,12 @@ section.recent-posts {
 .bottompagination span.navigation a:hover {
     background: #5b6e98 !important;
 }
+
+// Link underline color
+.article-post {
+    box-shadow: inset 0 -2px 0 rgb(193 212 254), 0 2px 0 rgb(193 212 254);
+}
+
+.article-post a:hover {
+    box-shadow: inset 0 -2px 0 rgb(193 212 254), 0 2px 0 rgb(193 212 254);
+}
