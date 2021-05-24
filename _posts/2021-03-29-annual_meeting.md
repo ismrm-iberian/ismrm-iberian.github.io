@@ -33,6 +33,8 @@ ISMRM Iberian Chapter Executive Committee:
 - Luis Miguel Lacerda, PhD (Postdoc Rep)
 - Ana Fouto (Student Rep)
 
+# **NEW Plenary Speakers**
+<img src="{{ site.baseurl }}/assets/images/PlenarySpeakers4.png" width="80%"/>
 
 # **Registration now OPEN!**
 Register <a target="_blank" href="https://www.eventbrite.com/e/1st-ismrm-iberian-chapter-annual-meeting-2021-tickets-154002037239">HERE</a>
