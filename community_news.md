@@ -11,4 +11,4 @@ This information will be shared on our social media networks (e.g. Twitter, webs
 
 ## Latest newsletters
 
-- Special edition with the British and Irish Chapter. May 24th, 2021. <a href="https://mailchi.mp/8572954127f5/aqizcjy8ry" target="_blank>See here.</a>
+- Special edition with the British and Irish Chapter. May 24th, 2021. <a href="https://mailchi.mp/8572954127f5/aqizcjy8ry" target="_blank">See here.</a>
