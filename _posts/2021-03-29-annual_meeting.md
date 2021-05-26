@@ -3,7 +3,7 @@ layout: post
 title:  "Annual Meeting 2021"
 author: diego
 # categories: [ Jekyll, tutorial ]
-image: assets/images/Programme_at_a_glance.png
+image: assets/images/programme_at_a_glance_2021.png
 featured: true
 summary: "The first ISMRM Iberian annual meeting will be held fully online on June 16-17, 2021."
 ---
