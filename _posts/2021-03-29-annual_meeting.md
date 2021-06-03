@@ -38,7 +38,7 @@ ISMRM Iberian Chapter Executive Committee:
 - Ana Fouto (Student Rep)
 
 # **Meet our Speakers**
-<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_PlenarySpeakers.png" width="80%"/>
-<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_PreClinicalOralSession.png" width="80%"/>
-<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_ClinicalOralSession.png" width="80%"/>
+<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_PlenarySpeakers.png" width="100%"/>
+<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_PreClinicalOralSession.png" width="100%"/>
+<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_ClinicalOralSession.png" width="100%"/>
 
