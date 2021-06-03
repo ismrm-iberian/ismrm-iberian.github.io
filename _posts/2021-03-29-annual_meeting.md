@@ -7,6 +7,10 @@ image: assets/images/programme_at_a_glance_2021.png
 featured: true
 summary: "The first ISMRM Iberian annual meeting will be held fully online on June 16-17, 2021."
 ---
+
+# **Registration now OPEN!**
+Register <a target="_blank" href="https://www.eventbrite.com/e/1st-ismrm-iberian-chapter-annual-meeting-2021-tickets-154002037239">HERE</a>
+
 Dear friends and colleagues,
 
 On behalf of the ISMRM Iberian Chapter Committee, it is my pleasure to invite you all to our first Annual Chapter Meeting, to be held fully online on June 16-17, 2021.
@@ -33,8 +37,8 @@ ISMRM Iberian Chapter Executive Committee:
 - Luis Miguel Lacerda, PhD (Postdoc Rep)
 - Ana Fouto (Student Rep)
 
-# **NEW Plenary Speakers**
-<img src="{{ site.baseurl }}/assets/images/PlenarySpeakers4.png" width="80%"/>
+# **Meet our Speakers**
+<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_PlenarySpeakers.png" width="80%"/>
+<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_PreClinicalOralSession.png" width="80%"/>
+<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_ClinicalOralSession.png" width="80%"/>
 
-# **Registration now OPEN!**
-Register <a target="_blank" href="https://www.eventbrite.com/e/1st-ismrm-iberian-chapter-annual-meeting-2021-tickets-154002037239">HERE</a>
