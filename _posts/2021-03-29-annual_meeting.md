@@ -42,3 +42,8 @@ ISMRM Iberian Chapter Executive Committee:
 <img src="{{ site.baseurl }}/assets/images/2021IberianChapter_PreClinicalOralSession.png" width="80%"/>
 <img src="{{ site.baseurl }}/assets/images/2021IberianChapter_ClinicalOralSession.png" width="80%"/>
 
+# **Meet our Sponsors**
+
+We would like to thank the sponsors for our 1st ISMRM Iberian Chapter Annual Meeting.
+
+<img src="{{ site.baseurl }}/assets/images/sponsors_annual_2021.png" width="80%"/>
