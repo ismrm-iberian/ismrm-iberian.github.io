@@ -7,6 +7,7 @@ image: assets/images/programme_at_a_glance_2021.png
 featured: true
 summary: "The first ISMRM Iberian annual meeting will be held fully online on June 16-17, 2021."
 ---
+<iframe width="365" height="188" src="https://w2.countingdownto.com/3648651" frameborder="0"></iframe>
 
 # **Registration now OPEN!**
 Register <a target="_blank" href="https://www.eventbrite.com/e/1st-ismrm-iberian-chapter-annual-meeting-2021-tickets-154002037239">HERE</a>
