@@ -46,4 +46,4 @@ ISMRM Iberian Chapter Executive Committee:
 
 We would like to thank the sponsors of our 1st ISMRM Iberian Chapter Annual Meeting.
 
-<img src="{{ site.baseurl }}/assets/images/sponsors.png" width="80%"/>
+<img src="{{ site.baseurl }}/assets/images/Sponsors.png" width="80%"/>
