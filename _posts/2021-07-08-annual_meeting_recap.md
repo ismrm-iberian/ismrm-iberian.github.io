@@ -25,15 +25,22 @@ At the end of the day, researchers got together for an Iberian treasure hunt. Th
 The insightful MR imaging lectures continued on the 2nd day, now focusing on clinical MR. We had great talks by Dr. Pedrosa and Dr. Figueiredo. The former emphasized the clinical aspect and recent progress of MRI in kidney cancer and highlighted how MRI can help to discern between different types of benign and malignant tumors, eventually improving clinical diagnosis. Next, Dr. Figueiredo showed how probing dynamics and using multimodal imaging allows us to better understand human brain function and physiology.
 
 Once again, these lectures were followed by a clinical oral session covering good examples of the work done by the Iberian MR community (e.g. cardiac MRI, MRS, signal processing for fMRI and MRI-guided focused ultrasound) and an animated pre-clinical poster session. Both sessions were dynamic and interactive, with many attendees showing interest in the topics.
+
 To finalise the meeting, awards were given to best talks and posters, as well as for outstanding volunteers and winners of the social events. The first meeting of the chapter finished with the now traditional of a virtual conga line to the social area in Gather.Town (which is still accessible with all the posters).
+
+<img src="{{ site.baseurl }}/assets/images/20376a27-8152-aa04-bb9c-f6f5c455c91e.png" width="100%"/>
 
 ## 🏆 Awards
 
 Congratulations to the winners of the GE Healthcare and Bruker best poster and oral presentation awards!
 
+<img src="{{ site.baseurl }}/assets/images/1c45b117-0c3c-bd08-705b-4e78525522ce.png" width="100%"/>
+
 ## 🏖️ Social Event
 
 At the end of the first day of the congress, our social event took place through the Gather.Town platform. In this event we organized a gymkhana in which the attendees had to solve a series of challenges in a perhaps too short time of 5 minutes 😉. The tasks and questions covered gastronomic and cultural aspects of the Iberian Peninsula, historical notes on MRI or the ISMRM, or challenges in which the attendees were asked to prepare a cover song for the chapter, portray our chair, or explain to their grandmother the theoretical grounds of MRI in Portunhol. After that, we moved to another room where we made our digital version of the traditional game of chairs, which in my unbiased opinion was a total success. From the committee we would like to thank all the attendees for their motivation and desire to participate and of course congratulate the winner groups “Kirardo” and “MRI: Marvelous Researchers in Iberian”. We leave you a brief picto-summary of the event highlights.
+
+<img src="{{ site.baseurl }}/assets/images/70399db7-e13e-0d0a-8dea-14b7193e0809.png" width="100%"/>
 
 ## 🗣️ Your feedback
 
