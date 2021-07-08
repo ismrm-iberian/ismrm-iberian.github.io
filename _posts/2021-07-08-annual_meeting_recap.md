@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "1st ISMRM Iberian Chapter Annual Meeting - Recap"
-author: diego
+title: "Recap - 1st ISMRM Iberian Chapter Annual Meeting"
+author: teresa
 # categories: [ Jekyll, tutorial ]
 image: assets/images/programme_at_a_glance_2021.png
 featured: true
-summary: "The first ISMRM Iberian annual meeting will be held fully online on June 16-17, 2021."
+summary: "The first ISMRM Iberian annual meeting was a total success. Here are the highlights!"
 ---
 
 ## 📅 Day 1
@@ -38,3 +38,5 @@ At the end of the first day of the congress, our social event took place through
 ## 🗣️ Your feedback
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L1FPa6E0eJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[See the main meeting page](https://ismrm-iberian.eu/2021/03/29/annual_meeting.html).
