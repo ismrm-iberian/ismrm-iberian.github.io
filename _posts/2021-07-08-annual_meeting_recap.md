@@ -46,7 +46,9 @@ At the end of the first day of the congress, our social event took place through
 
 <img src="{{ site.baseurl }}/assets/images/f2646e5c-0d7e-1ff4-a7f2-43004e638253.png" width="100%"/>
 
-## 👩‍🏫🧑🏼‍🤝‍🧑🏻🕺📃🏆🏖️🐬🍹🌴 What really happened at the 1st ISMRM Iberian Chapter Annual Meeting... 
+## What really happened at the 1st ISMRM Iberian Chapter Annual Meeting... 
+
+👩‍🏫🧑🏼‍🤝‍🧑🏻🕺📃🏆🏖️🐬🍹🌴
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L1FPa6E0eJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
