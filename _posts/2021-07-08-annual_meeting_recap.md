@@ -52,6 +52,10 @@ At the end of the first day of the congress, our social event took place through
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L1FPa6E0eJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## ✨ Our sponsors
+
+<img src="{{ site.baseurl }}/assets/images/IBC_Sponsors.png" width="100%"/>
+
 This newsletter is brought to you by:
 
 <img src="{{ site.baseurl }}/assets/images/newsletter_contributors_july_2021.png" width="100%"/>
