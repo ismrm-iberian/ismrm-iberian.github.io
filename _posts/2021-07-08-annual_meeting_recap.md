@@ -54,7 +54,7 @@ At the end of the first day of the congress, our social event took place through
 
 ## ✨ Our sponsors
 
-<img src="{{ site.baseurl }}/assets/images/IBC_Sponsors.png" width="100%"/>
+<img src="{{ site.baseurl }}/assets/images/IBC_Sponsors.PNG" width="100%"/>
 
 This newsletter is brought to you by:
 
