@@ -34,6 +34,14 @@ We will list only one entry per research institution/center (no duplicates).
 - Website: [https://www.laseeb.org/](https://www.laseeb.org/)
 - Twitter: [@laseeb_isr](https://twitter.com/laseeb_isr)
 
+### Grup d'Aplicacions Biomèdiques de la RMN (GABRMN)
+
+- Universitat Autònoma de Barcelona. Cerdanyola del Vallès, Spain.
+- **GABRMN** focus on in-vivo and in-vitro metabolomics of preclinical brain tumors (MRI, MRS, MRSI)
+- Main research topics: *metabolomics, glioblastoma, magnetic resonance, machine learning, immune system*
+- Contact: Ana Paula Candiota [AnaPaula.Candiota at uab.cat](mailto:AnaPaula.Candiota@uab.cat)
+- Website: [https://www.ciber-bbn.es/grupos/grupo-de-investigacion?id=3562](https://www.ciber-bbn.es/grupos/grupo-de-investigacion?id=3562)
+
 ### Institute of Biophysics and Biomedical Engineering (IBEB)
 
 - Faculty of Sciences of the University of Lisbon. Lisbon, Portugal.
@@ -66,9 +74,16 @@ We will list only one entry per research institution/center (no duplicates).
 - Main research topics: *cardiac MRI, 3D optical imaging, quantitative imaging, image reconstruction, deep learning*
 - Contact: Teresa Correia, [tmcorreia at ualg.pt](mailto:tmcorreia@ualg.pt)
 - Website: [https://www.ccmar.ualg.pt/users/tmcorreia](https://www.ccmar.ualg.pt/users/tmcorreia)
-- Twitter [@TeresaM2Correia](https://twitter.com/TeresaM2Correia)
+- Twitter: [@TeresaM2Correia](https://twitter.com/TeresaM2Correia)
 
 ### Shemesh Lab
+
+- Champalimaud Foundation. Lisbon, Portugal
+- The long term goals of **Shemesh Lab** are to understand the mechanisms by which modifications in the tissue’s microstructure transcend globally and modulate function and behavior, and to explore the potential of these as early disease biomarkers.
+- Main research topics: *direct fMRI, multisensory stimuli, plasticity and brain development, tumor microenvironment, pre-malignant lesions*
+- Contact: Noam Shemesh, [noam.shemesh at neuro.fchampalimaud.org](mailto:noam.shemesh@neuro.fchampalimaud.org)
+- Website: [https://shemeshlab.org/](https://shemeshlab.org/)
+- Twitter: [@ShemeshL](https://twitter.com/ShemeshL)
 
 ### Signal Processing in Neuroimaging (SPiN)
 
