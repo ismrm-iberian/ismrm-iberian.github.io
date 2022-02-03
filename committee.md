@@ -14,3 +14,7 @@ title: Current Committee
 <div class="committee-pictures">
     <img src="{{ site.baseurl }}/assets/images/Ambassadors.png"/>
 </div>
+
+<div class="committee-pictures">
+    <img src="{{ site.baseurl }}/assets/images/Ambassadors_2021.png"/>
+</div>

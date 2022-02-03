@@ -4,7 +4,7 @@ title:  "Annual Meeting 2021"
 author: diego
 # categories: [ Jekyll, tutorial ]
 image: assets/images/programme_at_a_glance_2021.png
-featured: true
+featured: false
 summary: "The first ISMRM Iberian annual meeting will be held fully online on June 16-17, 2021."
 ---
 
@@ -38,12 +38,12 @@ ISMRM Iberian Chapter Executive Committee:
 - Ana Fouto (Student Rep)
 
 # **Meet our Speakers**
-<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_PlenarySpeakers.png" width="80%"/>
-<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_PreClinicalOralSession.png" width="80%"/>
-<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_ClinicalOralSession.png" width="80%"/>
+<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_PlenarySpeakers.png" width="100%"/>
+<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_PreClinicalOralSession.png" width="100%"/>
+<img src="{{ site.baseurl }}/assets/images/2021IberianChapter_ClinicalOralSession.png" width="100%"/>
 
 # **Meet our Sponsors**
 
-We would like to thank the sponsors for our 1st ISMRM Iberian Chapter Annual Meeting.
+We would like to thank the sponsors of our 1st ISMRM Iberian Chapter Annual Meeting.
 
 <img src="{{ site.baseurl }}/assets/images/sponsors_annual_2021.png" width="80%"/>
