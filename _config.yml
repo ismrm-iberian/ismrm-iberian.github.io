@@ -35,6 +35,16 @@ authors:
     display_name: Rita
     gravatar: 36857476?v=4
     web: https://twitter.com/RitaGNunes
+  joana:
+    name: Joana
+    display_name: Joana
+    gravatar: 66967359?v=4
+    web: https://twitter.com/joanacspinto
+  rita-o:
+    name: Rita
+    display_name: Rita
+    gravatar: 17729465?v=4
+    web:
 
 # Plugins
 plugins:
