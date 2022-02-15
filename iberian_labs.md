@@ -58,6 +58,14 @@ We will list only one entry per research institution/center (no duplicates).
 - Contact: Carlos Alberola, [contact at lpi.tel.uva.es](mailto:contact@lpi.tel.uva.es)
 - Website: [http://www.lpi.tel.uva.es/](http://www.lpi.tel.uva.es/)
 
+### NeuroImaging and Therapeutic UltraSound Group
+
+- HM CINAC (Centro Integral de Neurociencias Abarca Campal). Madrid, Spain.
+- The **NeuroImaging and Therapeutic UltraSound Group** develops neuroimaging and therapeutic ultrasound research in clinical and preclinical settings with the main objective of developing therapeutic strategies in movement disorders.
+- Main research topics: *clinical neuroimaging, focused ultrasound, drug delivery, non-invasive brain stimulation*
+- Contact: Jose A. Pineda, [jpineda.hmcinac at hmhospitales.com](mailto:jpineda.hmcinac@hmhospitales.com)
+- Website: [https://www.somoshmcinac.com/es/](https://www.somoshmcinac.com/es/)
+
 ### Proaction Lab
 
 - University of Coimbra. Coimbra, Portugal.
