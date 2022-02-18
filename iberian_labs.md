@@ -9,6 +9,15 @@ We will list only one entry per research institution/center (no duplicates).
 
 ## Iberian Labs
 
+### Advanced imaging in neuroimmunological diseases (ImaginEM)
+
+- Hospital Clinic Barcelona, Institut d’Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS) and Universitat de Barcelona. Barcelona, Spain.
+- The **ImaginEM group** combines technological development with the clinical application of new techniques in advanced magnetic resonance imaging in patients with neurological diseases such as MS.
+- Main research topics: *neuroimaging biomarkers, multiple sclerosis, machine learning tecniques*
+- Contact: Eloy Martinez-Heras, [emartind at clinic.cat](mailto:emartind@clinic.cat)
+- Website: [https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/advanced-imaging-in-neuroimmunological-diseases-imaginem](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/advanced-imaging-in-neuroimmunological-diseases-imaginem)
+- Twitter: [https://mobile.twitter.com/EmImagin](https://mobile.twitter.com/EmImagin)
+
 ### Biomedical Imaging Laboratory
 
 - Clínica Universidad de Navarra. Pamplona, Spain.
