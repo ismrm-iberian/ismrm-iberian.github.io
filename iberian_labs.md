@@ -67,6 +67,23 @@ We will list only one entry per research institution/center (no duplicates).
 - Contact: Carlos Alberola, [contact at lpi.tel.uva.es](mailto:contact@lpi.tel.uva.es)
 - Website: [http://www.lpi.tel.uva.es/](http://www.lpi.tel.uva.es/)
 
+### Metabolomics and Imaging Data lab (MIDAlab)
+
+- Universitat Autònoma de Barcelona. Cerdanyola del Vallès, Barcelona, Spain.
+- Currently, **MIDAlab** is focused in MR data analysis with machine learning techniques, to improve the diagnostic and prognostic characterisation of brain tumours. MIDAlab works mainly with MRS data of brain tumour patients acquired from hospitals.
+- Main research topics: *magnetic resonance spectroscopy, imaging, data, glioma, brain tumours*
+- Contact: Margarita Julià, [margarita.julia at uab.cat](mailto:margarita.julia@uab.cat)
+- Website: [https://orcid.org/0000-0002-3316-9027](https://orcid.org/0000-0002-3316-9027)
+
+### MRILab
+
+- Institute for Molecular Imaging and Instrumentation (CSIC & UPV). Valencia, Spain
+- The **MRILab** at i3M in Valencia blends quantum and medical physicists and engineers with a focus on low-cost high-performance MRI technologies.
+- Main research topics: *low-field MRI, portable MRI, hard-tissue MRI, high-efficiency pulse sequences, control systems*
+- Contact: Joseba Alonso, [joseba.alonso at i3m.upv.es](mailto:joseba.alonso@i3m.upv.es)
+- Website: [https://i3m-detectors.i3m.upv.es/research/magnetic-resonance-imaging-laboratory-mrilab/](https://i3m-detectors.i3m.upv.es/research/magnetic-resonance-imaging-laboratory-mrilab/)
+- Twitter: [@i3M_MITS](https://twitter.com/i3M_MITS)
+
 ### NeuroImaging and Therapeutic UltraSound Group
 
 - HM CINAC (Centro Integral de Neurociencias Abarca Campal). Madrid, Spain.
