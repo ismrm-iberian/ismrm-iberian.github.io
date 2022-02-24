@@ -78,7 +78,7 @@ We will list only one entry per research institution/center (no duplicates).
 ### Molecular and Functional Biomarkers
 
 - CIC Biomagune. San Sebastián, Spain.
-- **Molecular and Functional Biomarkers** main interested is cardiovascular diseases. The lab addresses the identification of new (early) imaging, biosignals, and system biology-derived markers helpful in diagnosing and monitoring new treatments
+- **Molecular and Functional Biomarkers** main interest is cardiovascular diseases. The lab addresses the identification of new (early) imaging, biosignals, and system biology-derived markers helpful in diagnosing and monitoring new treatments
 - Main research topics: *vascular imaging, pulmonary hypertension, atherosclerosis, flow imaging*
 - Contact: Jesus Ruiz-Cabello, [jruizcabello at cicbiomagune.es](mailto:jruizcabello@cicbiomagune.es)
 - Website: [www.mfbiomarkers.com](https://www.mfbiomarkers.com)
