@@ -75,6 +75,15 @@ We will list only one entry per research institution/center (no duplicates).
 - Contact: Margarita Julià, [margarita.julia at uab.cat](mailto:margarita.julia@uab.cat)
 - Website: [https://orcid.org/0000-0002-3316-9027](https://orcid.org/0000-0002-3316-9027)
 
+### Molecular and Functional Biomarkers
+
+- CIC Biomagune. San Sebastián, Spain.
+- **Molecular and Functional Biomarkers** main interest is cardiovascular diseases. The lab addresses the identification of new (early) imaging, biosignals, and system biology-derived markers helpful in diagnosing and monitoring new treatments
+- Main research topics: *vascular imaging, pulmonary hypertension, atherosclerosis, flow imaging*
+- Contact: Jesus Ruiz-Cabello, [jruizcabello at cicbiomagune.es](mailto:jruizcabello@cicbiomagune.es)
+- Website: [www.mfbiomarkers.com](https://www.mfbiomarkers.com)
+- Twitter: [@BiomagMfb](https://twitter.com/BiomagMfb)
+
 ### MRILab
 
 - Institute for Molecular Imaging and Instrumentation (CSIC & UPV). Valencia, Spain
