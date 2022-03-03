@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MRIberian Labs event"
-author: Rita
+author: rita-o
 # categories: [ Jekyll, tutorial ]
 image: assets/images/IberianLabs.gif
 featured: true
