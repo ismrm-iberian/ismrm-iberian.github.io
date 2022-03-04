@@ -23,11 +23,15 @@ Meanwhile the Iberian Chapter has a surprise for you!
 
 We are offering one **free ISMRM membership and registration** for this year's meeting (https://www.ismrm.org/22m/)!
 
-To participate you just need to send us a pre-recorded **3 min pitch** about why you should be the one receiving this award! You are eligible to participate if you have never: 1) been an ISMRM member and 2) attended an ISMRM meeting.
+To participate you just need to send us a pre-recorded **3 min pitch** about why you should be the one receiving this award! 
+
+You are **eligible** to participate if you have **NEVER**: 
+1) been an ISMRM member;
+2) attended an ISMRM meeting.
 
 Send us your video **until the 23rd of March** on this [forms](https://forms.gle/KUT27NJ6A4GANXnG7).
 
-The winner will be shared on the MRIberian Labs event! 🏆 
+The winner will be announced on the MRIberian Labs event! 🏆 
 
 
 Looking forward to see you soon 😄
