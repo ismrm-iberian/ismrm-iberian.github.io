@@ -26,7 +26,9 @@ We are offering one **free ISMRM membership and registration** for this year's m
 To participate you just need to send us a pre-recorded **3 min pitch** about why you should be the one receiving this award! 
 
 You are **eligible** to participate if you have **NEVER**: 
+
 1) been an ISMRM member;
+
 2) attended an ISMRM meeting.
 
 Send us your video **until the 23rd of March** on this [forms](https://forms.gle/KUT27NJ6A4GANXnG7).
