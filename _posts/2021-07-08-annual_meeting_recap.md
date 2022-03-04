@@ -4,7 +4,7 @@ title: "Recap - 1st ISMRM Iberian Chapter Annual Meeting"
 author: teresa
 # categories: [ Jekyll, tutorial ]
 image: assets/images/programme_at_a_glance_2021.png
-featured: true
+featured: false
 summary: "The first ISMRM Iberian annual meeting was a total success. Here are the highlights!"
 ---
 
