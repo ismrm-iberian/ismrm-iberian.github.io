@@ -13,8 +13,9 @@ The MRIberian Labs event is here! 🎉
 On the **6th of April** join us online to learn about the research done in Iberia 🧲 and after go to gathertown for a short gathering 🍹  
 You don't need to register, just join us on zoom at:
 
-**2 pm (🇵🇹 time)**  
-**3 pm (🇪🇸 time)**
+**2:30 pm (🇵🇹 time)**  
+**3:30 pm (🇪🇸 time)**
+
 
 Here is the line-up of the event!
 
