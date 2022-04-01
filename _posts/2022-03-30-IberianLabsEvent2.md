@@ -3,7 +3,7 @@ layout: post
 title:  "MRIberian Labs event - program!"
 author: rita-o
 # categories: [ Jekyll, tutorial ]
-image: assets/images/IberianLabsProgram.png
+image: assets/images/IberianLabsProgram_updated.png
 featured: true
 summary: "Join us online on April 6th for a gather of Iberian Labs."
 ---
