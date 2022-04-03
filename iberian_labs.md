@@ -18,6 +18,15 @@ We will list only one entry per research institution/center (no duplicates).
 - Website: [https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/advanced-imaging-in-neuroimmunological-diseases-imaginem](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/advanced-imaging-in-neuroimmunological-diseases-imaginem)
 - Twitter: [@EmImagin](https://mobile.twitter.com/EmImagin)
 
+### Biomedical Magnetic Resonance
+
+- Instituto de Investigaciones Biomédicas "Alberto Sols", CSIC-UAM, Madrid, Spain.
+- The **Biomedical Magnetic Resonance** lab focuses on three main lines: i) imaging markers of neuroinflammation, ii) characterization of the tumor microenvironment in animal models of glioblastoma, and iii) development of multi-targeted theragnostic liposomes
+- Main research topics: *neuroinflammation, glioblastoma, brain disorders, obesity, theragnostic nanoparticles*
+- Contact: Pilar Lopez-Larrubia, [plopez at iib.uam.es](mailto:plopez@iib.uam.es)
+- Website: www.iib.uam.es
+- Twitter: [@plopezlarrubia](https://twitter.com/plopezlarrubia)
+
 ### Biomedical Imaging Laboratory
 
 - Clínica Universidad de Navarra. Pamplona, Spain.
