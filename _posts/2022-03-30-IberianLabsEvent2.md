@@ -16,6 +16,11 @@ You don't need to register, just join us on zoom at:
 **2:30 pm (🇵🇹 time)**  
 **3:30 pm (🇪🇸 time)**
 
+💻 [Zoom link](https://videoconf-colibri.zoom.us/j/82238584430?pwd=dENkRU5XUisxMVVLa1pEQXZQc0lTUT09)  
+Password: Lynx
+
+💻 [Gathertwon link](https://app.gather.town/app/hF3YwqXLIPhlWEpI/ISMRM-IberianChapter)  
+Password: Ayamonte
 
 Here is the line-up of the event!
 
