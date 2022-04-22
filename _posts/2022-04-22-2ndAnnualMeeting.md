@@ -18,9 +18,9 @@ The meeting will also include oral and poster sessions where Chapter members wil
 
 The conference programme will also include time to explore this wonderful city and to network at our social events. I am looking forward to hosting you and I am certain that this presential meeting will lead to many fruitful discussions and future Iberian collaborations!
 
-Rita Nunes, PhD
-Chair of the 2022 Annual Meeting of the ISMRM Iberian Chapter
-Chair of the ISMRM Iberian Chapter
+<p>Rita Nunes, PhD <br>
+Chair of the 2022 Annual Meeting of the ISMRM Iberian Chapter <br>
+Chair of the ISMRM Iberian Chapter </p>
 
 ISMRM Iberian Chapter Executive Committee:
 - Rita Nunes, PhD (Chair)
