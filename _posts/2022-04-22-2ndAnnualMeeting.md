@@ -32,12 +32,14 @@ ISMRM Iberian Chapter Executive Committee:
 - Nuria Aria Ramos, PhD (Postdoc Rep)
 - Rita Oliveira (Student Rep)
 
-# **Meet our Plenary Speakers**
+# **Meet our Plenary Speakers** 👩🏻‍🏫
 <img src="{{ site.baseurl }}/assets/images/2022IberianChapter_PlenarySpeakers.png" width="110%"/>
 
-# **The venue - Instituto Superior Técnico**
+# **The venue - Instituto Superior Técnico** 🏨
 <a target="_blank" href="https://tecnico.ulisboa.pt/en/about-tecnico/campus/alameda/">Instituto Superior Técnico</a> (IST) is located in Alameda, one of Lisbon’s most central areas. IST is easily reached by metro (metro station "Alameda" - Red and Green lines; metro sation "Saldanha" - Red and Yellow lines), bus, taxi or car from any location in town, including the airport (metro station "Aeroporto"- Red line), which is only a 10 minute taxi ride.  
 <img src="{{ site.baseurl }}/assets/images/IST_IBC_2022.JPG" width="110%"/>
 
+# **Submit your abstract** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfXUvKfzcYhiuwSzkKmoOWrozMi4i4Vxg-fzmlzExt6KjFdFg/viewform">HERE</a> 😻
+ Deadline: 23rd of May at 5pm (UTC +1)
 
-# **Registration** opening soon!
+# **Registration** opening soon! 🎫
