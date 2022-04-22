@@ -33,11 +33,11 @@ ISMRM Iberian Chapter Executive Committee:
 - Rita Oliveira (Student Rep)
 
 # **Meet our Plenary Speakers**
-<img src="{{ site.baseurl }}/assets/images/2022IberianChapter_PlenarySpeakers.png" width="100%"/>
+<img src="{{ site.baseurl }}/assets/images/2022IberianChapter_PlenarySpeakers.png" width="110%"/>
 
 # **The venue - Instituto Superior Técnico**
 <a target="_blank" href="https://tecnico.ulisboa.pt/en/about-tecnico/campus/alameda/">Instituto Superior Técnico</a> (IST) is located in Alameda, one of Lisbon’s most central areas. IST is easily reached by metro (metro station "Alameda" - Red and Green lines; metro sation "Saldanha" - Red and Yellow lines), bus, taxi or car from any location in town, including the airport (metro station "Aeroporto"- Red line), which is only a 10 minute taxi ride.  
-<img src="{{ site.baseurl }}/assets/images/IST_IBC_2022.JPG" width="100%"/>
+<img src="{{ site.baseurl }}/assets/images/IST_IBC_2022.JPG" width="110%"/>
 
 
 # **Registration** opening soon!
