@@ -4,7 +4,7 @@ title:  "MRIberian Labs event"
 author: rita-o
 # categories: [ Jekyll, tutorial ]
 image: assets/images/IberianLabs.gif
-featured: true
+featured: false
 summary: "First event bringing together several Iberian MRI labs. Free ISMRM membership and registration, see here how you can participate!"
 ---
 
