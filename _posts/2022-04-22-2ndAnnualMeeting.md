@@ -5,7 +5,7 @@ author: teresa
 # categories: [ Jekyll, tutorial ]
 image: assets/images/Welcome2IST_IBC_2022.jpg
 featured: true
-summary: "2nd ISMRM Iberian annual meeting | June 27-28, 2022 | Lisbon, Portugal"
+summary: "2nd ISMRM Iberian Chapter annual meeting | June 27-28, 2022 | Lisbon, Portugal"
 ---
 
 Dear Iberian MRI Researchers,
