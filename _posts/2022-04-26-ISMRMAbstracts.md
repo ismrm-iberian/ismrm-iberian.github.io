@@ -3,7 +3,7 @@ layout: post
 title:  "ISMRM 2022 - Iberian Abstracts"
 author: rita-o
 # categories: [ Jekyll, tutorial ]
-image: assets/images/HighlightAbstracts.pdf
+image: assets/images/HighlightAbstracts.png
 featured: true
 summary: "Check the Iberian Abstracts at ISMRM London"
 ---
