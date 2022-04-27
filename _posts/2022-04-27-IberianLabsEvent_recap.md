@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recap - 1st ISMRM Iberian Chapter Annual Meeting"
+title: "Recap - 1st MRIberian Labs event"
 author: rita-o
 # categories: [ Jekyll, tutorial ]
 image: assets/images/MRILabs_recap.png
