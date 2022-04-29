@@ -4,7 +4,7 @@ title: "Recap - 1st MRIberian Labs event"
 author: rita-o
 # categories: [ Jekyll, tutorial ]
 image: assets/images/MRILabs_recap.png
-featured: true
+featured: false
 summary: "The 1st MRIberian Labs event was a success. Here are the highlights!"
 ---
 
