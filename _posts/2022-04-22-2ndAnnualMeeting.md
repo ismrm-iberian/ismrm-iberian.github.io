@@ -22,15 +22,15 @@ The conference programme will also include time to explore this wonderful city a
 Chair of the 2022 Annual Meeting of the ISMRM Iberian Chapter <br>
 Chair of the ISMRM Iberian Chapter </p>
 
-ISMRM Iberian Chapter Executive Committee:
-- Rita Nunes, PhD (Chair)
-- Cesar Caballero Gaudes (Vice-Chair)
-- Rui Simoes, PhD (Secretary)
-- Jose Angel Pineda Pardo, PhD (Treasurer)
-- Teresa Correia, PhD (Director of Communications)
-- Joana Pinto, PhD (Postdoc Rep)
-- Nuria Aria Ramos, PhD (Postdoc Rep)
-- Rita Oliveira (Student Rep)
+<p> ISMRM Iberian Chapter Executive Committee: <br>
+Rita Nunes, PhD (Chair) <br>
+Cesar Caballero Gaudes (Vice-Chair) <br>
+Rui Simoes, PhD (Secretary) <br>
+Jose Angel Pineda Pardo, PhD (Treasurer) <br>
+Teresa Correia, PhD (Director of Communications) <br>
+Joana Pinto, PhD (Postdoc Rep) <br>
+Nuria Aria Ramos, PhD (Postdoc Rep) <br>
+Rita Oliveira (Student Rep) </p>
 
 # **Meet our Plenary Speakers** 👩🏻‍🏫
 <img src="{{ site.baseurl }}/assets/images/2022IberianChapter_PlenarySpeakers.png" width="110%"/>
@@ -42,4 +42,12 @@ ISMRM Iberian Chapter Executive Committee:
 # **Submit your abstract** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfXUvKfzcYhiuwSzkKmoOWrozMi4i4Vxg-fzmlzExt6KjFdFg/viewform">HERE</a> 😻
  Deadline: 23rd of May at 5pm (UTC +1)
 
-# **Registration** opening soon! 🎫
+# **Registration** is NOW OPEN! 🎫
+Get your tickets <a target="_blank" href="https://www.eventbrite.com/e/2nd-ismrm-iberian-chapter-annual-meeting-tickets-324608140687">HERE</a> 
+
+<p> 2022 ISMRM-IBC Annual Meeting Admission Fee: <br>
+Trainee (e.g. Bachelor, Master & PhD students) - 25€ <br>
+Regular (e.g. postdocs, senior researchers, professors & non-academics) - 50€ </p>
+
+_This year there is a fee in the concept of donation for a symbolic price to guarantee your attendance to the event, but mainly to cover for lunch and dinner expenses._
+
