@@ -5,7 +5,7 @@ author: teresa
 # categories: [ Jekyll, tutorial ]
 image: assets/images/scerdan.jpg
 featured: true
-summary: "Adios amigo Sebastián Cerdán"
+summary: "Adios amigo Sebastián Cerdán 🤍"
 ---
 
 It is with great sadness that we say goodbye to one of our founding members. Sebastián Cerdán, passed away this weekend in Madrid, on May 14th 2022. 🤍
