@@ -12,7 +12,7 @@ It is with great sadness that we say goodbye to one of our founding members. Seb
 
 Sebastián worked at the forefront of biomedical applications of MR for over 40 years, carrying out his research in the United States (University of Pennsylvania, 1980-1984), Switzerland (University of Basel, 1986-1988), and Spain (Spanish National Research Council, 1989-2022). Among his most significant contributions, Sebastián pioneered the field of neuro-glial metabolic coupling using innovative heteronuclear NMR methods, and served as President of the ESMRMB (1996-2000; 2004-2010).
 
-It was an honor having him as first keynote speaker of our very first annual meeting last year. A remarkable journey through his scientific career, with several take-home messages that we invite you to watch again (ISMRM link available soon).
+It was an honor having him as first keynote speaker of our very first annual meeting last year. A remarkable journey through his scientific career with several take-home messages (you can find some of them [here](https://ismrm-iberian.eu/2021/07/08/annual_meeting_recap.html)).
 
 Sebastián Cerdán leaves an extensive and important legacy, with great scientists and technicians trained in numerous centers in Spain and other European countries.
 
