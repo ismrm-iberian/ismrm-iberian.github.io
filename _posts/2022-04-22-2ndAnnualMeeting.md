@@ -40,7 +40,7 @@ Rita Oliveira (Student Rep) </p>
 <img src="{{ site.baseurl }}/assets/images/IST_IBC_2022.JPG" width="110%"/>
 
 # **Submit your abstract** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfXUvKfzcYhiuwSzkKmoOWrozMi4i4Vxg-fzmlzExt6KjFdFg/viewform">HERE</a> 😻
- Deadline: 23rd of May at 5pm (UTC +1)
+ FINAL Deadline: 30th of May at 5pm (UTC +1)
 
 # **Registration** is NOW OPEN! 🎫
 Get your tickets <a target="_blank" href="https://www.eventbrite.com/e/2nd-ismrm-iberian-chapter-annual-meeting-tickets-324608140687">HERE</a> 
