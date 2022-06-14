@@ -59,6 +59,6 @@ _This year there is a fee in the concept of donation for a symbolic price to gua
 # **Meet our Sponsors** 🤝
 Nothing would be possible without the help of our amazing sponsors:
 
-<img src="{{ site.baseurl }}/assets/images/Sponsosrs22.pdf" width="110%"/>
+<img src="{{ site.baseurl }}/assets/images/Sponsors22.pdf" width="110%"/>
 
 
