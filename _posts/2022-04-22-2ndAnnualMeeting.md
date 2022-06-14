@@ -56,3 +56,9 @@ Regular (e.g. postdocs, senior researchers, professors & non-academics) - 70€
 
 _This year there is a fee in the concept of donation for a symbolic price to guarantee your attendance to the event, but mainly to cover for lunch and dinner expenses._
 
+# **Meet our Sponsors** 🤝
+Nothing would be possible without the help of our amazing sponsors:
+
+<img src="{{ site.baseurl }}/assets/images/Sponsosrs22.pdf" width="110%"/>
+
+
