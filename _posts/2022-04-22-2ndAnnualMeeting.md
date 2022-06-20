@@ -61,7 +61,7 @@ Nothing would be possible without the help of our amazing sponsors:
 
 <img src="{{ site.baseurl }}/assets/images/Sponsors22.png" width="110%"/>
 
-# **Programme** 🤝
+# **Programme** 📅
 Check here the programme for the 2nd Annual Meeting:
 <img src="{{ site.baseurl }}/assets/images/Program png.PNG" width="110%"/>
 
