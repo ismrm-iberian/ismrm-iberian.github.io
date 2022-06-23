@@ -59,7 +59,7 @@ _This year there is a fee in the concept of donation for a symbolic price to gua
 # **Meet our Sponsors** 🤝
 Nothing would be possible without the help of our amazing sponsors:
 
-<img src="{{ site.baseurl }}/assets/images/Sponsors22_updated.png" width="110%"/>
+<img src="{{ site.baseurl }}/assets/images/2nd_IBC_Sponsors.png" width="110%"/>
 
 # **Programme** 📅
 Check here the programme for the 2nd Annual Meeting:
