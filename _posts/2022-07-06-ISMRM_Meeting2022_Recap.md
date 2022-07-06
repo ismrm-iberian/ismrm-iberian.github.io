@@ -50,7 +50,7 @@ Posters:
 
 
 📹 **Short recap**  
-<img src="{{ site.baseurl }}/assets/images/ISMRMIberianChapterMeeting2022_video.png" width="110%"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4bzDTulhbds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ✨ **Our sponsors**  
 We thank all the sponsors and exhibitors of the Iberian Chapter Meeting 2022 for their kind contributions:
