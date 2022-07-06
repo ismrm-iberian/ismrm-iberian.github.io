@@ -4,7 +4,7 @@ title: "Recap - 2nd ISMRM Iberian Chapter Annual Meeting"
 author: rita-o
 # categories: [ Jekyll, tutorial ]
 image: assets/images/Program png.PNG
-featured: false
+featured: true
 summary: "Here are the highlights of a great in-person annual meeting!"
 ---
 
