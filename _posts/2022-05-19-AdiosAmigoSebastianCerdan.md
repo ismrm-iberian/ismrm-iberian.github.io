@@ -4,7 +4,7 @@ title:  "Adios amigo Sebastián Cerdán 🤍"
 author: teresa
 # categories: [ Jekyll, tutorial ]
 image: assets/images/scerdan.jpg
-featured: true
+featured: false
 summary: "It is with great sadness that we say goodbye to one of our founding members"
 ---
 
