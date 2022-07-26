@@ -15,3 +15,12 @@ If you are an Iberian doing research outside Iberia and would like your research
 - Contact: Diego Hernando, [dhernando at wisc.edu](mailto:dhernando@wisc.edu)
 - Website: [https://qiml.radiology.wisc.edu/](https://qiml.radiology.wisc.edu/)
 - Twitter: [@dherarr](https://twitter.com/dherarr)
+
+### NeuroPoly Lab
+
+- Polytechnique Montreal. Montreal, Quebec, Canada.
+- **NeuroPoly** is a research laboratory that is co-directed by 4 principal investigators that specialize in neuroimaging. We develop advanced MRI image acquisition and analysis methods for brain and spinal cord imaging at 3 T and 7 T. 
+- Main research topics: *B0 mapping, shimming, UHF, quantitative MRI, open-science*
+- Contact: Eva Alonso Ortiz, [eva.alonso-ortiz at polymtl.ca](mailto:eva.alonso-ortiz@polymtl.ca)
+- Website: [https://qiml.radiology.wihttps://neuro.polymtl.ca/sc.edu/](https://neuro.polymtl.ca/)
+- Twitter: [@PolyNeuro](https://twitter.com/PolyNeuro)
