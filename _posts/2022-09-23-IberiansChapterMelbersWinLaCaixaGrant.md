@@ -4,7 +4,7 @@ title:  "Iberian Consortium Awarded a “la Caixa” Foundation Health Research 
 author: teresa
 # categories: [ Jekyll, tutorial ]
 image: assets/images/IberianChapterMembersWinLaCaixaGrant.png
-summary: "Iberian Consortium Awarded a “la Caixa” Foundation Health Research Grant 🏆"
+summary: "Iberian Chapter Members are part of this consortium 😻🏆"
 ---
 
 An Iberian consortium with ISMRM Iberian Chapter members has been awarded 1M€ by La Caixa Foundation, CaixaResearch Health Call, to develop quantitative cardiac MRI methods to improve the diagnosis of coronary heart disease. 😻
