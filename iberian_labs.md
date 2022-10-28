@@ -128,6 +128,15 @@ We will list only one entry per research institution/center (no duplicates).
 - Website: [https://www.ccmar.ualg.pt/users/tmcorreia](https://www.ccmar.ualg.pt/users/tmcorreia)
 - Twitter: [@TeresaM2Correia](https://twitter.com/TeresaM2Correia)
 
+### Radiomics group
+
+- Vall d'Hebron Institute of Oncology (VHIO). Barcelona, Spain
+- Focused on applying imaging biomarkers from MRI, CT, radiomics and multi-omics to cancer discovery, the **Radiomics group** efforts center on advancing precision imaging in personalized medicine to ultimately improve outcomes for cancer patients.
+- Main research topics: *CT radiomics, multi-omics imaging studies, diffusion MRI, deep learning, oncology*
+- Contact: Raquel Pérez López [rperez at vhio.net](mailto:rperez@vhio.net)
+- Website: [https://vhio.net/pf/radiomics-group/](https://vhio.net/pf/radiomics-group/)
+- Twitter: [@radiomicsVHIO](https://twitter.com/radiomicsVHIO)
+
 ### Shemesh Lab
 
 - Champalimaud Foundation. Lisbon, Portugal
