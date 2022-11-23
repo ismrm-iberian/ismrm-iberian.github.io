@@ -153,3 +153,13 @@ We will list only one entry per research institution/center (no duplicates).
 - Main research topics: *biomedical signal processing, functional MRI acquisition and analysis, calibrated fMRI, MRI*
 - Contact: Cesar Caballero-Gaudes, [c.caballero at bcbl.eu](mailto:c.caballero@bcbl.eu)
 - Website: [https://www.bcbl.eu/en/research/research-groups/signal-processing-neuroimaging/](https://www.bcbl.eu/en/research/research-groups/signal-processing-neuroimaging/)
+
+### Translational Imaging Biomarkers
+
+- Instituto de Neurociencias - CSIC. Alicante, Spain.
+- The research of the **Translational Imaging Biomarkers** group focuses on the development, optimization and application of innovative, non-invasive and translational resonance imaging tools, relevant to both basic and clinical research. 
+- Main research topics: *Diffusion MRI, neurobiological substrate, inflammation, neurodegeneration*
+- Contact: Silvia De Santis, [dsilvia at umh.es](mailto:dsilvia@umh.es)
+- Website: [https://in.umh-csic.es/en/grupos/translational-imaging-biomarkers/](https://in.umh-csic.es/en/grupos/translational-imaging-biomarkers/)
+- Twitter: [@LabMri](https://twitter.com/LabMri)
+
