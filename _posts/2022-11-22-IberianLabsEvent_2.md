@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "MRIberian Labs event #2"
+title:  "MRIberian Labs #2 Meeting"
 author: rita-o
 # categories: [ Jekyll, tutorial ]
 image: assets/images/IberianLabs2ndEdition.gif
 featured: true
-summary: "Second MRIberian Labs"
+summary: "MRIberian Labs #2 Meeting"
 ---
 
 Olá and Hola everyone,
