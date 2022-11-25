@@ -5,7 +5,7 @@ title: Past Meetings
 
 ## 2022
 
-- <a href="{{ '/2022/03/03/IberianLabsEvent.html'| relative_url }}">Iberian Labs 2022 - 1st edition</a>
+- <a href="{{ '/2022/03/03/IberianLabsEvent.html'| relative_url }}">MRIberian Labs #1 Meeting</a>
 
 ## 2021
 
