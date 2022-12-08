@@ -3,7 +3,7 @@ layout: post
 title: "Recap - 2nd ISMRM Iberian Chapter Annual Meeting"
 author: rita-o
 # categories: [ Jekyll, tutorial ]
-image: assets/images/Program png.PNG
+image: assets/images/ISMRM_2022_Recap.png
 featured: true
 summary: "Here are the highlights of a great in-person annual meeting!"
 ---
