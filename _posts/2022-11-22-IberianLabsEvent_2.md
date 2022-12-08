@@ -14,7 +14,7 @@ We are happy to inform you that the second **MRIberian Labs** meeting will on th
 The event will take place online and bring together representatives of several labs in Portugal and Spain who will give an overview of the research conducted in each Iberian lab, this time focus on clinical applications.
 
 Check the programme here 👇   
-<img src="{{ site.baseurl }}/assets/images/MRILabs2.pdf" width="110%"/>
+<img src="{{ site.baseurl }}/assets/images/MRILabs2.png" width="110%"/>
 
 
 More information will be shared soon, so stay tuned! 🤗
