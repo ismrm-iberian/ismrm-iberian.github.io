@@ -3,6 +3,11 @@ layout: page
 title: Past Committees
 ---
 
+## Executive Committee 2022
+<div class="committee-pictures">
+ <img src="{{ site.baseurl }}/assets/images/ExecutiveCommittee2022_new.png"/>
+</div>
+
 ## Executive Committee 2021
 <div class="committee-pictures">
     <img src="{{ site.baseurl }}/assets/images/ExecutiveCommittee.png"/>
