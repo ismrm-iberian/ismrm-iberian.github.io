@@ -4,7 +4,7 @@ title:  "MRIberian Labs #2 Meeting"
 author: rita-o
 # categories: [ Jekyll, tutorial ]
 image: assets/images/IberianLabs2ndEdition.gif
-featured: true
+featured: false
 summary: "MRIberian Labs #2 Meeting"
 ---
 
