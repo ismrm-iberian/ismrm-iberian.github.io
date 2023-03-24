@@ -33,7 +33,7 @@ The meeting include oral and poster sessions where Chapter members will have the
 
 **Social activities Committee of the ISMRM Iberian Annual Meeting 2023:**
    - Santiago Aja-Fernández, PhD<br>
-   - Rodrigo de Luis García, PhD<br>
+   - Rodrigo de Luis García, PhD<br><br>
 
 **Ortanizing Committee of the ISMRM Iberian Annual Meeting 2023:**
    - Miguel Ángel Martín Fernández, PhD<br>
@@ -50,7 +50,7 @@ The meeting include oral and poster sessions where Chapter members will have the
 <p> Abstract submission: May 5th, 2023, 11 PM UTC +1</p> 
 <p> Abstract notification: May 15th, 2023 </p> 
 
-# **Submit your abstract** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfXUvKfzcYhiuwSzkKmoOWrozMi4i4Vxg-fzmlzExt6KjFdFg/viewform">HERE</a>
+# **Submit your abstract** <a target="_blank" href="#">HERE (not active yet)</a>
 
 
 **ISMRM Iberian Chapter Annual Meeting 2023 Admission Fee:**<br>
