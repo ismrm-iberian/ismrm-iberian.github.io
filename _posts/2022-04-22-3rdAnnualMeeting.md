@@ -35,6 +35,15 @@ The meeting include oral and poster sessions where Chapter members will have the
    - Santiago Aja-Fernández, PhD<br>
    - Rodrigo de Luis García, PhD<br>
 
+**Ortanizing Committee of the ISMRM Iberian Annual Meeting 2023:**
+   - Miguel Ángel Martín Fernández, PhD<br>
+   - Pablo Casaseca Higuera, PhD<br>
+   - Manuel Cayetano, PhD<br>
+   - Marcos Martín Fernández, PhD<br>
+   - Rosa María Menchón Lara, PhD<br>
+   - Federico Simmross Wattenberg, PhD<br>
+
+      
 
 # **Important dates**
 
