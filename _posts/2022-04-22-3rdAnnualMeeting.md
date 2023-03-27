@@ -20,8 +20,6 @@ The meeting will be an opportunity for academic and social interaction, and we w
    - **Dr Joseba Alonso** (Universitat Politècnica de València, Spain),<br><br>
    - Roundtable: **Dr. Borja Ibáñez**, **David Filgueiras** and **Dr. Javier Sánchez** (Centro Nacional de Investigaciones Cardiovasculares, Madrid, Spain).<br>
 
-#<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_plenary.PNG" width="110%"/>
-
 The meeting include oral and poster sessions where Chapter members will have the opportunity to present their work. As in the previous year, there will be awards for the best oral and poster presentations. The conference programme will also include time to explore this wonderful city and to network at our social events. <br><br>
 
 
