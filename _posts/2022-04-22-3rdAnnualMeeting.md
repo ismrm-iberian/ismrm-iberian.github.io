@@ -41,8 +41,8 @@ The meeting include oral and poster sessions where Chapter members will have the
 **ISMRM Iberian Chapter Annual Meeting 2023 Admission Fee: 75 EUR**<br>
 
 
-# **Submit your abstract:** <a target="_blank" href="#">Click HERE (not active yet)</a>
-# **Register for the conference:** <a target="_blank" href="#">Click HERE (not active yet)</a>
+## **Submit your abstract:** <a target="_blank" href="#">Click HERE (not active yet)</a>
+## **Register for the conference:** <a target="_blank" href="#">Click HERE (not active yet)</a>
 
 
 
@@ -71,9 +71,9 @@ Nothing would be possible without the help of our amazing sponsors.
    - Rodrigo de Luis-García, PhD<br><br>
 
 **Organizing Committee:**
-   - Miguel Ángel Martín-Fernández, PhD<br>
    - Pablo Casaseca-Higuera, PhD<br>
-   - Manuel Rodríguez-Cayetano, PhD<br>
-   - Marcos Martín-Fernández, PhD<br>
+   - Marcos Martín-Fernández, PhD<br>   
+   - Miguel Ángel Martín-Fernández, PhD<br>
    - Rosa María Menchón-Lara, PhD<br>
+   - Manuel Rodríguez-Cayetano, PhD<br>   
    - Federico Simmross-Wattenberg, PhD<br>
