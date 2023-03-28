@@ -66,6 +66,17 @@ Nothing would be possible without the help of our amazing sponsors.
    - Tomasz Pieciak, PhD<br>
    - Antonio Tristán-Vega, PhD<br><br>
 
+**Iberian ISMRM Chapter Committee:**
+   - Rita G. Nunes, PhD (Chair)<br>
+   - César Caballero-Gaudes, PhD (Vice-Chair)<br>
+   - Rui Vasco Simões, PhD<br>
+   - José Angel Pineda-Pardo, PhD<br>   
+   - Teresa Correia, PhD <br>
+   - Joana Pinto, PhD <br>
+   - Nuria Arias Ramos, PhD <br>
+   - Balbino Yagüe Jiménez <br>   
+   - Eneko Uruñuela-Tremiño<br><br> 
+   
 **Social activities Committee:**
    - Santiago Aja-Fernández, PhD<br>
    - Rodrigo de Luis-García, PhD<br><br>
