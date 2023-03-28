@@ -22,6 +22,7 @@ The meeting will be an opportunity for academic and social interaction, and we w
 
 The meeting include oral and poster sessions where Chapter members will have the opportunity to present their work. As in the previous year, there will be awards for the best oral and poster presentations. The conference programme will also include time to explore this wonderful city and to network at our social events. <br><br>
 
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_Valladolid_image.PNG" width="110%"/>
 
 **The list of topics of the ISMRM Iberian Chapter Annual Meeting 2023 includes, but it is not limited to:**
    - cutting-edge solutions in magnetic resonance imaging (MRI), including structural and functional imaging, dynamic MRI, diffusion-weighted MRI, susceptibility-weighted imaging, MR spectroscopy, MR fingerprinting,<br>
@@ -40,7 +41,8 @@ The meeting include oral and poster sessions where Chapter members will have the
 **ISMRM Iberian Chapter Annual Meeting 2023 Admission Fee: 75 EUR**<br>
 
 
-# **Submit your abstract** <a target="_blank" href="#">HERE (not active yet)</a>
+# **Submit your abstract:** <a target="_blank" href="#">Click HERE (not active yet)</a>
+# **Register for the conference:** <a target="_blank" href="#">Click HERE (not active yet)</a>
 
 
 
@@ -55,22 +57,23 @@ Nothing would be possible without the help of our amazing sponsors.
 <img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_sponsors.PNG" width="110%"/>
 
 
+
 # **Committees**
 
-**Scientific Committee of the ISMRM Iberian Annual Meeting 2023:**
-   - Carlos Alberola López, PhD (Chair)<br>
-   - Pablo Irarrazaval Mena, PhD<br>
+**Scientific Committee:**
+   - Carlos Alberola-López, PhD (Chair)<br>
+   - Pablo Irarrazaval, PhD<br>
    - Tomasz Pieciak, PhD<br>
    - Antonio Tristán-Vega, PhD<br><br>
 
-**Social activities Committee of the ISMRM Iberian Annual Meeting 2023:**
+**Social activities Committee:**
    - Santiago Aja-Fernández, PhD<br>
-   - Rodrigo de Luis García, PhD<br><br>
+   - Rodrigo de Luis-García, PhD<br><br>
 
-**Ortanizing Committee of the ISMRM Iberian Annual Meeting 2023:**
-   - Miguel Ángel Martín Fernández, PhD<br>
-   - Pablo Casaseca Higuera, PhD<br>
-   - Manuel Cayetano, PhD<br>
-   - Marcos Martín Fernández, PhD<br>
-   - Rosa María Menchón Lara, PhD<br>
-   - Federico Simmross Wattenberg, PhD<br>
+**Ortanizing Committee:**
+   - Miguel Ángel Martín-Fernández, PhD<br>
+   - Pablo Casaseca-Higuera, PhD<br>
+   - Manuel Rodríguez-Cayetano, PhD<br>
+   - Marcos Martín-Fernández, PhD<br>
+   - Rosa María Menchón-Lara, PhD<br>
+   - Federico Simmross-Wattenberg, PhD<br>
