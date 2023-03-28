@@ -22,7 +22,7 @@ The meeting will be an opportunity for academic and social interaction, and we w
 
 The meeting include oral and poster sessions where Chapter members will have the opportunity to present their work. As in the previous year, there will be awards for the best oral and poster presentations. The conference programme will also include time to explore this wonderful city and to network at our social events. <br><br>
 
-<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_Valladolid_image.PNG" width="110%"/>
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_Valladolid_image.png" width="110%"/>
 
 **The list of topics of the ISMRM Iberian Chapter Annual Meeting 2023 includes, but it is not limited to:**
    - cutting-edge solutions in magnetic resonance imaging (MRI), including structural and functional imaging, dynamic MRI, diffusion-weighted MRI, susceptibility-weighted imaging, MR spectroscopy, MR fingerprinting,<br>
@@ -70,7 +70,7 @@ Nothing would be possible without the help of our amazing sponsors.
    - Santiago Aja-Fernández, PhD<br>
    - Rodrigo de Luis-García, PhD<br><br>
 
-**Ortanizing Committee:**
+**Organizing Committee:**
    - Miguel Ángel Martín-Fernández, PhD<br>
    - Pablo Casaseca-Higuera, PhD<br>
    - Manuel Rodríguez-Cayetano, PhD<br>
