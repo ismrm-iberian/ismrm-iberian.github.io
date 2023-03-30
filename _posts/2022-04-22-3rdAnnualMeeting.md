@@ -14,11 +14,19 @@ The ISMRM Iberian Chapter is blooming maturely as a shared environment between s
 
 On behalf of the ISMRM Iberian Chapter Committee, we invite you to participate in the **ISMRM Iberian Chapter Annual Meeting 2023**, which will be held from **July 3rd to 5th in Valladolid**, one of the most beautiful Spanish cities of Renaissance architecture.<br><br>
 
-The meeting will be an opportunity for academic and social interaction, and we will be honored to have the following distinguished speakers: 
-   - **Dr María Luisa García-Martín** (Instituto de Investigación Biomédica de Málaga, Spain),<br>
+The meeting will be an opportunity for academic and social interaction, and we will be honored to have the following distinguished speakers.
+
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_plenary.png" width="110%"/>
+
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_round_table.png" width="110%"/>
+
+
+<!--   - **Dr María Luisa García-Martín** (Instituto de Investigación Biomédica de Málaga, Spain),<br>
    - **Dr Jorge Cardoso** (King's College London, United Kingdom),<br>
    - **Dr Joseba Alonso** (Universitat Politècnica de València, Spain),<br><br>
-   - Roundtable: **Dr. Borja Ibáñez**, **David Filgueiras** and **Dr. Javier Sánchez** (Centro Nacional de Investigaciones Cardiovasculares, Madrid, Spain).<br>
+   - Roundtable: **Dr. Borja Ibáñez**, **David Filgueiras** and **Dr. Javier Sánchez** (Centro Nacional de Investigaciones Cardiovasculares, Madrid, Spain).<br>-->
+   
+   
 
 The meeting include oral and poster sessions where Chapter members will have the opportunity to present their work. As in the previous year, there will be awards for the best oral and poster presentations. The conference programme will also include time to explore this wonderful city and to network at our social events. <br><br>
 
