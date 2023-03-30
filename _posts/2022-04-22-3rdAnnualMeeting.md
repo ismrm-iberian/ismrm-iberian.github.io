@@ -47,7 +47,7 @@ The meeting include oral and poster sessions where Chapter members will have the
 
 
 # **Programme at a glance**
-<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_programme_Valladolid.PNG" width="110%"/>
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_programme.png" width="110%"/>
 
 
 
@@ -76,12 +76,10 @@ Nothing would be possible without the help of our amazing sponsors.
    - Nuria Arias Ramos, PhD <br>
    - Balbino Yagüe Jiménez <br>   
    - Eneko Uruñuela-Tremiño<br><br> 
-   
-**Social activities Committee:**
-   - Santiago Aja-Fernández, PhD<br>
-   - Rodrigo de Luis-García, PhD<br><br>
 
-**Organizing Committee:**
+**Local organizing Committee:**
+   - Santiago Aja-Fernández, PhD<br>
+   - Rodrigo de Luis-García, PhD<br>
    - Pablo Casaseca-Higuera, PhD<br>
    - Marcos Martín-Fernández, PhD<br>   
    - Miguel Ángel Martín-Fernández, PhD<br>
