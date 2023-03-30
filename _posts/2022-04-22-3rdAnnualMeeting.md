@@ -90,12 +90,12 @@ Nothing would be possible without the help of our amazing sponsors.
 
 
 **Volunteers:**
-   - Patricia Amado-Caballero, MSc<br>
-   - Emilio López-Ales, MSc<br>
-   - Elena Martín-González, MSc<br>
-   - Carmen Martín-Martín, MSc<br>
-   - Elisa Moya-Sáez, MSc<br>   
-   - Guillem París, MSc<br>
-   - Justino R. Rodríguez-Galván, MSc<br>
+   - Patricia Amado-Caballero<br>
+   - Emilio López-Ales<br>
+   - Elena Martín-González<br>
+   - Carmen Martín-Martín<br>
+   - Elisa Moya-Sáez<br>   
+   - Guillem París<br>
+   - Justino R. Rodríguez-Galván<br>
  
     
