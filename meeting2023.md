@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Past Meetings
+title: ISMRM Iberian Chapter Annual Meeting 2023
 ---
 
 ## ISMRM Iberian Chapter Annual Meeting 2023
