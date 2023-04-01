@@ -47,7 +47,7 @@ The meeting include oral and poster sessions where Chapter members will have the
 <!-- **ISMRM Iberian Chapter Annual Meeting 2023 Admission Fee: 75 EUR**<br> -->
 
 
-## **Submit your abstract:** <a target="_blank" href="#">Click HERE (not active yet)</a>
+## **Submit your abstract:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScb7VLjlTucEXGgI6C9MYUiJ0-a8iNKH-KMMug_CxzJIGUz6w/viewform?usp=sf_link">Click HERE</a>
 ## **Register for the conference:** <a target="_blank" href="#">Click HERE (not active yet)</a>
 
 
