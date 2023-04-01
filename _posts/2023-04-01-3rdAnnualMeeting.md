@@ -4,7 +4,7 @@ title:  "ISMRM Iberian Chapter Annual Meeting 2023"
 author: teresa
 # categories: [ Jekyll, tutorial ]
 image: assets/images/IberianISMRM2023_ETSI.jpg
-featured: false
+featured: true
 summary: "3rd ISMRM Iberian Chapter annual meeting | July 3-5, 2023 | Valladolid, Spain"
 ---
 
