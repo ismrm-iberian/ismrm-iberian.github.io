@@ -5,7 +5,6 @@ image: assets/images/IberianISMRM2023_ETSI.jpg
 summary: "3rd ISMRM Iberian Chapter annual meeting | July 3-5, 2023 | Valladolid, Spain"
 ---
 
-
 Dear Iberian MRI Researchers,<br>
 
 The ISMRM Iberian Chapter is blooming maturely as a shared environment between scientists and clinicians in the magnetic resonance imaging field. 
@@ -81,7 +80,7 @@ Nothing would be possible without the help of our amazing sponsors.
    - Joana Pinto, PhD <br>
    - Nuria Arias Ramos, PhD <br>
    - Balbino Yagüe Jiménez <br>   
-   - Eneko Uruñuela-Tremiño<br><br> 
+   - Eneko Uruñuela<br><br> 
 
 **Local organizing Committee:**
    - Santiago Aja-Fernández, PhD<br>
@@ -104,5 +103,3 @@ Nothing would be possible without the help of our amazing sponsors.
    - Guillem París<br>
    - Justino R. Rodríguez-Galván<br>
  
-    
-
