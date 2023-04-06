@@ -6,7 +6,6 @@ author: teresa
 image: assets/images/IberianISMRM2023_ETSI.jpg
 featured: true
 summary: "3rd ISMRM Iberian Chapter annual meeting | July 3-5, 2023 | Valladolid, Spain"
-url: {{ '/Meeting2023.html'| relative_url }}
 ---
 
 Dear Iberian MRI Researchers,<br>
