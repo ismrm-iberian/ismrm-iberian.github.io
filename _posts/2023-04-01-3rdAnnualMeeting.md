@@ -8,6 +8,10 @@ featured: true
 summary: "3rd ISMRM Iberian Chapter annual meeting | July 3-5, 2023 | Valladolid, Spain"
 ---
 
+<script>
+   window.location.replace("{{ site.baseurl }}/meeting2023.html");
+</script>
+
 Dear Iberian MRI Researchers,<br>
 
 The ISMRM Iberian Chapter is blooming maturely as a shared environment between scientists and clinicians in the magnetic resonance imaging field. 
