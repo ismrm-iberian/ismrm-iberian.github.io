@@ -8,8 +8,8 @@ featured: true
 summary: "3rd ISMRM Iberian Chapter annual meeting | July 3-5, 2023 | Valladolid, Spain"
 ---
 
-<script>
-   window.location.replace("{{ site.baseurl }}/meeting2023.html");
+<script type="text/javascript">
+   window.location.href = "{{ site.baseurl }}/meeting2023.html"
 </script>
 
 Dear Iberian MRI Researchers,<br>
