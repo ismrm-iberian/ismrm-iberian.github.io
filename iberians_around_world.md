@@ -7,6 +7,15 @@ If you are an Iberian doing research outside Iberia and would like your research
 
 ## Iberians Around the World
 
+### MR Structural Quantitative Imaging
+
+- Radboud University. Nijmegen, The Netherlands.
+- The **MR Structural Quantitative Imaging lab** aims are to develop new strategies to acquire high resolution and informative quantitative MRI; and to understand the contrast mechanisms that give rise to the observed relaxation and electromagnetic contrasts in brain tissues.
+- Main research topics: *Relaxometry acquisition & reconstruction, QSM, MWI*
+- Contact: Jose Pedro Marques, [jose.marques at donders.ru.nl](mailto:jose.marques@donders.ru.nl)
+- Website: [https://www.ru.nl/en/people/rebelo-ferreira-marques-j/](https://www.ru.nl/en/people/rebelo-ferreira-marques-j/)
+- Twitter: [@Jose_P_Marques](https://twitter.com/Jose_P_Marques)
+
 ### Quantitative Imaging Methods Lab
 
 - University of Wisconsin-Madison. Madison, Wisconsin, USA.
