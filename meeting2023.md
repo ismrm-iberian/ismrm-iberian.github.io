@@ -101,6 +101,7 @@ Nothing would be possible without the help of our amazing sponsors.
    - Elena Martín-González<br>
    - Carmen Martín-Martín<br>
    - Elisa Moya-Sáez<br>   
+   - Rafael Navarro González<br>
    - Guillem París<br>
    - Justino R. Rodríguez-Galván<br>
  
