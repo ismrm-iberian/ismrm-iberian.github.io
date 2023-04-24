@@ -43,8 +43,9 @@ The meeting include oral and poster sessions where Chapter members will have the
 
 <p> Abstract submission: May 5th, 2023, 11 PM UTC +1</p> 
 <p> Abstract notification: May 15th, 2023 </p> 
-
-<!-- **ISMRM Iberian Chapter Annual Meeting 2023 Admission Fee: 75 EUR**<br> -->
+<p> Registration fee (students and postdocs): 50€</p> 
+<p> Registration fee (staff scientists, faculty and industry): 75€</p> 
+<p> After 15th June, registration fees will increase by 25€.</p> 
 
 
 ## **Submit your abstract:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScb7VLjlTucEXGgI6C9MYUiJ0-a8iNKH-KMMug_CxzJIGUz6w/viewform?usp=sf_link">Click HERE</a>
