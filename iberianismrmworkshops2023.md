@@ -1,0 +1,35 @@
+---
+layout: page
+title: Hands-on Workshop on diffusion MRI
+image: assets/images/IberianISMRM2023_workshop.png
+summary: "3rd ISMRM Iberian Chapter annual meeting | July 3-5, 2023 | Valladolid, Spain"
+---
+
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_workshop.png" width="100%"/>
+
+
+
+
+# **Registration**
+
+
+## **Register for the hands-on workshops in diffusion MRI:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeAIgWvQxm73sbIo7zpmHMsGFjQpGebAJ0y_hFu-zx5OE26JQ/viewform">Click HERE</a>
+## **Register for the conference:** <a target="_blank" href="https://www.eventbrite.com/e/3rd-ismrm-iberian-chapter-annual-meeting-tickets-629145008657">Click HERE</a>
+
+
+
+# **Organizing Committee:**
+   - Prof. Santiago Aja-Fernández<br>
+   - Antonio Tristán-Vega, PhD<br>   
+   - Tomasz Pieciak, PhD<br>   
+
+
+
+# **Meet our Sponsors**
+Nothing would be possible without the help of our amazing sponsors.
+
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_sponsors.PNG" width="110%"/>
+
+
+
+
