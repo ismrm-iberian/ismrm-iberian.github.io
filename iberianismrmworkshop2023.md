@@ -36,11 +36,4 @@ summary: "3rd ISMRM Iberian Chapter annual meeting | July 3-5, 2023 | Valladolid
 
 
 
-# **Meet our Sponsors**
-Nothing would be possible without the help of our amazing sponsors.
-
-<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_sponsors.PNG" width="110%"/>
-
-
-
 
