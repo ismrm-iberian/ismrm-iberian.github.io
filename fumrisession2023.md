@@ -31,7 +31,7 @@ Note that reality and scientific accuracy is not a must in this session. We will
 
 # **Important dates and information**
 
-<p> Abstract submission deadline: June 16th, 2023, 11 PM UTC +1</p> 
+<p> Abstract submission deadline: June 5th, 2023, 11 PM UTC +1</p> 
 
 
 ## **Submit your abstract:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScWa9vTAUACpNproDMQ3c0W0c-v4rAXUvL9GlXiRsWtlNjcOQ/viewform">Click HERE</a>
