@@ -31,16 +31,14 @@ Note that reality and scientific accuracy is not a must in this session. We will
 
 # **Important dates and information**
 
-<p> Abstract submission deadline: June 16th, 2023, 11 PM UTC +1</p> 
+<p> Abstract submission deadline: June 5th, 2023, 11 PM UTC +1</p> 
+<p> Session day: 5 July 2023, 16:30-17:30h (Oral Session)</p> 
+<p> Contact person: Prof. Santiago Aja-Fernández</p> 
 
 
 ## **Submit your abstract:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScWa9vTAUACpNproDMQ3c0W0c-v4rAXUvL9GlXiRsWtlNjcOQ/viewform">Click HERE</a>
 ## **Register for the conference:** <a target="_blank" href="https://www.eventbrite.com/e/3rd-ismrm-iberian-chapter-annual-meeting-tickets-629145008657">Click HERE</a>
 
-
-
-# **Contact person:**
-   - Prof. Santiago Aja-Fernández<br>
 
 
 
