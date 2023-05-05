@@ -18,7 +18,7 @@ summary: "3rd ISMRM Iberian Chapter annual meeting | July 3-5, 2023 | Valladolid
    - Hands-on: calculating the measures from a multiple-shell acquisition.<br>   
    - Hands-on: calculating the free-water volume fraction<br>
    - Hands-on: correcting the Diffusion Tensor Imaging measures for the free-water (advanced topic)<br>
-   - Hands-on: calculating the measures from a non-uniformly sampled q-space<br>
+   - Hands-on: calculating the measures from a non-uniformly sampled q-space (advanced topic)<br>
 
 
 
@@ -29,7 +29,7 @@ summary: "3rd ISMRM Iberian Chapter annual meeting | July 3-5, 2023 | Valladolid
 
 
 
-# **Organizing Committee:**
+# **Organizers:**
    - Prof. Santiago Aja-Fernández<br>
    - Antonio Tristán-Vega, PhD<br>   
    - Tomasz Pieciak, PhD<br>   
