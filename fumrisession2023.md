@@ -14,6 +14,13 @@ The idea of this session is to join all the participants of the Iberian Chapter 
 
 
 
+**Idea:**
+The idea of this session is to join all the participants of the Iberian Chapter Meeting in a lighter (fun) session. All teams are invited to submit their proposals. But, what about? We are sure you have had sometimes funny thoughts about your research, ideas you have left aside because they are too bold, too bizarre or, maybe, too wrong. You may have also thought of funny jokes based on MRI. This session gives room to all this lost potential. Prepare an abstract as funny as you can but in the more formal way you can. Present it in this special session and aim at make us laugh.
+
+In addition, we also want to make us think. By having a different perspective of our work, we will be able to detect our main flaws as a research community and the most common mistakes in our works.
+
+
+
 **The list of topics of the fu-MRI special session includes, but it is not limited to:**
    - Nonsense research ideas.<br>
    - Cutting edge methods with bizarre validation.<br>
