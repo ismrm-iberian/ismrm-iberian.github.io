@@ -40,7 +40,7 @@ Note that reality and scientific accuracy is not a must in this session. We will
 
 <p> Abstract submission deadline: June 5th, 2023, 11 PM UTC +1</p> 
 <p> Session day: 5 July 2023, 16:30-17:30h (Oral Session)</p> 
-<p> Contact person: Prof. Santiago Aja-Fernández</p> 
+<p> Contact person: Prof. Santiago Aja-Fernández (sanaja[at]tel.uva.es)</p> 
 
 
 ## **Submit your abstract:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScWa9vTAUACpNproDMQ3c0W0c-v4rAXUvL9GlXiRsWtlNjcOQ/viewform">Click HERE</a>
