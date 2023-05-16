@@ -38,7 +38,7 @@ The meeting include oral and poster sessions where Chapter members will have the
    - new software packages for reconstruction, processing and analysis of the MRI data.<br>
    
 
-# **Important dates and information**
+# **Important dates and information (Main conference)**
 
 <p> Abstract submission: May 15th, 2023, 11 PM UTC +1</p> 
 <p> Abstract notification: May 25th, 2023 </p> 
@@ -49,6 +49,38 @@ The meeting include oral and poster sessions where Chapter members will have the
 
 ## **Submit your abstract:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScb7VLjlTucEXGgI6C9MYUiJ0-a8iNKH-KMMug_CxzJIGUz6w/viewform?usp=sf_link">Click HERE</a>
 ## **Register for the conference:** <a target="_blank" href="https://www.eventbrite.com/e/3rd-ismrm-iberian-chapter-annual-meeting-tickets-629145008657">Click HERE</a>
+
+
+
+
+
+# **Important dates and information (fu-MRI session)**
+
+<p> Abstract submission: June 5th, 2023, 11 PM UTC +1</p> 
+<p> Contact person: Prof. Santiago Aja-Fernández (sanaja[at]tel.uva.es)</p> 
+<p> fu-MRI session website: <a target="_blank" href="https://ismrm-iberian.eu/fumrisession2023.html">https://ismrm-iberian.eu/fumrisession2023.html</a></p>
+
+
+## **Submit your abstract:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScWa9vTAUACpNproDMQ3c0W0c-v4rAXUvL9GlXiRsWtlNjcOQ/viewform">Click HERE</a>
+
+## **Register for the conference:** <a target="_blank" href="https://www.eventbrite.com/e/3rd-ismrm-iberian-chapter-annual-meeting-tickets-629145008657">Click HERE</a>
+
+
+
+
+
+
+
+# **Important dates and information (Workshops)**
+
+<p> Workshops website: <a target="_blank" href="https://ismrm-iberian.eu/iberianismrmworkshop2023.html">https://ismrm-iberian.eu/iberianismrmworkshop2023.html</a></p>
+
+## **Register for the Workshop:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeAIgWvQxm73sbIo7zpmHMsGFjQpGebAJ0y_hFu-zx5OE26JQ/viewform">Click HERE</a>
+
+
+
+
+
 
 
 
