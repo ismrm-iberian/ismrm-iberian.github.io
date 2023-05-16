@@ -44,6 +44,7 @@ Note that reality and scientific accuracy is not a must in this session. We will
 
 
 ## **Submit your abstract:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScWa9vTAUACpNproDMQ3c0W0c-v4rAXUvL9GlXiRsWtlNjcOQ/viewform">Click HERE</a>
+
 ## **Register for the conference:** <a target="_blank" href="https://www.eventbrite.com/e/3rd-ismrm-iberian-chapter-annual-meeting-tickets-629145008657">Click HERE</a>
 
 

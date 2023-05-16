@@ -24,20 +24,21 @@ summary: "3rd ISMRM Iberian Chapter annual meeting | July 3-5, 2023 | Valladolid
 
 # **Registration**
 
-## **Register for the hands-on workshops in diffusion MRI:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeAIgWvQxm73sbIo7zpmHMsGFjQpGebAJ0y_hFu-zx5OE26JQ/viewform">Click HERE</a>
+### **Register for the hands-on workshops in diffusion MRI:** 
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeAIgWvQxm73sbIo7zpmHMsGFjQpGebAJ0y_hFu-zx5OE26JQ/viewform">Click HERE</a>
 
-## **Register for the Workshop:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeAIgWvQxm73sbIo7zpmHMsGFjQpGebAJ0y_hFu-zx5OE26JQ/viewform">Click HERE</a>
+### **Register for the Workshop:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeAIgWvQxm73sbIo7zpmHMsGFjQpGebAJ0y_hFu-zx5OE26JQ/viewform">Click HERE</a>
 
 
 
 # **Workshop materials**
 
-## **Software:** <a target="_blank" href="https://www.lpi.tel.uva.es/dmrilab">https://www.lpi.tel.uva.es/dmrilab</a>
+### **Software:** <a target="_blank" href="https://www.lpi.tel.uva.es/dmrilab">https://www.lpi.tel.uva.es/dmrilab</a>
 
 
 
 
-## **Relevant references for the Workshop:**      
+### **Relevant references for the Workshop:**      
    - Aja-Fernández, S., de Luis-García, R., Afzali, M., Molendowska, M., Pieciak, T., Tristán-Vega, A. (2020). Micro-structure diffusion scalar measures from reduced MRI acquisitions. PLoS One, 15(3), e0229526. <a target="_blank" href="https://doi.org/10.1371/journal.pone.0229526">https://doi.org/10.1371/journal.pone.0229526</a> 
 
    - Aja-Fernández, S., Tristán-Vega, A., Jones, D. K. (2021). Apparent propagator anisotropy from single-shell diffusion MRI acquisitions. Magnetic Resonance in Medicine, 85(5), 2869-2881. <a target="_blank" href="https://doi.org/10.1002/mrm.28620">https://doi.org/10.1002/mrm.28620</a>
