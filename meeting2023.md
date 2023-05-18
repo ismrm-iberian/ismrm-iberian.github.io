@@ -51,7 +51,7 @@ The meeting include oral and poster sessions where Chapter members will have the
 ## **Register for the conference:** <a target="_blank" href="https://www.eventbrite.com/e/3rd-ismrm-iberian-chapter-annual-meeting-tickets-629145008657">Click HERE</a>
 
 
-<br><br>
+<p>&nbsp;</p>
 
 
 # **Important dates and information (fu-MRI session)**
@@ -66,8 +66,8 @@ The meeting include oral and poster sessions where Chapter members will have the
 ## **Register for the conference:** <a target="_blank" href="https://www.eventbrite.com/e/3rd-ismrm-iberian-chapter-annual-meeting-tickets-629145008657">Click HERE</a>
 
 
+<p>&nbsp;</p>
 
-<br><br>
 
 
 
