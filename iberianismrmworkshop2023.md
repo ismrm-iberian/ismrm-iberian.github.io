@@ -32,7 +32,7 @@ Laboratorio de Procesado de Imagen, LPI, Universidad de Valladolid, Spain<br>
 
 ### **Register for the hands-on workshops in diffusion MRI:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeAIgWvQxm73sbIo7zpmHMsGFjQpGebAJ0y_hFu-zx5OE26JQ/viewform">Click HERE</a>
 
-### **Register for the Workshop:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeAIgWvQxm73sbIo7zpmHMsGFjQpGebAJ0y_hFu-zx5OE26JQ/viewform">Click HERE</a>
+### **Register for the conference:** <a target="_blank" href="https://www.eventbrite.com/e/3rd-ismrm-iberian-chapter-annual-meeting-tickets-629145008657">Click HERE</a>
 
 
 <p>&nbsp;</p>
