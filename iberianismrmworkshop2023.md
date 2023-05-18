@@ -62,7 +62,7 @@ Laboratorio de Procesado de Imagen, LPI, Universidad de Valladolid, Spain<br>
 
 <p><b>2. Micro-Structure-adaptive convolution kernels and dual Fourier domains Integral Transforms (MiSFIT).</b> This technique calculates the EAP and then the metrics can be derived. As opposed to the related approaches in the state of the art, MiSFIT is not based on fitting the EAP in some functions basis, which makes it time efficient at the same time it relaxes the low-frequency constraints imposed by the maximum b-value acquired. Instead, it is based on convolution kernels and dual Fourier domains Integral Transforms. Due to the low-rank signal representation, with at most 3 parameters to estimate, it could provide a full representation of the EAP and all the scalar moments with just 2 shells (for the simplified representation) or 3 shells if free water is also estimated. At the same time, the decoupled optimization in a low rank non-linear problem for the radial behavior and a model-free, linear problem for the orientation makes MiSFIT extremely time-efficient, beating the computation times of other methods by two orders of magnitude.<br></p>
 
-<p><b>3. Hybrid Diffusion Imaging - Diffusion Spectrum Imaging - Quadratic Programming (HYDI-DSI-QP).</b>  <br></p>
+<p><b>3. Hybrid Diffusion Imaging - Diffusion Spectrum Imaging - Quadratic Programming (HYDI-DSI-QP).</b> &nbsp;</p>
 
 
 <p>&nbsp;</p>
