@@ -56,13 +56,11 @@ In this workshop:<br>
 <p>Diffusion magnetic resonance imaging (dMRI) has gained much interest from the neuroimaging community over the last two decades, due to its ability to analyze in vivo structures within the white matter of the brain. These techniques are used by many prestigious international centers and have been the basis of major international projects in the last decades with millions of Euros of funding, such as the Human Brain Project (EU) or the NIH Human Connectome Project (USA). The current trend in dMRI analysis is the calculation of increasingly advanced metrics focused on subtle aspects of the diffusion and brain microstructure.<br><br></p>
 
 <p>However, for the calculation of these advanced measures, the acquisition requirements may get higher and higher:<br>
-
    - Increasingly powerful MRI scanners, such as the Siemens 3T MAGNETOM Prisma (with a gradient power of 80mT/m), Siemens 3T Connectome (with a gradient power of 300mT/m) or commercial scanners up to 7T.<br>   
    - Denser q-space sampling: higher number of shells (b-values) and higher number of samples per shell.<br><br></p>
 
-<p>In the first case, there is a clear economic limitation: not all centers can afford such expensive dedicated equipment. For the second requirement, an increase in the number of samples at each acquisition leads to longer acquisition times. Thus, these techniques are not totally compatible with clinical and research acquisitions that can be performed in standard medical or research centers. In the standard case:
-   - Acquisitions must be performed within a preset time, for the patient's convenience and to take advantage of the scanners. Typically, studies are performed in addition to clinical acquisitions, so a patient cannot spend 2 hours inside the machine. For studies with a larger number of patients, this would simply imply times that cannot be afforded by the public health system.<br>
-   
+<p>In the first case, there is a clear economic limitation: not all centers can afford such expensive dedicated equipment. For the second requirement, an increase in the number of samples at each acquisition leads to longer acquisition times. Thus, these techniques are not totally compatible with clinical and research acquisitions that can be performed in standard medical or research centers. In the standard case:<br>
+   - Acquisitions must be performed within a preset time, for the patient's convenience and to take advantage of the scanners. Typically, studies are performed in addition to clinical acquisitions, so a patient cannot spend 2 hours inside the machine. For studies with a larger number of patients, this would simply imply times that cannot be afforded by the public health system.<br>   
    - The scanners available for research in most centers are those that are also used clinically. Many national centers already have 3T scanners (as opposed to the large number of 1.5T scanners still in use). However, there are no national centers with advanced scanners specialized for diffusion.<br></p>
 
 <p>&nbsp;</p>
