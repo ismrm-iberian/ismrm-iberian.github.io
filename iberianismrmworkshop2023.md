@@ -28,14 +28,27 @@ Laboratorio de Procesado de Imagen, LPI, Universidad de Valladolid, Spain<br>
 
 # **Registration**
 
-<p>The participation in the workshop is included with the ISMRM Iberian chapter registration.</p>
+<p>The participation in the workshop is included with the ISMRM Iberian annual meeting 2023.</p>
 
 ### **Register for the hands-on workshops in diffusion MRI:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeAIgWvQxm73sbIo7zpmHMsGFjQpGebAJ0y_hFu-zx5OE26JQ/viewform">Click HERE</a>
 
-### **Register for the Workshop:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeAIgWvQxm73sbIo7zpmHMsGFjQpGebAJ0y_hFu-zx5OE26JQ/viewform">Click HERE</a>
+### **Register for the conference:** <a target="_blank" href="https://www.eventbrite.com/e/3rd-ismrm-iberian-chapter-annual-meeting-tickets-629145008657">Click HERE</a>
 
 
 <p>&nbsp;</p>
+
+
+# **About the Workshop**
+
+<p>The organizing team has been working for years on advanced measures estimated from diffusion MRI that provide similar clinical information to existing ones but using commercial scanners and a limited number of samples. Several techniques have been proposed, based on different models. These are based on the reduction of the number of degrees of freedom of the estimation problem by introducing prior assumptions and thus reducing the minimum number of data needed for estimation. The metrics derived from the new methodologies can be used as biomarkers in different clinical studies.<br></p>
+
+In this workshop:<br>
+   - We will review the philosophy and models behind each method.<br>
+   - We will explain the minimum acquisition requirements for the calculation of the metrics.<br>
+   - Participants will be playing with the software to learn how to estimate the different metrics from real data.<br>
+
+<p>&nbsp;</p>
+
 
 
 # **Some background about the methods**
@@ -58,24 +71,19 @@ Laboratorio de Procesado de Imagen, LPI, Universidad de Valladolid, Spain<br>
 
 <p>To alleviate this problem, the LPI (Valadolid) has been working for years on advanced measures that provide similar clinical information to existing ones but using commercial scanners and a limited number of samples. Several techniques have been proposed, based on different models. Methods are based on the reduction of the number of degrees of freedom of the estimation problem by introducing prior assumptions and thus reducing the minimum number of data needed for estimation. The main methods are:<br></p>
 
-<p><b>1. Apparent Measures Using Reduced Acquisitions (AMURA).</b> The method allows the direct estimation of diffusion measures such as RTOP, RTAP and PA, avoiding the calculation of the EAP while reducing the number of necessary samples and the computational cost. It assumes a behavior of the diffusion process that is roughly independent from the b-value. This assumption, common in high angular resolution diffusion imaging (HARDI) acquisitions, allows the calculation of these metrics from single-shell acquisitions, tipical in clinical routine. Since the assumed model only holds within a limited range around the b-value considered, the derived measures must be considered as apparent values at a given b-value, dependent on the selected shell. However, despite this dependence with the b-value, the apparent metrics calculated with AMURA have shown a good correlation with the same metrics calculated using standard multishell approaches.<br></p>
+<p><b>1. Apparent Measures Using Reduced Acquisitions (AMURA).</b> The method allows the direct estimation of diffusion measures such as RTOP, RTAP and PA, avoiding the calculation of the EAP while reducing the number of necessary samples and the computational cost. It assumes a behavior of the diffusion process that is roughly independent from the b-value. This assumption, common in high angular resolution diffusion imaging (HARDI) acquisitions, allows the calculation of these metrics from single-shell acquisitions, typical in clinical routine. Since the assumed model only holds within a limited range around the b-value considered, the derived measures must be considered as apparent values at a given b-value, dependent on the selected shell. However, despite this dependence with the b-value, the apparent metrics calculated with AMURA have shown a good correlation with the same metrics calculated using standard multi-shell approaches.<br></p>
 
 <p><b>2. Micro-Structure-adaptive convolution kernels and dual Fourier domains Integral Transforms (MiSFIT).</b> This technique calculates the EAP and then the metrics can be derived. As opposed to the related approaches in the state of the art, MiSFIT is not based on fitting the EAP in some functions basis, which makes it time efficient at the same time it relaxes the low-frequency constraints imposed by the maximum b-value acquired. Instead, it is based on convolution kernels and dual Fourier domains Integral Transforms. Due to the low-rank signal representation, with at most 3 parameters to estimate, it could provide a full representation of the EAP and all the scalar moments with just 2 shells (for the simplified representation) or 3 shells if free water is also estimated. At the same time, the decoupled optimization in a low rank non-linear problem for the radial behavior and a model-free, linear problem for the orientation makes MiSFIT extremely time-efficient, beating the computation times of other methods by two orders of magnitude.<br></p>
 
-<p><b>3. Hybrid Diffusion Imaging - Diffusion Spectrum Imaging - Quadratic Programming (HYDI-DSI-QP).</b> &nbsp;</p>
-
+<p><b>3. Hybrid Diffusion Imaging - Diffusion Spectrum Imaging - Quadratic Programming (HYDI-DSI-QP).</b> It is aimed at non-parametrically describing the EAP through a set of particular values sampled at the nodes of a regular 3-D Cartesian lattice. As opposed to the direct approach originally proposed by Wu and colleagues, where the dual space of the EAP w.r.t. the Fourier transform is interpolated to get a Cartesian lattice and then the FFT is computed to retrieve the EAP, we directly relate the sparse multi-shell samples in the dual space to the Cartesian lattice of the EAP without interpolation. This is solved by means of a constrained Quadratic Problem. This formalism allows to compute non-negative EAP samples, as well as analytical estimates of common diffusion markers like the return-to-origin, return-to-plane, or return-to-axis probabilities, all of them in a time-efficient framework. Orientation Distribution Functions (ODFs), and even Positive-Definite ODFs, can also be computed in a combined numerical-analytical fashion, and represented in the basis of Spherical Harmonics.</p>
 
 <p>&nbsp;</p>
 
-
-# **About the Workshop**
-
-<p>The organizing team has been working for years on advanced measures estimated from diffusion MRI that provide similar clinical information to existing ones but using commercial scanners and a limited number of samples. Several techniques have been proposed, based on different models. These are based on the reduction of the number of degrees of freedom of the estimation problem by introducing prior assumptions and thus reducing the minimum number of data needed for estimation. The metrics derived from the new methodologies can be used as biomarkers in different clinical studies.<br></p>
-
-In this workshop:<br>
-   - We will review the philosophy and models behind each method.<br>
-   - We will explain the minimum acquisition requirements for the calculation of the metrics.<br>
-   - Participants will be playing with the software to learn how to estimate the different metrics from real data.<br>
+# **Methods**
+   - Apparent Measures Using Reduced Acquisitions (AMURA). <br>
+   - Micro-Structure-adaptive convolution kernels and dual Fourier domains Integral Transforms (MiSFIT). <br>
+   - Hybrid Diffusion Imaging (HyDI) - Diffusion Spectrum Imaging (DSI). <br>
+   - Free Water Volume Fraction estimation.<br>
 
 <p>&nbsp;</p>
 
