@@ -127,14 +127,13 @@ Nothing would be possible without the help of our amazing sponsors.
    - Federico Simmross-Wattenberg, PhD<br><br>
 
 
-
 **Volunteers:**
    - Patricia Amado-Caballero<br>
    - Emilio López-Ales<br>
-   - Elena Martín-González<br>
    - Carmen Martín-Martín<br>
    - Elisa Moya-Sáez<br>   
    - Rafael Navarro González<br>
+   - Gani Ouedraogo<br>   
    - Guillem París<br>
    - Justino R. Rodríguez-Galván<br>
  
