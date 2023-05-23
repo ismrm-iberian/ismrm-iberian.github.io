@@ -48,6 +48,7 @@ The meeting include oral and poster sessions where Chapter members will have the
 
 
 ## **Submit your abstract:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScb7VLjlTucEXGgI6C9MYUiJ0-a8iNKH-KMMug_CxzJIGUz6w/viewform?usp=sf_link">Click HERE</a>
+
 ## **Register for the conference:** <a target="_blank" href="https://www.eventbrite.com/e/3rd-ismrm-iberian-chapter-annual-meeting-tickets-629145008657">Click HERE</a>
 
 
