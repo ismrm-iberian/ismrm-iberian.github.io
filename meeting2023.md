@@ -41,7 +41,7 @@ The meeting include oral and poster sessions where Chapter members will have the
 # **Important dates and information (Main conference)**
 
 <p> Abstract submission: May 15th, 2023, 11 PM UTC +1</p> 
-<p> Abstract notification: May 25th, 2023 </p> 
+<p> Abstract notification: June 1st, 2023 </p> 
 <p> Registration fee (students and postdocs): 50€</p> 
 <p> Registration fee (staff scientists, faculty and industry): 75€</p> 
 <p> After 15th June, registration fees will increase by 25€.</p> 
@@ -63,7 +63,6 @@ The meeting include oral and poster sessions where Chapter members will have the
 
 ## **Submit your abstract:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScWa9vTAUACpNproDMQ3c0W0c-v4rAXUvL9GlXiRsWtlNjcOQ/viewform">Click HERE</a>
 
-## **Register for the conference:** <a target="_blank" href="https://www.eventbrite.com/e/3rd-ismrm-iberian-chapter-annual-meeting-tickets-629145008657">Click HERE</a>
 
 
 <p>&nbsp;</p>
@@ -79,8 +78,7 @@ The meeting include oral and poster sessions where Chapter members will have the
 
 
 
-
-
+<p>&nbsp;</p>
 
 
 
