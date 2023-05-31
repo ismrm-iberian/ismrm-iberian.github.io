@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ISMRM 2023 - Iberian Contributions"
-author: byague
+author: Byague
 # categories: [ Jekyll, tutorial ]
 image: assets/images/ISMRM231.png
 featured: true
