@@ -8,8 +8,6 @@ featured: true
 summary: "Check the Iberian Abstracts at ISMRM Toronto"
 ---
 
-Note in your agenda the iberian programme in Toronto!
-
 <img src="{{ site.baseurl }}/assets/images/ISMRM231.png" width="100%"/>
 <img src="{{ site.baseurl }}/assets/images/ISMRM232.png" width="100%"/>
 
