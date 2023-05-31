@@ -28,7 +28,8 @@ Laboratorio de Procesado de Imagen, LPI, Universidad de Valladolid, Spain<br>
 
 # **Registration**
 
-<p>The participation in the workshop is included with the ISMRM Iberian annual meeting 2023.</p>
+<p>The participation in the workshop is included with the ISMRM Iberian Annual Meeting 2023 conference fee.</p>
+<p>Registration deadline for the workshop:  16 June 2023</p>
 
 ### **Register for the hands-on workshops in diffusion MRI:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeAIgWvQxm73sbIo7zpmHMsGFjQpGebAJ0y_hFu-zx5OE26JQ/viewform">Click HERE</a>
 
