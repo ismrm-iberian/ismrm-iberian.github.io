@@ -8,11 +8,10 @@ featured: true
 summary: "Check the Iberian Contributions at ISMRM Toronto"
 ---
 
+If you are going to ISMRM in Toronto, check the abstracts of your Iberian colleagues!
+
 <img src="{{ site.baseurl }}/assets/images/ISMRM231.png" width="100%"/>
 <img src="{{ site.baseurl }}/assets/images/ISMRM232.png" width="100%"/>
-
-
-If you are going to ISMRM in Toronto, check the abstracts of your Iberian colleagues!
 
 <br />
 
