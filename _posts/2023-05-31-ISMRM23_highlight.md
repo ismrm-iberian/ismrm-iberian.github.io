@@ -5,7 +5,7 @@ author: byague
 # categories: [ Jekyll, tutorial ]
 image: assets/images/ISMRM231.png
 featured: true
-summary: "Check the Iberian Abstracts at ISMRM Toronto"
+summary: "Check the Iberian Contributions at ISMRM Toronto"
 ---
 
 <img src="{{ site.baseurl }}/assets/images/ISMRM231.png" width="100%"/>
