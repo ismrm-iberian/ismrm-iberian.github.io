@@ -42,8 +42,8 @@ The meeting include oral and poster sessions where Chapter members will have the
 
 <p> Abstract submission: May 15th, 2023, 11 PM UTC +1</p> 
 <p> Abstract notification: June 1st, 2023 </p> 
-<p> Registration fee (students and postdocs): 50€</p> 
-<p> Registration fee (staff scientists, faculty and industry): 75€</p> 
+<p> Registration fee (students and postdocs): 40€</p> 
+<p> Registration fee (staff scientists, faculty and industry): 65€</p> 
 <p> After 15th June, registration fees will increase by 25€.</p> 
 
 
