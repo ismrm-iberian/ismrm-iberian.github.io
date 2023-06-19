@@ -20,7 +20,7 @@ On behalf of the ISMRM Iberian Chapter Committee, we invite you to participate i
 
 The meeting will be an opportunity for academic and social interaction, and we will be honored to have the following distinguished speakers.
 
-<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_plenary.PNG" width="110%"/>
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_plenary.png" width="110%"/>
 
 <img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_round_table.png" width="110%"/>
 
