@@ -59,7 +59,7 @@ The meeting include oral and poster sessions where Chapter members will have the
 
 
 # **Programme at a glance**
-<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_programme.png" width="110%"/>
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_programme.PNG" width="110%"/>
 
 
 
