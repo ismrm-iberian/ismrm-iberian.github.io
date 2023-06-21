@@ -66,7 +66,7 @@ The meeting include oral and poster sessions where Chapter members will have the
 # **Meet our Sponsors**
 Nothing would be possible without the help of our amazing sponsors.
 
-<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_sponsors.png" width="110%"/>
+<img src="{{ site.baseurl }}/assets/images/Sponsors3rd.png" width="110%"/>
 
 
 
