@@ -68,7 +68,7 @@ Nothing would be possible without the help of our amazing sponsors.
 
 <img src="{{ site.baseurl }}/assets/images/IberianISMRM2023sponsors.jpg" width="110%"/>
 
-
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023sponsors.png" width="110%"/>
 
 # **Committees**
 
