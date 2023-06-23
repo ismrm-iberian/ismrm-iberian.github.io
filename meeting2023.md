@@ -7,7 +7,7 @@ summary: "3rd ISMRM Iberian Chapter annual meeting | July 3-5, 2023 | Valladolid
 
 Dear Iberian MRI Researchers,<br>
 
-The ISMRM Iberian Chapter is blooming maturely as a shared environment between scientists and clinicians in the magnetic resonance imaging field. 
+The ISMRM Iberian Chapter is blooming maturely as a shared environment between scientists and clinicians in the magnetic resonance imaging field.
 
 On behalf of the ISMRM Iberian Chapter Committee, we invite you to participate in the **ISMRM Iberian Chapter Annual Meeting 2023**, which will be held from **July 3rd to 5th in Valladolid**, one of the most beautiful Spanish cities of Renaissance architecture.<br><br>
 
@@ -22,8 +22,8 @@ The meeting will be an opportunity for academic and social interaction, and we w
    - **Dr Jorge Cardoso** (King's College London, United Kingdom),<br>
    - **Dr Joseba Alonso** (Universitat Politècnica de València, Spain),<br><br>
    - Roundtable: **Dr. Borja Ibáñez**, **David Filgueiras** and **Dr. Javier Sánchez** (Centro Nacional de Investigaciones Cardiovasculares, Madrid, Spain).<br>-->
-   
-   
+
+
 
 The meeting include oral and poster sessions where Chapter members will have the opportunity to present their work. As in the previous year, there will be awards for the best oral and poster presentations. The conference programme will also include time to explore this wonderful city and to network at our social events. <br><br>
 
@@ -36,15 +36,15 @@ The meeting include oral and poster sessions where Chapter members will have the
    - MRI signal reconstruction, representation and processing computational methods,<br>
    - multi-modal imaging including the synergy between the MRI and fNIRS/EEG/MEG/PLI,<br>
    - new software packages for reconstruction, processing and analysis of the MRI data.<br>
-   
+
 
 # **Important dates and information (Main conference)**
 
-<p> Abstract submission: May 15th, 2023, 11 PM UTC +1</p> 
-<p> Abstract notification: June 1st, 2023 </p> 
-<p> Registration fee (students and postdocs): 40€</p> 
-<p> Registration fee (staff scientists, faculty and industry): 65€</p> 
-<p> After 15th June, registration fees will increase by 25€.</p> 
+<p> Abstract submission: May 15th, 2023, 11 PM UTC +1</p>
+<p> Abstract notification: June 1st, 2023 </p>
+<p> Registration fee (students and postdocs): 40€</p>
+<p> Registration fee (staff scientists, faculty and industry): 65€</p>
+<p> After 15th June, registration fees will increase by 25€.</p>
 
 
 ## **Submit your abstract:** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScb7VLjlTucEXGgI6C9MYUiJ0-a8iNKH-KMMug_CxzJIGUz6w/viewform?usp=sf_link">Click HERE</a>
@@ -57,8 +57,8 @@ The meeting include oral and poster sessions where Chapter members will have the
 
 # **Important dates and information (fu-MRI session)**
 
-<p> Abstract submission: June 5th, 2023, 11 PM UTC +1</p> 
-<p> Contact person: Prof. Santiago Aja-Fernández (sanaja[at]tel.uva.es)</p> 
+<p> Abstract submission: June 5th, 2023, 11 PM UTC +1</p>
+<p> Contact person: Prof. Santiago Aja-Fernández (sanaja[at]tel.uva.es)</p>
 <p> fu-MRI session website: <a target="_blank" href="https://ismrm-iberian.eu/fumrisession2023.html">https://ismrm-iberian.eu/fumrisession2023.html</a></p>
 
 
@@ -93,6 +93,13 @@ Nothing would be possible without the help of our amazing sponsors.
 
 <img src="{{ site.baseurl }}/assets/images/IberianISMRM2023sponsors.png" width="110%"/>
 
+<a href="https://www.mrsolutions.com/" target="_blank"><img src="https://www.mrsolutions.com//assets/mrsolutions-logo.png"></img></a>
+<a href="https://www.bruker.com/es.html" target="_blank"><img src="https://www.bruker.com/content/dam/global/logos/logo.svg"></img></a>
+<a href="https://www.bionic.es/" target="_blank"><img src="https://www.bionic.es/wp-content/uploads/2023/02/Bionic-01.png"></img></a>
+<a href="https://www.siemens-healthineers.com/es" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Siemens_Healthineers_logo.svg/1280px-Siemens_Healthineers_logo.svg.png"></img></a>
+<a href="https://www.resonint.com/" target="_blank"><img src="https://static.wixstatic.com/media/8b0643_8ccd6ad8874d4234b9dfbab2eea14a8a~mv2.png/v1/fill/w_300,h_300,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8b0643_8ccd6ad8874d4234b9dfbab2eea14a8a~mv2.png"></img></a>
+<a href="https://www.philips.es/healthcare/solutions/magnetic-resonance" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Philips_logo_new.svg/2560px-Philips_logo_new.svg.png"></img></a>
+<a href="https://www.neosbiotec.com/index.php/es/" target="_blank"><img src="https://www.neosbiotec.com/images/logo.png"></img></a>
 
 
 # **Committees**
@@ -107,21 +114,21 @@ Nothing would be possible without the help of our amazing sponsors.
    - Rita G. Nunes, PhD (Chair)<br>
    - César Caballero-Gaudes, PhD (Vice-Chair)<br>
    - Rui Vasco Simões, PhD<br>
-   - José Angel Pineda-Pardo, PhD<br>   
+   - José Angel Pineda-Pardo, PhD<br>
    - Teresa Correia, PhD <br>
    - Joana Pinto, PhD <br>
    - Nuria Arias Ramos, PhD <br>
-   - Balbino Yagüe Jiménez <br>   
-   - Eneko Uruñuela<br><br> 
+   - Balbino Yagüe Jiménez <br>
+   - Eneko Uruñuela<br><br>
 
 **Local organizing Committee:**
    - Santiago Aja-Fernández, PhD<br>
    - Rodrigo de Luis-García, PhD<br>
    - Pablo Casaseca-Higuera, PhD<br>
-   - Marcos Martín-Fernández, PhD<br>   
+   - Marcos Martín-Fernández, PhD<br>
    - Miguel Ángel Martín-Fernández, PhD<br>
    - Rosa María Menchón-Lara, PhD<br>
-   - Manuel Rodríguez-Cayetano, PhD<br>   
+   - Manuel Rodríguez-Cayetano, PhD<br>
    - Federico Simmross-Wattenberg, PhD<br><br>
 
 
@@ -129,9 +136,8 @@ Nothing would be possible without the help of our amazing sponsors.
    - Patricia Amado-Caballero<br>
    - Emilio López-Ales<br>
    - Carmen Martín-Martín<br>
-   - Elisa Moya-Sáez<br>   
+   - Elisa Moya-Sáez<br>
    - Rafael Navarro González<br>
-   - Gani Ouedraogo<br>   
+   - Gani Ouedraogo<br>
    - Guillem París<br>
    - Justino R. Rodríguez-Galván<br>
- 
