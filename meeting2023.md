@@ -94,7 +94,7 @@ Nothing would be possible without the help of our amazing sponsors.
 <img src="{{ site.baseurl }}/assets/images/IberianISMRM2023sponsors.png" width="110%"/>
 
 <div style="text-align:center">
-    <a href="https://www.mrsolutions.com/" target="_blank"><img src="https://www.mrsolutions.com//assets/mrsolutions-logo.png" class="sponsor_logo"></a>
+    <a href="https://www.mrsolutions.com/" target="_blank"><img src="https://www.mrsolutions.com//assets/mrsolutions-logo.png " width="110%" class="sponsor_logo"></a>
     <a href="https://www.bruker.com/es.html" target="_blank"><img src="https://www.bruker.com/content/dam/global/logos/logo.svg" class="sponsor_logo"></a>
     <a href="https://www.bionic.es/" target="_blank"><img src="https://www.bionic.es/wp-content/uploads/2023/02/Bionic-01.png" class="sponsor_logo"></a>
     <a href="https://www.siemens-healthineers.com/es" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Siemens_Healthineers_logo.svg/1280px-Siemens_Healthineers_logo.svg.png" class="sponsor_logo"></a>
