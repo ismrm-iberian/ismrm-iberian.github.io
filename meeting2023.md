@@ -93,14 +93,28 @@ Nothing would be possible without the help of our amazing sponsors.
 
 <img src="{{ site.baseurl }}/assets/images/IberianISMRM2023sponsors.png" width="110%"/>
 
-<div style="text-align:center">
-    <a href="https://www.mrsolutions.com/" target="_blank"><img src="https://www.mrsolutions.com//assets/mrsolutions-logo.png " width="100%" class="sponsor_logo"></a>
-    <a href="https://www.bruker.com/es.html" target="_blank"><img src="https://www.bruker.com/content/dam/global/logos/logo.svg" width="70%" class="sponsor_logo"></a>
-    <a href="https://www.bionic.es/" target="_blank"><img src="https://www.bionic.es/wp-content/uploads/2023/02/Bionic-01.png" width="70%" class="sponsor_logo"></a>
-    <a href="https://www.siemens-healthineers.com/es" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Siemens_Healthineers_logo.svg/1280px-Siemens_Healthineers_logo.svg.png" width="70%" class="sponsor_logo"></a>
-    <a href="https://www.resonint.com/" target="_blank"><img src="https://static.wixstatic.com/media/8b0643_8ccd6ad8874d4234b9dfbab2eea14a8a~mv2.png/v1/fill/w_300,h_300,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8b0643_8ccd6ad8874d4234b9dfbab2eea14a8a~mv2.png" width="50%" class="sponsor_logo"></a>
-    <a href="https://www.philips.es/healthcare/solutions/magnetic-resonance" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Philips_logo_new.svg/2560px-Philips_logo_new.svg.png" width="50%" class="sponsor_logo"></a>
-    <a href="https://www.neosbiotec.com/index.php/es/" target="_blank"><img src="https://www.neosbiotec.com/images/logo.png" width="40%" class="sponsor_logo"></a>
+<div class="sponsors_container">
+    <div class="sponsors_uhf_container">
+            <a href="https://www.mrsolutions.com/" target="_blank" class="sponsor_link_uhf" style="box-shadow: none !important;"><img src="https://iq.msu.edu/wp-content/uploads/2023/04/MR-Solutions-logo.png" class="sponsor_logo_uhf"></a>
+    </div>
+    <div class="sponsors_7t_container">
+        <div class="logo_container">
+            <a href="https://www.bruker.com/es.html" target="_blank" class="sponsor_link_7t" style="box-shadow: none !important;"><img src="https://www.bruker.com/content/dam/global/logos/logo.svg" class="sponsor_logo_7t"></a>
+        </div>
+        <div class="logo_container">
+            <a href="https://www.bionic.es/" target="_blank" class="sponsor_link_7t" style="box-shadow: none !important;"><img src="https://www.bionic.es/wp-content/uploads/2023/02/Bionic-01.png" class="sponsor_logo_7t"></a>
+        </div>
+        <div class="logo_container">
+            <a href="https://www.siemens-healthineers.com/es" target="_blank" class="sponsor_link_7t" style="box-shadow: none !important;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Siemens_Healthineers_logo.svg/1280px-Siemens_Healthineers_logo.svg.png" class="sponsor_logo_7t"></a>
+        </div>
+    </div>
+    <div class="sponsors_3t_container">
+        <a href="https://www.resonint.com/" target="_blank" class="sponsor_link_3t" style="box-shadow: none !important;"><img src="https://static.wixstatic.com/media/8b0643_8ccd6ad8874d4234b9dfbab2eea14a8a~mv2.png/v1/fill/w_300,h_300,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8b0643_8ccd6ad8874d4234b9dfbab2eea14a8a~mv2.png" class="sponsor_logo_3t"></a>
+        <a href="https://www.philips.es/healthcare/solutions/magnetic-resonance" target="_blank" class="sponsor_link_3t" style="box-shadow: none !important;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Philips_logo_new.svg/2560px-Philips_logo_new.svg.png" class="sponsor_logo_3t"></a>
+    </div>
+    <div class="sponsors_1t_container">
+        <a href="https://www.neosbiotec.com/index.php/es/" target="_blank" class="sponsor_link_1t" style="box-shadow: none !important;"><img src="https://www.neosbiotec.com/images/logo.png" class="sponsor_logo_1t"></a>
+    </div>
 </div>
 
 # **Committees**
