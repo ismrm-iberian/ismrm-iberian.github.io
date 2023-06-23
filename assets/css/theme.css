@@ -1011,3 +1011,10 @@ iframe {
         margin-bottom: 1rem;
     }
 }
+
+
+.sponsor_logo {
+    max-width: 70%;
+    max-height: 300px;
+    height: auto;
+}
