@@ -4,9 +4,13 @@ title:  "ISMRM Iberian Chapter Annual Meeting 2023"
 author: teresa
 # categories: [ Jekyll, tutorial ]
 image: assets/images/IberianISMRM2023_ETSI.jpg
-featured: false
+featured: true
 summary: "3rd ISMRM Iberian Chapter annual meeting | July 3-5, 2023 | Valladolid, Spain"
 ---
+
+<script type="text/javascript">
+   window.location.href = "{{ site.baseurl }}/meeting2023.html"
+</script>
 
 Dear Iberian MRI Researchers,<br>
 
@@ -16,7 +20,7 @@ On behalf of the ISMRM Iberian Chapter Committee, we invite you to participate i
 
 The meeting will be an opportunity for academic and social interaction, and we will be honored to have the following distinguished speakers.
 
-<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_plenary.PNG" width="110%"/>
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_plenary.png" width="110%"/>
 
 <img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_round_table.png" width="110%"/>
 
@@ -62,9 +66,9 @@ The meeting include oral and poster sessions where Chapter members will have the
 # **Meet our Sponsors**
 Nothing would be possible without the help of our amazing sponsors.
 
-<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_sponsors.PNG" width="110%"/>
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023sponsors.jpg" width="110%"/>
 
-
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023sponsors.png" width="110%"/>
 
 # **Committees**
 

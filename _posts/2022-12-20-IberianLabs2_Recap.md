@@ -4,7 +4,7 @@ title: "Recap - MRIberian Labs #2 Meeting"
 author: rita-o
 # categories: [ Jekyll, tutorial ]
 image: assets/images/IberianLabs2022Summary.jpg
-featured: true
+featured: false
 summary: "Here are the highlights of the second Iberian Labs Meeting!"
 ---
 
