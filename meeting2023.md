@@ -105,7 +105,7 @@ Nothing would be possible without the help of our amazing sponsors.
             <a href="https://www.bionic.es/" target="_blank" class="sponsor_link_7t" style="box-shadow: none !important;"><img src="https://www.bionic.es/wp-content/uploads/2023/02/Bionic-01.png" class="sponsor_logo_7t"></a>
         </div>
         <div class="logo_container">
-            <a href="https://www.siemens-healthineers.com/es" target="_blank" class="sponsor_link_7t" style="box-shadow: none !important;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Siemens_Healthineers_logo.svg/1280px-Siemens_Healthineers_logo.svg.png" class="sponsor_logo_7t"></a>
+            <a href="https://www.siemens-healthineers.com/es/medical-imaging/radiologia-content-hub-acceso" target="_blank" class="sponsor_link_7t" style="box-shadow: none !important;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Siemens_Healthineers_logo.svg/1280px-Siemens_Healthineers_logo.svg.png" class="sponsor_logo_7t"></a>
         </div>
     </div>
     <div class="sponsors_3t_container">
