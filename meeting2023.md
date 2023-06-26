@@ -93,7 +93,7 @@ The meeting include oral and poster sessions where Chapter members will have the
 
 # **Localization map**
 
-<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_Valladolid_map.PNG" width="110%"/>
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_Valladolid_map.PNG.png" width="110%"/>
 
    - (1) Conference venue - Escuela Técnica Superior de Ingenieros de Telecomunicación. Opened: 8:00-18:30<br>
    - (2) Car parking<br>
