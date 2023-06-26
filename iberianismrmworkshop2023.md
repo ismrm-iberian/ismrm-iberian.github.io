@@ -23,6 +23,7 @@ Laboratorio de Procesado de Imagen, LPI, Universidad de Valladolid, Spain<br>
    - Santiago Aja-Fernández<br>
    - Antonio Tristán-Vega<br>   
    - Tomasz Pieciak<br>   
+   - Guillem París<br>      
 
 
 

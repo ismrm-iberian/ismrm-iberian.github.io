@@ -88,6 +88,21 @@ The meeting include oral and poster sessions where Chapter members will have the
 
 
 
+
+
+
+# **Localization map**
+
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_Valladolid_map.PNG" width="110%"/>
+
+   - (1) Conference venue - Escuela Técnica Superior de Ingenieros de Telecomunicación. Opened: 8:00-18:30<br>
+   - (2) Car parking<br>
+   - (3) Bus stop. Lines in service: 8 (<a href="http://www.auvasa.es/auv_linea.asp?lin=8">see here</a>)<br>
+   - (4) Cafetería serves Tuesday and Wednesday lunches. <br>
+   - (5), (6), (7), (8) Other Cafeterías<br>
+
+
+
 # **Meet our Sponsors**
 Nothing would be possible without the help of our amazing sponsors.
 
@@ -124,6 +139,14 @@ Nothing would be possible without the help of our amazing sponsors.
    - Pablo Irarrazaval, PhD<br>
    - Tomasz Pieciak, PhD<br>
    - Antonio Tristán-Vega, PhD<br><br>
+   
+
+**Hands-on Workshop Committee:**
+   - Santiago Aja-Fernández, PhD (Chair)<br>
+   - Antonio Tristán-Vega, PhD<br>   
+   - Tomasz Pieciak, PhD<br>   
+   - Guillem París<br>
+   
 
 **Iberian ISMRM Chapter Committee:**
    - Rita G. Nunes, PhD (Chair)<br>
