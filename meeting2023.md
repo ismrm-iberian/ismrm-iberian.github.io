@@ -25,7 +25,7 @@ The meeting will be an opportunity for academic and social interaction, and we w
 
 
 
-The meeting include oral and poster sessions where Chapter members will have the opportunity to present their work. As in the previous year, there will be awards for the best oral and poster presentations. The conference programme will also include time to explore this wonderful city and to network at our social events. <br><br>
+The meeting includes oral and poster sessions where Chapter members will have the opportunity to present their work. As in the previous year, there will be awards for the best oral and poster presentations. The conference programme will also include time to explore this wonderful city and to network at our social events. <br><br>
 
 <img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_Valladolid_image.png" width="110%"/>
 
@@ -97,9 +97,9 @@ The meeting include oral and poster sessions where Chapter members will have the
 
    - (1) Conference venue - Escuela Técnica Superior de Ingenieros de Telecomunicación. Opened: 8:00-18:30<br>
    - (2) Car parking<br>
-   - (3) Bus stop. Lines in service: 8 (<a href="http://www.auvasa.es/auv_linea.asp?lin=8">see here</a>)<br>
+   - (3) Bus stop. Lines in service: 8 (<a href="http://www.auvasa.es/auv_linea.asp?lin=8">see here</a>)<br>. Tickets can be bought inside a bus through a ticket machine. Machines accept only cards.
    - (4) Cafetería serves Tuesday and Wednesday lunches. <br>
-   - (5), (6), (7), (8) Other Cafeterías<br>
+   - (5), (6), (7), (8) Other cafeterías<br>
 
 
 
@@ -172,10 +172,16 @@ Nothing would be possible without the help of our amazing sponsors.
 
 **Volunteers:**
    - Patricia Amado-Caballero<br>
+   - Irene Fernández Arias<br>
    - Emilio López-Ales<br>
    - Carmen Martín-Martín<br>
+   - Susana Merino-Caviedes<br>
    - Elisa Moya-Sáez<br>
    - Rafael Navarro González<br>
    - Gani Ouedraogo<br>
    - Guillem París<br>
    - Justino R. Rodríguez-Galván<br>
+   - Pablo Villacorta Aylagas<br>
+
+
+
