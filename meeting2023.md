@@ -166,7 +166,7 @@ Nothing would be possible without the help of our amazing sponsors.
    - Marcos Martín-Fernández, PhD<br>
    - Miguel Ángel Martín-Fernández, PhD<br>
    - Rosa María Menchón-Lara, PhD<br>
-   - Susana Merino-Caviedes<br>   
+   - Susana Merino-Caviedes, PhD<br>   
    - Manuel Rodríguez-Cayetano, PhD<br>
    - Federico Simmross-Wattenberg, PhD<br><br>
 
