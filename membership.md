@@ -27,4 +27,4 @@ Members will have access to discounted registration fees when attending the Iber
 Scientific Meetings. Trainee Members can only elect the postdoctoral and student representatives.
 
 ## **Interested in becoming a member of this Chapter?**
-Please fill out this <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfBX2H6PmynJPxjBgp-mMCBfltl0FSE3qdQB6YrsGC-Sal3uA/viewform">expression-of-interest form.</a>
+Please fill out this <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScMYHgce_IrX9bDVwZmz0-mAn-K_04YVKRcgRCUsl277baG6A/viewform">expression-of-interest form.</a>

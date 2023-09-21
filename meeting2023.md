@@ -97,7 +97,7 @@ The meeting includes oral and poster sessions where Chapter members will have th
 
    - (1) Conference venue - Escuela Técnica Superior de Ingenieros de Telecomunicación. Opened: 8:00-18:30<br>
    - (2) Car parking<br>
-   - (3) Bus stop. Lines in service: 8 (<a href="http://www.auvasa.es/auv_linea.asp?lin=8">see here</a>)<br>. Tickets can be bought inside a bus through a ticket machine. Machines accept only cards.
+   - (3) Bus stop. Lines in service: 8 (<a href="http://www.auvasa.es/auv_linea.asp?lin=8">see here</a>). Tickets can be bought inside a bus through a ticket machine. Machines accept only cards.
    - (4) Cafetería serves Tuesday and Wednesday lunches. <br>
    - (5), (6), (7), (8) Other cafeterías<br>
 
