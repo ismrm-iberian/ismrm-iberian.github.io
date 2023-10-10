@@ -6,4 +6,3 @@ summary: "4th ISMRM Iberian Chapter annual meeting | July 2-3, 2024 | Porto, Por
 ---
 
 
-
