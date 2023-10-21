@@ -3,7 +3,7 @@ layout: post
 title: "Recap - 3rd ISMRM Iberian Chapter Annual Meeting"
 author: rita-o
 # categories: [ Jekyll, tutorial ]
-image: assets/images/ISMRM_2022_Recap.png
+image: assets/images/IberianISMRM2023_all_participants.jpg
 featured: false
 summary: "Here are the highlights of a great in-person annual meeting!"
 ---
@@ -74,7 +74,7 @@ We thank all the sponsors and exhibitors of the Iberian Chapter Meeting 2023 for
     </div>
 </div>
 
-We hope to see you soon in **Porto** for the **4th ISMRM Iberian Chapter Annual Meeting**! 
+We hope to see you next year in **Porto** at the **4th ISMRM Iberian Chapter Annual Meeting**! 
 
 Até breve, Hasta pronto,
 
