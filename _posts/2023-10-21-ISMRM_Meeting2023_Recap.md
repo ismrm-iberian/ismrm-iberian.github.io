@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recap - 3rd ISMRM Iberian Chapter Annual Meeting"
+title: "Recap - 3rd ISMRM Iberian Chapter Annual Meeting, Valladolid, Spain"
 author: rita-o
 # categories: [ Jekyll, tutorial ]
 image: assets/images/IberianISMRM2023_all_participants.jpg
@@ -10,11 +10,11 @@ summary: "Here are the highlights of a great in-person annual meeting!"
 
 📅 **Day 1**  
 
-We started the first day of the **ISMRM Iberian Chapter Annual Meeting 2023 in Valladolid** with an opening ceremony given by **Dr. Rita Nunes**, the Chair of the ISMRM Iberian Chapter, **Dr. Carlos Alberola-López**, Chair of the Scientific Committee, and **Dr. Antonio Largo**, the President of the University of Valladolid.
+We started the first day of the **ISMRM Iberian Chapter Annual Meeting 2023 in Valladolid** with an opening ceremony given by **Prof. Rita Nunes**, the Chair of the ISMRM Iberian Chapter, **Prof. Carlos Alberola-López**, Chair of the Scientific Committee, and **Dr. Antonio Largo**, the President of the University of Valladolid.
 
 The first inspiring plenary session of the meeting was given by **Dr. Jorge Cardoso** (King’s College in London), entitled "Safe & Robust AI in a highly heterogenous data environment". A clinical oral session followed before the lunch break. 
 
-After the lunch break, we had a standard poster session, including a poster teaser session. After a short coffee break, a round table took place, moderated by **Dr. Carlos Alberola-López** and with the presence of **Dr. Borja Ibáñez** (CNIC), **Dr. David Filgueiras** (CNIC) and **Dr. Javier Sánchez-González** (Philips Healthcare), on the topic of "CNIC: a model of public-private collaboration in research".
+After the lunch break, we had a standard poster session, including a poster teaser session. After a short coffee break, a round table took place, moderated by **Prof. Carlos Alberola-López** and with the presence of **Dr. Borja Ibáñez** (CNIC), **Dr. David Filgueiras** (CNIC) and **Dr. Javier Sánchez-González** (Philips Healthcare), on the topic of "CNIC: a model of public-private collaboration in research".
 
 At the end of the day, there was a networking event in the streets of Valladolid, where researchers could attend a guided tour of the city, followed by a gala dinner.
 
@@ -28,22 +28,22 @@ Next, we had a poster teaser and a standard poster session, followed by a "Heart
 
 **Bruker** kindly sponsored a lunch session called **"Lunch with Bruker"**, where they highlighted their newest developments in the pre-clinical field.
 
-After the lunch break, an oral "Preclinical" session was carried out, followed by a new type of session: **fu-MRI (funny Magnetic Resonance Ideas)**, where several of our researchers shared funny thoughts about their research, or ideas that were left aside because they were too bold, too bizarre or, maybe, too wrong.
+After the lunch break, an oral "Preclinical" session was carried out, followed by a new type of session organized by **Prof. Santiago Aja-Fernández**: **fu-MRI (funny Magnetic Resonance Ideas)**, where several of our researchers shared funny thoughts about their research, or ideas that were left aside because they were too bold, too bizarre or, maybe, too wrong.
 
-Following the fu-MRI session, a short pitch was given by MR Solutions, which presented their recent advances in the field.
+Following the fu-MRI session, a short pitch was given by **MR Solutions**, which presented their recent advances in the field.
 
-Finally, the meeting was finished with awards for the best talks and posters, and some closing words given by **Dr. Rita Nunes** and **Dr. Carlos Alberola-López**. 
+Finally, the meeting was finished with awards for the best talks and posters, and some closing words given by **Prof. Rita Nunes** and **Prof. Carlos Alberola-López**. 
 
 
 
 🏆 **Awards**  
 
 Talks:  
-1st prize: Eneko Uruñuela 
+1st prize: Eneko Uruñuela <br>
 2nd prize: Francesco Grussu  
 
 Posters:  
-1st prize: Elisa Moya Sáez
+1st prize: Elisa Moya Sáez<br>
 2nd prize: Olivia Prior Palomares
 
 
@@ -76,7 +76,8 @@ We thank all the sponsors and exhibitors of the Iberian Chapter Meeting 2023 for
 
 We hope to see you next year in **Porto** at the **4th ISMRM Iberian Chapter Annual Meeting**! 
 
-Até breve, Hasta pronto,
+¡Hasta pronto!
+Até breve! 
 
 ISMRM Iberian Chapter
 
