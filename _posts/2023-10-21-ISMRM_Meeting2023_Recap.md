@@ -33,7 +33,7 @@ After the lunch break, an oral "Preclinical" session was carried out, followed b
 Following the fu-MRI session, a short pitch was given by **MR Solutions**, which presented their recent advances in the field.
 
 Finally, the meeting was finished with awards for the best talks and posters, and some closing words given by **Prof. Rita Nunes** and **Prof. Carlos Alberola-López**. 
-
+ 
 
 
 🏆 **Awards**  
@@ -45,6 +45,7 @@ Talks:
 Posters:  
 1st prize: Elisa Moya Sáez<br>
 2nd prize: Olivia Prior Palomares
+
 
 
 ✨ **Our sponsors**  
