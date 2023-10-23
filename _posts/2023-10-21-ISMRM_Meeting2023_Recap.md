@@ -54,6 +54,9 @@ Finally, the meeting was finished with awards for the best talks and posters, an
  
 
 
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos.png" width="110%"/>
+
+
 🏆 **Awards**  
 
 Talks:  
