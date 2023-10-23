@@ -14,11 +14,11 @@ We started the first day of the **ISMRM Iberian Chapter Annual Meeting 2023 in V
 
 The first inspiring plenary talk of the meeting was given by **Dr. Jorge Cardoso** (King’s College in London), entitled "Safe & Robust AI in a highly heterogenous data environment". A clinical oral session followed before the lunch break. 
 
-<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_Cardoso.png" width="110%"/>
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_Jorge_Cardoso.jpg" width="110%"/>
 
 After the lunch break, we had a standard poster session, including a poster teaser session. After a short coffee break, a round table took place, moderated by **Prof. Carlos Alberola-López** and with the presence of **Dr. Borja Ibáñez** (CNIC), **Dr. David Filgueiras** (CNIC) and **Dr. Javier Sánchez-González** (Philips Healthcare), on the topic of "CNIC: a model of public-private collaboration in research".
 
-<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_CNIC.png" width="110%"/>
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_CNIC.jpg" width="110%"/>
 
 At the end of the day, there was a networking event in the streets of Valladolid, where researchers could attend a guided tour of the city, followed by a gala dinner.
 
@@ -26,16 +26,29 @@ At the end of the day, there was a networking event in the streets of Valladolid
 <img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_day1.png" width="110%"/>
   
 
+  
+
 📅 **Day 2**  
 On the second day, we started early with a fantastic plenary talk given by **Dr. María Luisa García Martín**, from the Andalusian Center for Nanomedicine and Biotechnology (Bionand) entitled "Magnetic Resonance Imaging and Spectroscopy in Biomedical Research". 
 
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_Maria_Garcia.jpg" width="110%"/>
+  
+
 Next, we had a poster teaser and a standard poster session, followed by a "Heart & Hardware" oral session. The morning was completed with an extraordinary plenary talk by **Dr. Joseba Alonso** entitled "MRI for everybody, everywhere", from the Polytechnic University of Valencia, on the topic of low field MRI. 
 
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_Joseba_Alonso.jpg" width="110%"/>
+
 **Bruker** kindly sponsored a lunch session called **"Lunch with Bruker"**, where they highlighted their newest developments in the pre-clinical field.
+
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_Bruker.jpg" width="110%"/>
+  
 
 After the lunch break, an oral "Preclinical" session was carried out, followed by a new type of session organized by **Prof. Santiago Aja-Fernández**: **fu-MRI (funny Magnetic Resonance Ideas)**, where several of our researchers shared funny thoughts about their research, or ideas that were left aside because they were too bold, too bizarre or, maybe, too wrong.
 
 Following the fu-MRI session, a short pitch was given by **MR Solutions**, which presented their recent advances in the field.
+
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_MRSOLUTIONS.jpg" width="110%"/>
+
 
 Finally, the meeting was finished with awards for the best talks and posters, and some closing words given by **Prof. Rita Nunes** and **Prof. Carlos Alberola-López**. 
  
@@ -83,7 +96,7 @@ We thank all the sponsors and exhibitors of the Iberian Chapter Meeting 2023 for
 
 We hope to see you next year in **Porto** at the **4th ISMRM Iberian Chapter Annual Meeting**! 
 
-¡Hasta pronto!
+¡Hasta pronto!<br/>
 Até breve! 
 
 ISMRM Iberian Chapter
