@@ -3,7 +3,7 @@ layout: post
 title: "Recap - 3rd ISMRM Iberian Chapter Annual Meeting, Valladolid, Spain"
 author: rita-o
 # categories: [ Jekyll, tutorial ]
-image: assets/images/IberianISMRM2023_all_participants.jpg
+image: assets/images/IberianISMRM2023_photos_all_participants.jpg
 featured: false
 summary: "Here are the highlights of a great in-person annual meeting!"
 ---
@@ -12,13 +12,18 @@ summary: "Here are the highlights of a great in-person annual meeting!"
 
 We started the first day of the **ISMRM Iberian Chapter Annual Meeting 2023 in Valladolid** with an opening ceremony given by **Prof. Rita Nunes**, the Chair of the ISMRM Iberian Chapter, **Prof. Carlos Alberola-López**, Chair of the Scientific Committee, and **Dr. Antonio Largo**, the President of the University of Valladolid.
 
-The first inspiring plenary session of the meeting was given by **Dr. Jorge Cardoso** (King’s College in London), entitled "Safe & Robust AI in a highly heterogenous data environment". A clinical oral session followed before the lunch break. 
+The first inspiring plenary talk of the meeting was given by **Dr. Jorge Cardoso** (King’s College in London), entitled "Safe & Robust AI in a highly heterogenous data environment". A clinical oral session followed before the lunch break. 
+
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_Cardoso.png" width="110%"/>
 
 After the lunch break, we had a standard poster session, including a poster teaser session. After a short coffee break, a round table took place, moderated by **Prof. Carlos Alberola-López** and with the presence of **Dr. Borja Ibáñez** (CNIC), **Dr. David Filgueiras** (CNIC) and **Dr. Javier Sánchez-González** (Philips Healthcare), on the topic of "CNIC: a model of public-private collaboration in research".
+
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_CNIC.png" width="110%"/>
 
 At the end of the day, there was a networking event in the streets of Valladolid, where researchers could attend a guided tour of the city, followed by a gala dinner.
 
 
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_day1.png" width="110%"/>
   
 
 📅 **Day 2**  
@@ -46,6 +51,7 @@ Posters:
 1st prize: Elisa Moya Sáez<br>
 2nd prize: Olivia Prior Palomares
 
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_awards.png" width="110%"/>
 
 
 ✨ **Our sponsors**  
