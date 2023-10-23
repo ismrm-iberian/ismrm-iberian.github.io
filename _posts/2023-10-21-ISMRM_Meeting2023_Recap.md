@@ -12,6 +12,9 @@ summary: "Here are the highlights of a great in-person annual meeting!"
 
 We started the first day of the **ISMRM Iberian Chapter Annual Meeting 2023 in Valladolid** with an opening ceremony given by **Prof. Rita Nunes**, the Chair of the ISMRM Iberian Chapter, **Prof. Carlos Alberola-López**, Chair of the Scientific Committee, and **Dr. Antonio Largo**, the President of the University of Valladolid.
 
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_welcome_speech.jpg" width="110%"/>
+
+
 The first inspiring plenary talk of the meeting was given by **Dr. Jorge Cardoso** (King’s College in London), entitled "Safe & Robust AI in a highly heterogenous data environment". A clinical oral session followed before the lunch break. 
 
 <img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_Jorge_Cardoso.jpg" width="110%"/>
@@ -44,6 +47,9 @@ Next, we had a poster teaser and a standard poster session, followed by a "Heart
   
 
 After the lunch break, an oral "Preclinical" session was carried out, followed by a new type of session organized by **Prof. Santiago Aja-Fernández**: **fu-MRI (funny Magnetic Resonance Ideas)**, where several of our researchers shared funny thoughts about their research, or ideas that were left aside because they were too bold, too bizarre or, maybe, too wrong.
+
+<img src="{{ site.baseurl }}/assets/images/IberianISMRM2023_photos_fuMRI_session.png" width="110%"/>
+
 
 Following the fu-MRI session, a short pitch was given by **MR Solutions**, which presented their recent advances in the field.
 
