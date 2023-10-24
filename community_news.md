@@ -16,4 +16,6 @@ This information will be shared on our social media networks (e.g. Twitter, webs
 - **July, 2021:** Iberian Chapter Newsletter #1. <a href="https://mailchi.mp/c5436cc15678/iberian-chapter-newsletter-1" target="_blank">See here.</a>
 - **May 24th, 2021:** Special edition with the British and Irish Chapter. <a href="https://mailchi.mp/8572954127f5/aqizcjy8ry" target="_blank">See here.</a>
 - **May, 2022:** Iberian Chapter Newsletter #2. <a href="https://mailchi.mp/c39d8a1dc63a/iberian-chapter-newsletter-2" target="_blank">See here.</a>
+- **August, 2022:** Iberian Chapter Newsletter #3. <a href="http://eepurl.com/ieQGb1" target="_blank">See here.</a>
+- **June, 2023:** Iberian Chapter Newsletter #4. <a href="http://eepurl.com/ipBW8g" target="_blank">See here.</a>
 
