@@ -45,6 +45,12 @@ authors:
     display_name: Rita
     gravatar: 17729465?v=4
     web: https://twitter.com/rita_v_oliveira
+tomasz:
+    name: Tomasz
+    display_name: Tomasz
+    gravatar: 10853485?v=4
+    web: https://twitter.com/PieciakTomasz
+    
 
 # Plugins
 plugins:
