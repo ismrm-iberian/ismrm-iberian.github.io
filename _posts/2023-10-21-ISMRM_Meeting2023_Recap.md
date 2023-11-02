@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recap - 3rd ISMRM Iberian Chapter Annual Meeting, Valladolid, Spain"
-author: TPieciak
+author: tomasz
 # categories: [ Jekyll, tutorial ]
 image: assets/images/IberianISMRM2023_photos_all_participants.jpg
 featured: true
