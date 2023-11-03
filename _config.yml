@@ -45,11 +45,17 @@ authors:
     display_name: Rita
     gravatar: 17729465?v=4
     web: https://twitter.com/rita_v_oliveira
-tomasz:
+  tomasz:
     name: Tomasz
     display_name: Tomasz
     gravatar: 10853485?v=4
     web: https://twitter.com/PieciakTomasz
+  balbino:
+    name: Balbino
+    display_name: Balbino
+    gravatar: 117201795?v=4
+    web: https://twitter.com/balbinoyj
+  
     
 
 # Plugins
