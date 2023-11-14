@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ISMRM Junior Fellowship Webinar"
-author: tomasz
+author: joana
 # categories: [ Jekyll, tutorial ]
 image: assets/images/webinar_JRFsv2.jpg
 featured: true
