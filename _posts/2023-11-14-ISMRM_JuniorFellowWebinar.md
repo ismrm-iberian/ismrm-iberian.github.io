@@ -3,7 +3,7 @@ layout: post
 title: "ISMRM Junior Fellowship Webinar"
 author: joana
 # categories: [ Jekyll, tutorial ]
-image: assets/images/webinar_JRFsv2.jpg
+image: assets/images/webinar_JRFsv2.png
 featured: true
 summary: "Join us this Friday for this webinar"
 ---
