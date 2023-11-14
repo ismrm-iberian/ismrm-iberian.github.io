@@ -8,10 +8,12 @@ featured: true
 summary: "Join us this Friday for this webinar"
 ---
 
-📅 **Save the Date**
+📅 **Save the Date** 📅
 
 Friday, 17th November 2023
-ISMRM JUNIOR FELLOWSHIP - what you should know before applying
+
+
+**ISMRM JUNIOR FELLOWSHIP - what you should know before applying**
 
 Interested in applying for the ISMRM Junior Fellowship?
 Join our webinar this Friday where we still discuss the benefits of being a Junior Fellow and how you can make your application more appealing.
