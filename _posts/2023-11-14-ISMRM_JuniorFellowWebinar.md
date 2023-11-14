@@ -31,7 +31,8 @@ Confirmed speakers include:
 We hope to see you this Friday! 
 
 
-Link for zoom: 
+Link for webinar:
+
 https://videoconf-colibri.zoom.us/j/777350275?pwd=U2RKRnZZRlE0NCtoL2RyakZFL2FGZz09
 
 Password: 831579
