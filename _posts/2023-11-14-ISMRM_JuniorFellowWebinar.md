@@ -16,13 +16,17 @@ Friday, 17th November 2023
 **ISMRM JUNIOR FELLOWSHIP - what you should know before applying**
 
 Interested in applying for the ISMRM Junior Fellowship?
-Join our webinar this Friday where we still discuss the benefits of being a Junior Fellow and how you can make your application more appealing.
+Join our webinar this Friday where we will discuss the benefits of being an ISMRM Junior Fellow and how you can make your application more appealing.
 
 
 Confirmed speakers include:
+
 🏆 Chair of the ISMRM Awards committee: Scott B. Reeder, MD, PhD
+
 🏆 2023 Junior Fellow: Gabriel Ramos Llordén, PhD
+
 🏆 2023 Junior Fellow: Joana Pinto, PhD
+
 
 We hope to see you this Friday! 
 
