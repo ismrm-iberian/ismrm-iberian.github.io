@@ -3,7 +3,7 @@ layout: post
 title: "Interview with MR Solutions"
 author: joana
 # categories: [ Jekyll, tutorial ]
-image: assets/images/IberianISMRM2023_photos_all_participants.jpg
+image: assets/images/MRsolutions.png
 featured: false
 summary: "Iberian Chapter Interview with MR Solutions Representative"
 ---
