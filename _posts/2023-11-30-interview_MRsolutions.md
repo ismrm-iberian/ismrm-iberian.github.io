@@ -8,6 +8,9 @@ featured: false
 summary: "Interview with MR Solutions"
 ---
 
+**Iberian Chapter Interview with MR Solutions Representative**
+
+
 **Nuria (Iberian Chapter)**: Today we are going to talk with Fabrice, the representative of MR Solutions in our third Iberian Chapter annual meeting. 
 
 **Fabrice (MR Solutions)**, can you please give us an introduction to us about the MR Solutions company? 
