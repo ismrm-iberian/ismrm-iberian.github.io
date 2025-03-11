@@ -9,7 +9,7 @@ summary: "5th ISMRM Iberian Chapter annual meeting | July 3-4, 2025 | Barcelona,
 
 **Location**: Institute for Bioengineering of Catalonia, Barcelona, Spain
 
-**Conference website**: <a target="_blank" href="https://events.ibecbarcelona.eu/ismrm-2025/</a>
+**Conference website**: <a target="_blank" href="https://events.ibecbarcelona.eu/ismrm-2025/">https://events.ibecbarcelona.eu/ismrm-2025/</a>
 
 **Preliminary Program**
 
