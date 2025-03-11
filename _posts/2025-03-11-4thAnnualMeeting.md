@@ -1,16 +1,16 @@
 ---
-layout: post
-title: ISMRM Iberian Chapter Annual Meeting 2025
-image: assets/images/2025annualmeetingbanner.png
-summary: "5th ISMRM Iberian Chapter annual meeting | July 3-4, 2025 | Barcelona, Spain"
+layout: page
+title: ISMRM Iberian Chapter Annual Meeting 2024
+image: assets/images/IberianISMRM2024_flyer.png
+summary: "4th ISMRM Iberian Chapter annual meeting | July 2-3, 2024 | Porto, Portugal"
 ---
 
-**Date**: July 3-4, 2025
+**Date**: July 2-3, 2024
 
-**Location**: Institute for Bioengineering of Catalonia, Barcelona, Spain
+**Location**: i3S Porto, Portugal
 
-**Conference website**: <a target="_blank" href="https://events.ibecbarcelona.eu/ismrm-2025/</a>
+**Conference website**: <a target="_blank" href="https://www.i3s.up.pt/event.php?v=303">https://www.i3s.up.pt/event.php?v=303</a>
 
 **Preliminary Program**
 
-<img src="{{ site.baseurl }}/assets/images/2025_programm.png" width="80%"/>
+<img src="{{ site.baseurl }}/assets/images/2024program.png" width="80%"/>
