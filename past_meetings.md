@@ -2,6 +2,9 @@
 layout: page
 title: Past Meetings
 ---
+## 2024
+
+- <a href="{{ '/2024/04/01/4thAnnualMeeting.html'| relative_url }}">Annual Meeting 2024</a>
 
 ## 2023
 
