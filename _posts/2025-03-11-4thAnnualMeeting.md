@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: ISMRM Iberian Chapter Annual Meeting 2024
 image: assets/images/2024annualmeetingbanner.png
 summary: "4th ISMRM Iberian Chapter annual meeting | July 2-3, 2024 | Porto, Portugal"
