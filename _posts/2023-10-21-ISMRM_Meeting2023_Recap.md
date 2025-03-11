@@ -4,7 +4,7 @@ title: "Recap - 3rd ISMRM Iberian Chapter Annual Meeting, Valladolid, Spain"
 author: tomasz
 # categories: [ Jekyll, tutorial ]
 image: assets/images/IberianISMRM2023_photos_all_participants.jpg
-featured: true
+featured: false
 summary: "Here are the highlights of a great in-person annual meeting!"
 ---
 
