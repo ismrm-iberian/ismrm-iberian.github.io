@@ -13,4 +13,4 @@ summary: "5th ISMRM Iberian Chapter annual meeting | July 3-4, 2025 | Barcelona,
 
 **Preliminary Program**
 
-<img src="{{ site.baseurl }}/assets/images/2025_programm.png" width="80%"/>
+<img src="{{ site.baseurl }}/assets/images/2025_programm.png" width="70%"/>
