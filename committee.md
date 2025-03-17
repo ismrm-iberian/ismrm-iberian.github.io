@@ -4,5 +4,5 @@ title: Current Committee
 ---
 
 <div class="committee-pictures">
-    <img src="{{ site.baseurl }}/assets/images/IBC_ExecMembers_2024.png"/>
+    <img src="{{ site.baseurl }}/assets/images/Committee_2025.png"/>
 </div>
