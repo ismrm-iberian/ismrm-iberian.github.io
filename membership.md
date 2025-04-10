@@ -24,7 +24,7 @@ a degree in a relevant field of study, whether full-time or part-time, undergrad
 post-docs who have received their Ph.D. within the last five years are eligible for Trainee Membership.
 Anyone holding a faculty position is not eligible for Trainee Membership in the Iberian Chapter. Trainee
 Members will have access to discounted registration fees when attending the Iberian Chapter Annual
-Scientific Meetings. Trainee Members can only elect the postdoctoral and student representatives.
+Scientific Meetings. Trainee Members can only elect the postdoctoral and student representatives. 
 
 ## **Interested in becoming a member of this Chapter?**
 Please fill out this <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScMYHgce_IrX9bDVwZmz0-mAn-K_04YVKRcgRCUsl277baG6A/viewform">expression-of-interest form.</a> (no confirmation email is sent)
