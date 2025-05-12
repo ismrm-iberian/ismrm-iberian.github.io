@@ -4,7 +4,7 @@ title: "ISMRM Junior Fellowship Webinar"
 author: joana
 # categories: [ Jekyll, tutorial ]
 image: assets/images/webinar_JRFsv2.png
-featured: true
+featured: false
 summary: "Join us this Friday for this webinar"
 ---
 
