@@ -2,8 +2,7 @@
 layout: post
 title: "ISMRM 2025 - Iberian Contributions"
 author: Irene
-# categories: [ Jekyll, tutorial ]
-image: assets/images/2025_Hawaii.jpg
+image: assets/images/2025_Hawaii.png
 featured: true
 summary: "Check the Iberian Contributions at ISMRM Hawai'i"
 ---
