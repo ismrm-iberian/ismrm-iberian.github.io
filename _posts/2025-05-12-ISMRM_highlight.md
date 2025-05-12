@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ISMRM 2025 - Iberian Contributions"
-author: IreneGuadilla
+author: irene
 image: assets/images/2025_Hawaii.png
 featured: true
 summary: "Check the Iberian Contributions at ISMRM Hawai'i"
