@@ -9,4 +9,3 @@ summary: "Check the Iberian Contributions at ISMRM Hawai'i"
 ---
 If you are going to ISMRM in Hawai'i, check the abstracts of your Iberian colleagues!
 
-<br />
