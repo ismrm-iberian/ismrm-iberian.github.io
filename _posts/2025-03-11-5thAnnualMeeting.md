@@ -14,6 +14,7 @@ author: irene
 **Conference website**: <a target="_blank" href="https://events.ibecbarcelona.eu/ismrm-2025/">https://events.ibecbarcelona.eu/ismrm-2025/</a>
 
 **Preliminary Program**
+
 **Workshop 2nd July 2025**
 
 <img src="{{ site.baseurl }}/assets/images/2nd_july_2025.png" width="100%"/>
