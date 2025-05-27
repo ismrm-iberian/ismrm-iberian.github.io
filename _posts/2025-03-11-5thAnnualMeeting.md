@@ -16,10 +16,10 @@ author: irene
 **Preliminary Program**
 **Workshop 2nd July 2025**
 
-<img src="{{ site.baseurl }}/assets/images/2nd_july_2025.png" width="80%"/>
+<img src="{{ site.baseurl }}/assets/images/2nd_july_2025.png" width="100%"/>
 
 **Iberian Chapter Annual Meeting 3rd-4th July 2025**
 
-<img src="{{ site.baseurl }}/assets/images/3rd_july_2025.png" width="80%"/>
+<img src="{{ site.baseurl }}/assets/images/3rd_july_2025.png" width="100%"/>
 
-<img src="{{ site.baseurl }}/assets/images/4th_july_2025.png" width="80%"/>
+<img src="{{ site.baseurl }}/assets/images/4th_july_2025.png" width="100%"/>
