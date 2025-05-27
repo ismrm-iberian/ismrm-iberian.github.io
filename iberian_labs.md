@@ -20,11 +20,11 @@ We will list only one entry per research institution/center (no duplicates).
 
 ### Biomedical Magnetic Resonance
 
-- Instituto de Investigaciones Biomédicas "Alberto Sols", CSIC-UAM, Madrid, Spain.
+- Instituto de Investigaciones Biomédicas Sols-Morreale (IIBM), CSIC-UAM, Madrid, Spain.
 - The **Biomedical Magnetic Resonance** lab focuses on three main lines: i) imaging markers of neuroinflammation, ii) characterization of the tumor microenvironment in animal models of glioblastoma, and iii) development of multi-targeted theragnostic liposomes
 - Main research topics: *neuroinflammation, glioblastoma, brain disorders, obesity, theragnostic nanoparticles*
-- Contact: Pilar Lopez-Larrubia, [plopez at iib.uam.es](mailto:plopez@iib.uam.es)
-- Website: www.iib.uam.es
+- Contact: Pilar López-Larrubia, [plopez at iib.uam.es](mailto:plopez@iib.uam.es)
+- Website: [https://www.iib.uam.es/web/iibm](https://www.iib.uam.es/web/iibm)
 - Twitter: [@plopezlarrubia](https://twitter.com/plopezlarrubia)
 
 ### Biomedical Imaging Laboratory
@@ -32,7 +32,7 @@ We will list only one entry per research institution/center (no duplicates).
 - Clínica Universidad de Navarra. Pamplona, Spain.
 - The **Biomedical Imaging Laboratory** lab works in translational research projects, developing advanced MRI techniques and evaluating their use for disease diagnosis and characterization.
 - Main research topics: *arterial spin labeling, renal imaging, myocardial perfusion, cerebrovascular reactivity*
-- Contact: Maria A. Fernández Seara, [mfseara at unav.es](mailto:mfseara@unav.es)
+- Contact: María A. Fernández Seara, [mfseara at unav.es](mailto:mfseara@unav.es)
 - Website: [https://www.cun.es/nuestros-profesionales/servicios-medicos/radiologia/biomedical-imaging-laboratory/](https://www.cun.es/nuestros-profesionales/servicios-medicos/radiologia/biomedical-imaging-laboratory/)
 
 ### Coimbra Institute for Biomedical Imaging and Translational Research (CIBIT)
@@ -70,8 +70,8 @@ We will list only one entry per research institution/center (no duplicates).
 
 ### Image Processing Lab (LPI)
 
-- University of Valladolid. Castilla y León, Spain.
-- **LPI** is an officially recognized research group by the University of Valladolid and has been considered by the regional government as a Group of Excellence. Its main activity is focused on medical image analysis and biomedical signal processing.
+- Universidad de Valladolid. Castilla y León, Spain.
+- **LPI** is an officially recognized research group by the Universidad de Valladolid and has been considered by the regional government as a Group of Excellence. Its main activity is focused on medical image analysis and biomedical signal processing.
 - Main research topics: *diffusion MRI, acquisition, image processing, cardiac MRI*
 - Contact: Carlos Alberola, [contact at lpi.tel.uva.es](mailto:contact@lpi.tel.uva.es)
 - Website: [http://www.lpi.tel.uva.es/](http://www.lpi.tel.uva.es/)
@@ -89,7 +89,7 @@ We will list only one entry per research institution/center (no duplicates).
 - CIC Biomagune. San Sebastián, Spain.
 - **Molecular and Functional Biomarkers** main interest is cardiovascular diseases. The lab addresses the identification of new (early) imaging, biosignals, and system biology-derived markers helpful in diagnosing and monitoring new treatments
 - Main research topics: *vascular imaging, pulmonary hypertension, atherosclerosis, flow imaging*
-- Contact: Jesus Ruiz-Cabello, [jruizcabello at cicbiomagune.es](mailto:jruizcabello@cicbiomagune.es)
+- Contact: Jesús Ruiz-Cabello, [jruizcabello at cicbiomagune.es](mailto:jruizcabello@cicbiomagune.es)
 - Website: [www.mfbiomarkers.com](https://www.mfbiomarkers.com)
 - Twitter: [@BiomagMfb](https://twitter.com/BiomagMfb)
 
@@ -107,7 +107,7 @@ We will list only one entry per research institution/center (no duplicates).
 - HM CINAC (Centro Integral de Neurociencias Abarca Campal). Madrid, Spain.
 - The **NeuroImaging and Therapeutic UltraSound Group** develops neuroimaging and therapeutic ultrasound research in clinical and preclinical settings with the main objective of developing therapeutic strategies in movement disorders.
 - Main research topics: *clinical neuroimaging, focused ultrasound, drug delivery, non-invasive brain stimulation*
-- Contact: Jose A. Pineda, [jpineda.hmcinac at hmhospitales.com](mailto:jpineda.hmcinac@hmhospitales.com)
+- Contact: José A. Pineda, [jpineda.hmcinac at hmhospitales.com](mailto:jpineda.hmcinac@hmhospitales.com)
 - Website: [https://www.somoshmcinac.com/es/](https://www.somoshmcinac.com/es/)
 
 ### Proaction Lab
@@ -151,7 +151,7 @@ We will list only one entry per research institution/center (no duplicates).
 - Basque Center on Cognition, Brain and Language. Donostia - San Sebastián, Spain.
 - The **SPiN** lab investigates methods and develops novel algorithms for acquisition and analysis of neuroimaging (mostly, MRI) and biomedical data to advance our understanding of the function, structure and physiology in the healthy and diseased human brain.
 - Main research topics: *biomedical signal processing, functional MRI acquisition and analysis, calibrated fMRI, MRI*
-- Contact: Cesar Caballero-Gaudes, [c.caballero at bcbl.eu](mailto:c.caballero@bcbl.eu)
+- Contact: César Caballero-Gaudes, [c.caballero at bcbl.eu](mailto:c.caballero@bcbl.eu)
 - Website: [https://www.bcbl.eu/en/research/research-groups/signal-processing-neuroimaging/](https://www.bcbl.eu/en/research/research-groups/signal-processing-neuroimaging/)
 
 ### Translational Imaging Biomarkers
