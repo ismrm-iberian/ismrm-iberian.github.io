@@ -20,3 +20,4 @@ This information will be shared on our social media networks (e.g. Twitter, webs
 - **June, 2023:** Iberian Chapter Newsletter #4. <a href="https://mailchi.mp/aecb1b7ced36/iberian-chapter-newsletter-10368581" target="_blank">See here.</a>
 - **December, 2023:** Iberian Chapter Newsletter #5. <a href="https://us1.campaign-archive.com/?u=38a08f5a9ced2903aebd74cb6&id=a7ee17b3fc" target="_blank">See here.</a>
 - **June, 2024:**  Iberian Chapter Newsletter #6. <a href="https://us1.campaign-archive.com/?u=38a08f5a9ced2903aebd74cb6&id=f40a1469ce" target="_blank">See here.</a>
+- **June, 2025:**  Iberian Chapter Newsletter #7. <a href="https://us1.campaign-archive.com/?u=38a08f5a9ced2903aebd74cb6&id=f9cd33ba96" target="_blank">See here.</a>
