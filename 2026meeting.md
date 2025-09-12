@@ -13,4 +13,3 @@ summary: "6th ISMRM Iberian Chapter annual meeting | July 2-3, 2026 | Coimbra, P
 
 **Preliminary Program**
 
-<img src="{{ site.baseurl }}/assets/images/2025_programm.png" width="70%"/> -->
