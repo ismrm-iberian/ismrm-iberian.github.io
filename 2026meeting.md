@@ -9,7 +9,3 @@ summary: "6th ISMRM Iberian Chapter annual meeting | July 2-3, 2026 | Coimbra, P
 
 **Location**: University of Coimbra, Coimbra, Portugal
 
-<!-- **Conference website**: <a target="_blank" href="https://events.ibecbarcelona.eu/ismrm-2025/">https://events.ibecbarcelona.eu/ismrm-2025/</a> 
-
-**Preliminary Program**
-
