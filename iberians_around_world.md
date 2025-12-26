@@ -33,3 +33,16 @@ If you are an Iberian doing research outside Iberia and would like your research
 - Contact: Eva Alonso Ortiz, [eva.alonso-ortiz at polymtl.ca](mailto:eva.alonso-ortiz@polymtl.ca)
 - Website: [https://qiml.radiology.wihttps://neuro.polymtl.ca/sc.edu/](https://neuro.polymtl.ca/)
 - Twitter: [@PolyNeuro](https://twitter.com/PolyNeuro)
+
+### In Vivo Imaging - MRI
+
+- The Francis Crick Institute, London, United Kingdom
+- The **IVI** is a service-base platform for Crick scientist (and others), offering support from imaging protocol development/optimization and experimental design, to imaging equipment training.
+- Main research topics: *DCE-MRI, DW-MRI, DTI, Liver Anatomy, Bone-Marrow*
+- Contact: Ana Gomes, [ana.gomes at crick.ac.uk](mailto:ana.gomes@crick.ac.uk)
+- Website: [https://www.crick.ac.uk/research/platforms-and-facilities/biological-research-facility/in-vivo-imaging](https://www.crick.ac.uk/research/platforms-and-facilities/biological-research-facility/in-vivo-imaging)
+
+
+
+
+
