@@ -11,16 +11,16 @@ author: irene
 
 **Location**: University of Coimbra, Coimbra, Portugal
 
-<!-- **Conference website**: <a target="_blank" href="https://events.ibecbarcelona.eu/ismrm-2025/">https://events.ibecbarcelona.eu/ismrm-2025/</a>
+!-- **Conference website**: <a target="_blank" href="https://www.uc.pt/ismrm-iberian-2026/">https://www.uc.pt/ismrm-iberian-2026/</a>
 
 **Preliminary Program**
 
-**Workshop 2nd July 2025**
+**Workshop 1st July 2026**
 
-<img src="{{ site.baseurl }}/assets/images/2nd_july_2025.png" width="100%"/>
+<img src="{{ site.baseurl }}/assets/images/workshop2026.png" width="100%"/>
 
-**Iberian Chapter Annual Meeting 3rd-4th July 2025**
+**Iberian Chapter Annual Meeting 2nd-3rd July 2026**
 
-<img src="{{ site.baseurl }}/assets/images/3rd_july_2025.png" width="100%"/>
+<img src="{{ site.baseurl }}/assets/images/day1_2026.png" width="100%"/>
 
-<img src="{{ site.baseurl }}/assets/images/4th_july_2025.png" width="100%"/> -->
+<img src="{{ site.baseurl }}/assets/images/day2_2026.png" width="100%"/> -->
