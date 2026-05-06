@@ -3,7 +3,7 @@ layout: post
 title: "ISMRM 2026 - Iberian Contributions"
 author: irene
 image: assets/images/cape_town.png
-featured: false
+featured: true
 summary: "Check the Iberian Contributions at ISMRM Cape Town"
 ---
 If you are going to ISMRM in Cape Town, check the abstracts of your Iberian colleagues!
