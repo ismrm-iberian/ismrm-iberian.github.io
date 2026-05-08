@@ -8,6 +8,6 @@ summary: "Check the Iberian Contributions at ISMRM Cape Town"
 ---
 If you are going to ISMRM in Cape Town, check the abstracts of your Iberian colleagues!
 
-<img src="{{ site.baseurl }}/assets/images/Highlight_Abstracts_2026.png" width="100%"/>
+<img src="{{ site.baseurl }}/assets/images/Highlight_Abstracts_2026_v2.png" width="100%"/>
 
 <br />
