@@ -28,7 +28,7 @@ On behalf of the ISMRM Iberian Chapter Committee
 ­
 # **Letter from the Iberian Chapter Meeting Host** <br/>
 
-Our 6th Annual Meeting was held at the beginning of July 2026 in Coimbra, Portugal. The conference took place at the Faculty of Psychology and Educational Sciences of the University of Coimbra (https://www.uc.pt/ismrm-iberian-2026/), an institution dedicated to excellence in research, education, and societal impact. Set within a city celebrated for its rich academic tradition and dynamic scientific community, the venue provides an inspiring setting for scientific exchange, interdisciplinary collaboration, and the development of new ideas.
+Our 6th Annual Meeting was held at the beginning of July 2026 in Coimbra, Portugal. The conference took place at the Faculty of Psychology and Educational Sciences of the University of Coimbra, [web](https://www.uc.pt/ismrm-iberian-2026/), an institution dedicated to excellence in research, education, and societal impact. Set within a city celebrated for its rich academic tradition and dynamic scientific community, the venue provides an inspiring setting for scientific exchange, interdisciplinary collaboration, and the development of new ideas.
 
 For centuries, Coimbra has been a renowned centre of learning, culture, and innovation. Home to one of Europe’s oldest universities and a UNESCO World Heritage Site, the city has long served as a gathering place for scholars, scientists, and visionaries from around the world.
 
@@ -94,7 +94,7 @@ Postdoctoral Representative
 ## Basic information
 Designed and edited by Irene Guadilla, Communication Officer.
 
-Check our [website] (https://ismrm-iberian.eu/) for the latest news about our community.
+Check our [website](https://ismrm-iberian.eu/) for the latest news about our community.
 
 **Join us** <br/>
 Do you want to be part of the Iberian Chapter? Perhaps you are already a member, but have you changed groups, or are you now a full member of the ISMRM? Keep your information updated. Fill [the form](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGLdaZcbc8fEjt36Rebp/vhK-6nWIUZXf)
