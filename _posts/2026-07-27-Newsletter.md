@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Iberian Chapter Newsletter #9
-image: assets/images/newsletter2.png
+image: assets/images/IberianChapterLogo.jpg
 featured: true
 author: irene
 ---
