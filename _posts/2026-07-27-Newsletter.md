@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Iberian Chapter Newsletter #9
 image: assets/images/IberianChapterLogo.jpg
 featured: true
@@ -9,7 +9,7 @@ author: irene
 <img src="{{ site.baseurl }}/assets/images/IberianChapterLogo.jpg" width="100%"/>
 
 ­
-✉️ ## Letter from the Iberian Chapter Committee
+✉️ # **Letter from the Iberian Chapter Committee
 
 Dear Iberian MR Researchers, 
 
@@ -28,7 +28,7 @@ On behalf of the ISMRM Iberian Chapter Committee
 
 
 ­
-✉️ ## Letter from the Iberian Chapter Meeting Host, Joana Carvalho
+✉️ # **Letter from the Iberian Chapter Meeting Host, Joana Carvalho
 
 Our 6th Annual Meeting was held at the beginning of July 2026 in Coimbra, Portugal. The conference took place at the Faculty of Psychology and Educational Sciences of the University of Coimbra (https://www.uc.pt/ismrm-iberian-2026/), an institution dedicated to excellence in research, education, and societal impact. Set within a city celebrated for its rich academic tradition and dynamic scientific community, the venue provides an inspiring setting for scientific exchange, interdisciplinary collaboration, and the development of new ideas.
 
