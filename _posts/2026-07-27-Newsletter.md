@@ -109,4 +109,4 @@ If you want to post an Iberia job position, fill out [this form](https://o7vdk.r
 You can find us in [X](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGgDx05T9d7h1MxKMYMb/4OpJzdq2ldYl), [Instagram](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGn5P8uQKnHB7CG4Kqwr/qmMzYv1bC1dy), [LinkedIn](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGtwrHjNVxQfD1YoJ9X7/ZP3WnmwjuapN) and [Bluesky](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsDhYHcBAabTxPBCI0h7PV/_HiLVx5UpBSR)
 
 
-<img src="{{ site.baseurl }}/assets/images/cat.png" width="100%"/>
+<img src="{{ site.baseurl }}/assets/images/cat.png" width="80%"/>
