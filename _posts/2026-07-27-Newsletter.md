@@ -26,7 +26,7 @@ On behalf of the ISMRM Iberian Chapter Committee
 
 
 ­
-# **Letter from the Iberian Chapter Meeting Host, Joana Carvalho**
+# **Letter from the Iberian Chapter Meeting Host** <br/>
 
 Our 6th Annual Meeting was held at the beginning of July 2026 in Coimbra, Portugal. The conference took place at the Faculty of Psychology and Educational Sciences of the University of Coimbra (https://www.uc.pt/ismrm-iberian-2026/), an institution dedicated to excellence in research, education, and societal impact. Set within a city celebrated for its rich academic tradition and dynamic scientific community, the venue provides an inspiring setting for scientific exchange, interdisciplinary collaboration, and the development of new ideas.
 
@@ -47,16 +47,14 @@ Chair of the 6th Annual Meeting of the ISMRM Iberian Chapter
 
 ## Past Events
 
-**Iberian Labs**
-
+**Iberian Labs** <br/>
 The 4th edition of the MRI Iberian Labs, celebrated on the 5th of February 2026, brought together an impressive lineup of 10 speakers from leading research institutions across Spain and Portugal. The event showcased the diversity of MRI research within the community. Once again, the meeting provided an excellent opportunity to exchange ideas, foster collaborations, and strengthen connections between MRI laboratories. Thank you to all the speakers and attendees. Stay tuned for the next MRI Iberian Labs!
 
 Verónica Aramendia <br/>
 Postdoctoral Representative
 
 
-**Recap Iberians at ISMRM Cape Town**
-
+**Recap Iberians at ISMRM Cape Town** <br/>
 The Iberians were at this year's ISMRM Annual Meeting, held from the 9th to the 14th of May in Cape Town, South Africa. This marks the first time ever that the conference was hosted on the African continent!
 
 Throughout the week, participants had the chance to learn about MR-related research being carried out all over the world. Between the plenary talks and the networking sessions, it was an intense but rewarding week. In the spirit of the meeting's Ubuntu theme (“I am because we are”), there was a special focus on MRI in low-resource settings around the world, with a strong presence of the CAMERA (Consortium for Advancement of MRI Education and Research in Africa) initiative. A highlight was the first-ever hands-on workshop promoted by CAMERA, delivered through the IMAGINE project! Another novelty was the Study Group Day on Sunday, which was a great opportunity to get to know the different study groups without a rush and align on what to prioritise during the week.
@@ -77,9 +75,7 @@ Beatriz Vale <br/>
 Student Representative
 
 
-
-**Recap 6th Annual Meeting of the ISMRM Iberian Chapter**
-
+**Recap 6th Annual Meeting of the ISMRM Iberian Chapter** <br/>
 The highlight of this year was the successful celebration of the 6th Iberian Chapter Annual Meeting, held in early July 2026 at the University of Coimbra, Portugal. The meeting brought together researchers, clinicians, and trainees from across the Iberian Peninsula in the historic and inspiring environment of one of Europe’s oldest universities and a UNESCO World Heritage Site. 
 
 The programme started with the ISMRM Mini Hub Workshop, featuring dedicated sessions on key areas of magnetic resonance research, including spin physics, image reconstruction and analysis, diffusion MRI, cardiovascular MRI, and oncology. These interactive sessions provided an excellent platform for participants to exchange ideas, discuss emerging challenges, and foster new collaborations across the MR community. 
@@ -98,18 +94,18 @@ Postdoctoral Representative
 ## Basic information
 Designed and edited by Irene Guadilla, Communication Officer.
 
-Check our website https://ismrm-iberian.eu/ for the latest news about our community.
+Check our [website] (https://ismrm-iberian.eu/) for the latest news about our community.
 
-**Join us**
+**Join us** <br/>
 Do you want to be part of the Iberian Chapter? Perhaps you are already a member, but have you changed groups, or are you now a full member of the ISMRM? Keep your information updated. Fill [the form](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGLdaZcbc8fEjt36Rebp/vhK-6nWIUZXf)
 
-**Iberian Labs**
+**Iberian Labs** <br/>
 If you would like your research group to be listed on our website, please complete [this form](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGSV2iRYnIoipiLqPxC5/xHv484t_nVGB).
 
-**Jobs**
+**Jobs** <br/>
 If you want to post an Iberia job position, fill out [this form](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGZMUrGVySyCvXeaOFmL/KXSVTmCfVoup). so that we can share it on the website 😄
 
-**Social media**
+**Social media** <br/>
 You can find us in [X](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGgDx05T9d7h1MxKMYMb/4OpJzdq2ldYl), [Instagram](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGn5P8uQKnHB7CG4Kqwr/qmMzYv1bC1dy), [LinkedIn](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGtwrHjNVxQfD1YoJ9X7/ZP3WnmwjuapN) and [Bluesky](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsDhYHcBAabTxPBCI0h7PV/_HiLVx5UpBSR)
 
 
