@@ -21,7 +21,7 @@ Thank you for your continued support and engagement with the Chapter. It was a p
 
 With best regards,
 
-Silvia De Santis and Andrada Ianus
+Silvia De Santis and Andrada Ianus <br/>
 On behalf of the ISMRM Iberian Chapter Committee
 
 
@@ -40,7 +40,7 @@ Beyond the scientific programme, the meeting provided a valuable opportunity to 
 
 Thank you to everyone who attended the workshop and helped make this Chapter meeting such a rich and engaging event, including all the moderators, speakers, presenters, sponsors, and participants. This is a wonderful community with a unique collaborative spirit, and it was a pleasure to see so many of you in Coimbra!
 
-Joana Carvalho
+Joana Carvalho <br/>
 Chair of the 6th Annual Meeting of the ISMRM Iberian Chapter
 ­
 
@@ -51,7 +51,7 @@ Chair of the 6th Annual Meeting of the ISMRM Iberian Chapter
 
 The 4th edition of the MRI Iberian Labs, celebrated on the 5th of February 2026, brought together an impressive lineup of 10 speakers from leading research institutions across Spain and Portugal. The event showcased the diversity of MRI research within the community. Once again, the meeting provided an excellent opportunity to exchange ideas, foster collaborations, and strengthen connections between MRI laboratories. Thank you to all the speakers and attendees. Stay tuned for the next MRI Iberian Labs!
 
-Verónica Aramendia
+Verónica Aramendia <br/>
 Postdoctoral Representative
 
 
@@ -73,7 +73,7 @@ We'll leave you with a few pictures of beautiful Cape Town! Table Mountain was s
 
 <img src="{{ site.baseurl }}/assets/images/newsletter.png" width="100%"/>
 
-Beatriz Vale
+Beatriz Vale <br/>
 Student Representative
 
 
@@ -90,7 +90,7 @@ A particularly engaging moment of the meeting was the round-table discussion, �
 
 Beyond the scientific programme, the meeting provided many opportunities for informal exchange and community building, including a visit to the historic University of Coimbra and its iconic Joanina Library, followed by the conference dinner, which offered a relaxed setting to strengthen existing collaborations and establish new connections. The combination of high-quality science, open discussions, and the distinctive atmosphere of Coimbra contributed to making the 6th Iberian Chapter Annual Meeting a truly memorable event. We sincerely thank the local organizing team, our sponsors, invited speakers, contributors, and all participants for their enthusiasm and commitment in making this meeting such a success. 
 
-Elisa Moya-Sáez
+Elisa Moya-Sáez <br/>
 Postdoctoral Representative
 
 
@@ -100,16 +100,16 @@ Designed and edited by Irene Guadilla, Communication Officer.
 
 Check our website https://ismrm-iberian.eu/ for the latest news about our community.
 
-**Join us
+**Join us**
 Do you want to be part of the Iberian Chapter? Perhaps you are already a member, but have you changed groups, or are you now a full member of the ISMRM? Keep your information updated. Fill [the form](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGLdaZcbc8fEjt36Rebp/vhK-6nWIUZXf)
 
-**Iberian Labs
+**Iberian Labs**
 If you would like your research group to be listed on our website, please complete [this form](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGSV2iRYnIoipiLqPxC5/xHv484t_nVGB).
 
-**Jobs
+**Jobs**
 If you want to post an Iberia job position, fill out [this form](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGZMUrGVySyCvXeaOFmL/KXSVTmCfVoup). so that we can share it on the website 😄
 
-**Social media
+**Social media**
 You can find us in [X](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGgDx05T9d7h1MxKMYMb/4OpJzdq2ldYl), [Instagram](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGn5P8uQKnHB7CG4Kqwr/qmMzYv1bC1dy), [LinkedIn](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/SMK1E8tHeGtwrHjNVxQfD1YoJ9X7/ZP3WnmwjuapN) and [Bluesky](https://o7vdk.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsDhYHcBAabTxPBCI0h7PV/_HiLVx5UpBSR)
 
 
