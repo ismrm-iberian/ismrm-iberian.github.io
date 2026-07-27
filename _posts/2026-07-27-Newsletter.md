@@ -9,7 +9,7 @@ author: irene
 <img src="{{ site.baseurl }}/assets/images/IberianChapterLogo.jpg" width="60%"/>
 
 ­
-# **Letter from the Iberian Chapter Committee
+# **Letter from the Iberian Chapter Committee**
 
 Dear Iberian MR Researchers, 
 
@@ -28,7 +28,7 @@ On behalf of the ISMRM Iberian Chapter Committee
 
 
 ­
-# **Letter from the Iberian Chapter Meeting Host, Joana Carvalho
+# **Letter from the Iberian Chapter Meeting Host, Joana Carvalho**
 
 Our 6th Annual Meeting was held at the beginning of July 2026 in Coimbra, Portugal. The conference took place at the Faculty of Psychology and Educational Sciences of the University of Coimbra (https://www.uc.pt/ismrm-iberian-2026/), an institution dedicated to excellence in research, education, and societal impact. Set within a city celebrated for its rich academic tradition and dynamic scientific community, the venue provides an inspiring setting for scientific exchange, interdisciplinary collaboration, and the development of new ideas.
 
@@ -49,7 +49,7 @@ Chair of the 6th Annual Meeting of the ISMRM Iberian Chapter
 
 ## Past Events
 
-**Iberian Labs
+**Iberian Labs**
 
 The 4th edition of the MRI Iberian Labs, celebrated on the 5th of February 2026, brought together an impressive lineup of 10 speakers from leading research institutions across Spain and Portugal. The event showcased the diversity of MRI research within the community. Once again, the meeting provided an excellent opportunity to exchange ideas, foster collaborations, and strengthen connections between MRI laboratories. Thank you to all the speakers and attendees. Stay tuned for the next MRI Iberian Labs!
 
@@ -57,7 +57,7 @@ Verónica Aramendia
 Postdoctoral Representative
 
 
-**Recap Iberians at ISMRM Cape Town
+**Recap Iberians at ISMRM Cape Town**
 
 The Iberians were at this year's ISMRM Annual Meeting, held from the 9th to the 14th of May in Cape Town, South Africa. This marks the first time ever that the conference was hosted on the African continent!
 
@@ -80,7 +80,7 @@ Student Representative
 
 
 
-**Recap 6th Annual Meeting of the ISMRM Iberian Chapter
+**Recap 6th Annual Meeting of the ISMRM Iberian Chapter**
 
 The highlight of this year was the successful celebration of the 6th Iberian Chapter Annual Meeting, held in early July 2026 at the University of Coimbra, Portugal. The meeting brought together researchers, clinicians, and trainees from across the Iberian Peninsula in the historic and inspiring environment of one of Europe’s oldest universities and a UNESCO World Heritage Site. 
 
