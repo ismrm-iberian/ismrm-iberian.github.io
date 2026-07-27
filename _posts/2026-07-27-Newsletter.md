@@ -6,8 +6,6 @@ featured: true
 author: irene
 ---
 
-<img src="{{ site.baseurl }}/assets/images/IberianChapterLogo.jpg" width="60%"/>
-
 ­
 # **Letter from the Iberian Chapter Committee**
 
