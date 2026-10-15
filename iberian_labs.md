@@ -163,3 +163,11 @@ We will list only one entry per research institution/center (no duplicates).
 - Website: [https://in.umh-csic.es/en/grupos/translational-imaging-biomarkers/](https://in.umh-csic.es/en/grupos/translational-imaging-biomarkers/)
 - Twitter: [@LabMri](https://twitter.com/LabMri)
 
+### Quantitative Microstructure MRI Lab (QM-MRI Lab) – SiPBA
+
+- Universidad de Granada. Granada, Spain.
+- The **SiPBA** research group develops advanced methods for biomedical signal and image analysis, including statistical signal processing, machine learning, artificial intelligence, and quantitative medical imaging.
+- Main research topics: *Brain microstructure; Diffusion MRI; Quantitative relaxometry; Myelin water imaging; Biophysical modeling; Quantitative MRI*
+- Contact: Erick Canales, [ejcanalesr at ugr.es](mailto:ejcanalesr@ugr.es)
+- Website: [https://sipba.ugr.es/research/](https://sipba.ugr.es/research/)
+
